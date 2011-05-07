@@ -1,7 +1,7 @@
 (dp0
-(S'|What is the wingspa'
+(S'|Where is Belize loc'
 p1
-S'|Two eggs laid by ca'
+S'|FOR MORE than 40 ye'
 p2
 tp3
 (cnumpy.core.multiarray
@@ -23,948 +23,948 @@ NNNI-1
 I-1
 I0
 tp10
-bS'\x00\x00\x00\x00\x00\x003@'
+bS'\x00\x00\x00\x00\x00\x001@'
 p11
 tp12
 Rp13
-S'at is |the| ||||wing|span of a| '
+S' Belize lo'
 p14
-S"ate's other breeding station at "
+S' Belize wo'
 p15
-(I2
-I338
+(I8
+I412
 tp16
-(I26
-I370
+(I18
+I422
 tp17
 tp18
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p19
-S'|Mission specialist '
+S'|Tracey Ferrell , th'
 p20
 tp21
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80B@'
+S'\x00\x00\x00\x00\x00\x008@'
 p22
 tp23
 Rp24
-S'hat was t||he|| |||name of the |fir||||s||||t||||| Russian a|||||s|tr|onaut to |||do|| a spacewalk'
+S'at|| wa|s the ball game|| of ancient Mayans c'
 p25
-S'h|t |is to help operate||| the Astro observatory , Hoffman also is train|ed to perform a spacewalk'
+S'ated |and the||||| ||rest of ||the|| Mayan| c'
 p26
-(I1
-I495
+(I2
+I1133
 tp27
-(I66
-I587
+(I42
+I1165
 tp28
 tp29
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p30
-S'|Language : <f p= "1'
+S'|<p> The massive par'
 p31
 tp32
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00G@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p33
 tp34
 Rp35
-S' wa||s the |name of| the first |||Russi||||||an||||||| astronaut| to do a '
+S'ere did bocci o'
 p36
-S' marks the en||d of  the first ever flight when U .S . astronauts |and| a '
+S'ery big so|ci|o'
 p37
-(I4
-I302
+(I2
+I304
 tp38
-(I57
-I372
+(I17
+I317
 tp39
 tp40
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p41
-S'|<p> Mandan , the se'
+S'|BFN   <f p= "106 ">'
 p42
 tp43
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x002@'
 p44
 tp45
 Rp46
-S' is the |||wingspan of '
+S' Belize loca'
 p47
-S' is the sibling|||| of '
+S' Belize toda'
 p48
-(I4
-I2819
+(I8
+I93
 tp49
-(I24
-I2838
+(I20
+I105
 tp50
 tp51
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p52
-S"|While Sun's new wor"
+S'|Language : <f p= "1'
 p53
 tp54
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00G@'
 p55
 tp56
 Rp57
-S' |o|ld is|||| the '
+S' wa||s the |name of| the first |||Russi||||||an||||||| astronaut| to do a '
 p58
-S' could |stall the '
+S' marks the en||d of  the first ever flight when U .S . astronauts |and| a '
 p59
-(I3
-I3038
+(I4
+I302
 tp60
-(I15
-I3055
+(I57
+I372
 tp61
 tp62
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p63
-S'|<p> The massive par'
+S'| "I hope you don\'t '
 p64
 tp65
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p66
 tp67
 Rp68
-S'ere did bocci o'
+S'of the first Russi|an as'
 p69
-S'ery big so|ci|o'
+S'ok the first American |s'
 p70
-(I2
-I304
+(I18
+I1239
 tp71
-(I17
-I317
+(I41
+I1262
 tp72
 tp73
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p74
-S'|Space shuttle Atlan'
+S'|BFN     [Text] Let '
 p75
 tp76
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80C@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p77
 tp78
 Rp79
-S'hat wa|s|| the ||||||name|| of the f|irst |Russian '
+S'i |or|ig|||in|ate'
 p80
-S'hat caused the postponement of the flight Thursday '
+S'i Foreign Ministe'
 p81
-(I1
-I780
+(I14
+I470
 tp82
-(I39
-I831
+(I25
+I487
 tp83
 tp84
-s(S'|Where is Belize loc'
+s(S'|Who invented basket'
 p85
-S'|VISITORS arriving a'
+S"|IT'S LUNCH TIME AT "
 p86
 tp87
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x009@'
 p88
 tp89
 Rp90
-S'he|r||e ||i|s Belize loca'
+S'n|t|ed basketball'
 p91
-S'he role which Belize ||ca'
+S'n the| basketball'
 p92
-(I1
-I2893
+(I8
+I3136
 tp93
-(I20
-I2916
+(I23
+I3152
 tp94
 tp95
-s(S'|Where is Belize loc'
+s(S'|What is the wingspa'
 p96
-S'|WHILE civil war rav'
+S'|Four young Andean c'
 p97
 tp98
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x004@'
 p99
 tp100
 Rp101
-S'ere|||| is Belize '
+S' the wingspan of a condor'
 p102
-S'erendum in Belize '
+S' the |An|dean||||| condor'
 p103
-(I2
-I2053
+(I7
+I287
 tp104
-(I16
-I2071
+(I32
+I305
 tp105
 tp106
-s(S'|What is the wingspa'
+s(S"|What's the average "
 p107
-S'|<p> Wildlife offici'
+S"|We're having some p"
 p108
 tp109
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x00@@'
 p110
 tp111
 Rp112
-S't |is the wings||pa|n of a condor'
+S' the averag||||||e||| salary of'
 p113
-S't was the fi|rst laid by a condor'
+S" the average player's salary |f"
 p114
-(I3
-I193
+(I6
+I3470
 tp115
-(I32
-I225
+(I28
+I3500
 tp116
 tp117
-s(S'|albacore'
+s(S'|Where did bocci ori'
 p118
-S'|bacon'
+S'|BFN     [Text] The '
 p119
 tp120
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00 @'
+S'\x00\x00\x00\x00\x00\x00*@'
 p121
 tp122
 Rp123
-S'baco'
+S'here di|d b'
 p124
-S'baco'
+S'here will b'
 p125
-(I2
-I0
+(I1
+I485
 tp126
-(I6
-I4
+(I11
+I496
 tp127
 tp128
-s(S'|albacore'
+s(S'|Where is Belize loc'
 p129
-S'|baecon'
+S'|MR George Price , p'
 p130
 tp131
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00\x1c@'
+S'\x00\x00\x00\x00\x00\x003@'
 p132
 tp133
 Rp134
-S'ba|co'
+S'ere is Belize '
 p135
-S'baeco'
+S'er| of Belize '
 p136
 (I2
-I0
+I30
 tp137
-(I6
-I5
+(I16
+I43
 tp138
 tp139
-s(S'|How old is the sun?'
+s(S"|Where's Montenegro?"
 p140
-S'|At the same time , '
+S'|BFN     [Text] Tira'
 p141
 tp142
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x009@'
 p143
 tp144
 Rp145
-S' o|ld is the '
+S"er|e's Montenegro"
 p146
-S' only in the '
+S'ercept Montenegro'
 p147
-(I3
-I5940
+(I2
+I259
 tp148
-(I15
-I5953
+(I18
+I276
 tp149
 tp150
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p151
-S'|Italian voters deal'
+S'|A Boy Scout who cra'
 p152
 tp153
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x008@'
 p154
 tp155
 Rp156
-S'e did bocci |originate'
+S'ingspan of|| ||a| condor'
 p157
-S'e led |o||r do||minate'
+S'ings||| of a real condor'
 p158
-(I4
-I836
+(I13
+I2584
 tp159
-(I25
-I853
+(I32
+I2605
 tp160
 tp161
-s(S'|Where is Belize loc'
+s(S"|What's the average "
 p162
-S"|GUATEMALA'S Congres"
+S'|<p> The tranquility'
 p163
 tp164
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x009@'
 p165
 tp166
 Rp167
-S'here is Belize '
+S'age salary of a pr|ofession|||al bas|e|ball player'
 p168
-S'held in Belize '
+S'ate salary||| a||rbitration , a| system the Player'
 p169
-(I1
-I566
+(I15
+I2731
 tp170
-(I16
-I581
+(I59
+I2775
 tp171
 tp172
-s(S'|What is the wingspa'
+s(S"|What's the average "
 p173
-S'|Stress is believed '
+S'|Rookie ball is the '
 p174
 tp175
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x00C@'
 p176
 tp177
 Rp178
-S' |the| |wingsp|an||| |of a| condor'
+S' the average salary |of |a professional baseball '
 p179
-S' other tran|splanted Andean condor'
+S' the sport , |but I got to professional ||||ball '
 p180
-(I7
-I191
+(I6
+I4905
 tp181
-(I32
-I224
+(I53
+I4949
 tp182
 tp183
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p184
-S'| "I hope you don\'t '
+S'|VIEWPOINT 93; Sadda'
 p185
 tp186
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x009@'
 p187
 tp188
 Rp189
-S'of the first Russi|an as'
+S' the ball ga|me of ancient Mayans c'
 p190
-S'ok the first American |s'
+S' the coll||apse of|||||||| Mayan| c'
 p191
-(I18
-I1239
+(I8
+I5633
 tp192
-(I41
-I1262
+(I42
+I5657
 tp193
 tp194
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p195
-S'|The first egg produ'
+S'|The other new subsi'
 p196
 tp197
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p198
 tp199
 Rp200
-S' th||e|| wingspan of a'
+S'ld is the sun'
 p201
-S' |have a wingspan of a'
+S'll be the |un'
 p202
-(I7
-I1269
+(I5
+I266
 tp203
-(I25
-I1290
+(I18
+I278
 tp204
 tp205
-s(S'|Where is Belize loc'
+s(S'|What was the ball g'
 p206
-S'|Prime Minister Manu'
+S"|'Now this ,' said S"
 p207
 tp208
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00C@'
 p209
 tp210
 Rp211
-S'ere is Belize '
+S' the ball game of|||| ancient Mayans '
 p212
-S'ery to Belize '
+S' the |||l||ure of the ancient Maya|s '
 p213
-(I2
-I624
+(I8
+I4040
 tp214
-(I16
-I638
+(I41
+I4071
 tp215
 tp216
-s(S'|How old is the sun?'
+s(S"|What's the average "
 p217
-S'|Nevertheless ,  "Th'
+S'|On Aug . 31 , an ar'
 p218
 tp219
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x80D@'
 p220
 tp221
 Rp222
-S' is the '
+S' the average salary |o'
 p223
-S' in the '
+S' the average salary bo'
 p224
-(I7
-I624
+(I6
+I1905
 tp225
-(I15
-I632
+(I27
+I1927
 tp226
 tp227
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p228
-S'|Wildlife officials '
+S'|Matsushita Electric'
 p229
 tp230
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p231
 tp232
 Rp233
-S' |i||s ||the wingspan| '
+S'ow |old is the '
 p234
-S' birds with| wingspans '
+S'on sale in the '
 p235
-(I4
-I698
+(I1
+I1582
 tp236
-(I21
-I720
+(I15
+I1597
 tp237
 tp238
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p239
-S'|Four young Andean c'
+S'|<p> Fact : Until th'
 p240
 tp241
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p242
 tp243
 Rp244
-S' the wingspan of a condor'
+S'ho| in||||vented basketball'
 p245
-S' the |An|dean||||| condor'
+S'how in colle|ge| basketball'
 p246
-(I7
-I287
+(I1
+I3837
 tp247
-(I32
-I305
+(I23
+I3862
 tp248
 tp249
-s(S'|Where did bocci ori'
+s(S'|What was the ball g'
 p250
-S'|Language : <f p= "1'
+S'|THE quincentenary o'
 p251
 tp252
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p253
 tp254
 Rp255
-S'here did bo|c'
+S' the ball ga|||me||||||||| of ancient M||ayans ca'
 p256
-S'here |is no c'
+S' the last major exhibition of ancient Mexican| |a'
 p257
-(I1
-I3313
+(I8
+I852
 tp258
-(I13
-I3325
+(I43
+I899
 tp259
 tp260
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p261
-S'|BFN     [Text] The '
+S'|The Lexington Avenu'
 p262
 tp263
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x80F@'
 p264
 tp265
 Rp266
-S'here di|d b'
+S' the average salary |of a p'
 p267
-S'here will b'
+S' The average salary for a p'
 p268
-(I1
-I485
+(I6
+I3790
 tp269
-(I11
-I496
+(I32
+I3817
 tp270
 tp271
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p272
-S'|Two cosmonauts left'
+S'|Belize says neighbo'
 p273
 tp274
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x005@'
 p275
 tp276
 Rp277
-S't was the name| o|||f the first Russia||n|| astrona|ut|| t||||||||||o do a||| space|walk'
+S'e| is Belize lo'
 p278
-S"t |to the telescope , the |Tass news agency |said at the time .    In today's space walk"
+S'ed in Belize to'
 p279
-(I3
-I698
+(I4
+I606
 tp280
-(I66
-I783
+(I18
+I621
 tp281
 tp282
-s(S'|Where is Belize loc'
+s(S'|What is the wingspa'
 p283
-S'|MR George Price , p'
+S'|Removing the egg fr'
 p284
 tp285
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p286
 tp287
 Rp288
-S'ere is Belize '
+S' the wingspan of a condor'
 p289
-S'er| of Belize '
+S' the wi||||ld |, a condor'
 p290
-(I2
-I30
+(I7
+I118
 tp291
-(I16
-I43
+(I32
+I138
 tp292
 tp293
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p294
-S'|A tiny , pale aqua '
+S'|For years , Mr . Ha'
 p295
 tp296
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x004@'
 p297
 tp298
 Rp299
-S' is the win|gspa|n o|f a condor'
+S'nvent|ed basketball'
 p300
-S' is the |only California condor'
+S'nment -- bas|e|ball'
 p301
-(I4
-I1162
+(I5
+I1535
 tp302
-(I32
-I1192
+(I23
+I1552
 tp303
 tp304
-s(S"|Where's Montenegro?"
+s(S'|How old is the sun?'
 p305
-S'|BFN     [Text] Tira'
+S'|The upstart company'
 p306
 tp307
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x000@'
 p308
 tp309
 Rp310
-S"er|e's Montenegro"
+S' |old |i||s the s'
 p311
-S'ercept Montenegro'
+S' four times the s'
 p312
-(I2
-I259
+(I3
+I2659
 tp313
-(I18
-I276
+(I16
+I2676
 tp314
 tp315
 s(S'|Where did bocci ori'
 p316
-S'|THE HISTORY of La B'
+S'|<p> A year go , Twy'
 p317
 tp318
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p319
 tp320
 Rp321
-S'ere did boc'
+S'ere did boc|ci |originate'
 p322
-S'ere had bec'
+S'er| ||, become more in|te'
 p323
 (I2
-I1288
+I3066
 tp324
-(I13
-I1299
+(I25
+I3087
 tp325
 tp326
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p327
-S'|On the other , ther'
+S'|The solar panels on'
 p328
 tp329
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x80A@'
 p330
 tp331
 Rp332
-S'Where '
+S' astronau||||t||||||||| to ||do a spacewalk'
 p333
-S'Where '
+S' astronauts standing by to take a spacewalk'
 p334
-(I0
-I3704
+(I38
+I265
 tp335
-(I6
-I3710
+(I66
+I308
 tp336
 tp337
-s(S'|Where is Belize loc'
+s(S'|What was the ball g'
 p338
-S'|BFN     [Text] Yest'
+S'|The tomb contained '
 p339
 tp340
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p341
 tp342
 Rp343
-S'ere |is Belize lo'
+S' the ball game of ancient Mayans c'
 p344
-S'er| the Belize Co'
+S' the fall||||| of ||the|| Mayan| c'
 p345
-(I2
-I672
+(I8
+I2442
 tp346
-(I18
-I688
+(I42
+I2466
 tp347
 tp348
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p349
-S"|It's a big bird . A"
+S'|The first of a stri'
 p350
 tp351
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x003@'
 p352
 tp353
 Rp354
-S'hat| is the wingspan of a '
+S'ere is Belize '
 p355
-S'h|ts on the wings||| |, a '
+S'er| of Belize '
 p356
-(I1
-I216
+(I2
+I720
 tp357
-(I26
-I237
+(I16
+I733
 tp358
 tp359
 s(S'|What was the name o'
 p360
-S'|A still-unexplained'
+S'|A new space race is'
 p361
 tp362
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x00B@'
 p363
 tp364
 Rp365
-S' the first Russian as'
+S'an| astronaut ||||||to do a||||| spacewalk'
 p366
-S' the first mission |s'
+S'and astronaut Spring , in a 1985 spacewalk'
 p367
-(I20
-I3407
+(I36
+I5601
 tp368
-(I41
-I3427
+(I66
+I5643
 tp369
 tp370
-s(S"|Where's Montenegro?"
+s(S'|What was the name o'
 p371
-S'|BFN     [Excerpts] '
+S"|In ``hush-hush'' su"
 p372
 tp373
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p374
 tp375
 Rp376
-S"ere's|| Montenegro"
+S' astronaut| ||to ||do a spacewal'
 p377
-S'er||s . Montenegro'
+S' astronauts will test a spec|ial'
 p378
-(I2
-I2038
+(I38
+I3641
 tp379
-(I18
-I2054
+(I65
+I3672
 tp380
 tp381
-s(S'|Where is Belize loc'
+s(S'|Where did bocci ori'
 p382
-S'|BFN   <f p= "106 ">'
+S'|The finances have h'
 p383
 tp384
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x000@'
 p385
 tp386
 Rp387
-S' Belize loca'
+S' origina'
 p388
-S' Belize toda'
+S' origina'
 p389
-(I8
-I93
+(I15
+I2158
 tp390
-(I20
-I105
+(I23
+I2166
 tp391
 tp392
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p393
-S'|The other new subsi'
+S'|Here are brief sket'
 p394
 tp395
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p396
 tp397
 Rp398
-S'ld is the sun'
+S' astronaut ||||to ||do |||a spacewa'
 p399
-S'll be the |un'
+S' astronaut first| flew into space a'
 p400
-(I5
-I266
+(I38
+I665
 tp401
-(I18
-I278
+(I64
+I699
 tp402
 tp403
-s(S'|What is the wingspa'
+s(S"|What's the average "
 p404
-S'|A hungry bundle of '
+S'|Thursday night in B'
 p405
 tp406
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x00C@'
 p407
 tp408
 Rp409
-S'hat is the wingspan of |a co'
+S' the ave||rage s|alary of ||a professional baseball player'
 p410
-S'ha|||s ||a wingspan of up to'
+S' the |regula|r sea|son |, 672 profession||||||||a|l player'
 p411
-(I1
-I3113
+(I6
+I662
 tp412
-(I28
-I3136
+(I59
+I707
 tp413
 tp414
-s(S'|Where is Belize loc'
+s(S"|Where's Montenegro?"
 p415
-S'|PORING OVER the pag'
+S'|BFN     [Excerpts] '
 p416
 tp417
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x008@'
 p418
 tp419
 Rp420
-S'r|e| is Belize '
+S"ere's|| Montenegro"
 p421
-S'rced in Belize '
+S'er||s . Montenegro'
 p422
-(I3
-I2818
+(I2
+I2038
 tp423
-(I16
-I2833
+(I18
+I2054
 tp424
 tp425
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p426
-S'|If the New York Cit'
+S'|From the beach , a '
 p427
 tp428
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x80E@'
 p429
 tp430
 Rp431
-S'here |did bocci originate'
+S' the ||average salar|y of |||a professional baseball player'
 p432
-S'her| hand ||||, originate'
+S' the sta||r||k |a|erie of Dick |Mo||ss||| , baseball player'
 p433
-(I1
-I1165
+(I6
+I92
 tp434
-(I25
-I1185
+(I59
+I139
 tp435
 tp436
-s(S'|Where is Belize loc'
+s(S'|Where did bocci ori'
 p437
-S'|BFN     [Text] Pres'
+S'|After he came to Am'
 p438
 tp439
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x00&@'
 p440
 tp441
 Rp442
-S' is Belize||| located'
+S'here |di|d bo'
 p443
-S' in Pe||ten , located'
+S'her| tried to'
 p444
-(I5
-I1417
+(I1
+I858
 tp445
-(I23
-I1436
+(I12
+I870
 tp446
 tp447
-s(S'|What was the name o'
+s(S'|Who invented basket'
 p448
-S'|Chunks of shrapnel '
+S'|There is a select g'
 p449
 tp450
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x008@'
 p451
 tp452
 Rp453
-S't was the |name of the |first Rus|sian astronaut| to do |a'
+S't|ed basketball'
 p454
-S't was ||a flake of the pai|nt |used on |||rockets |and| pa'
+S'the| basketball'
 p455
-(I3
-I3121
+(I9
+I1291
 tp456
-(I56
-I3170
+(I23
+I1305
 tp457
 tp458
-s(S'|Where is Belize loc'
+s(S'|How old is the sun?'
 p459
-S'|The British governm'
+S'|Sun is fortunate Mr'
 p460
 tp461
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x003@'
 p462
 tp463
 Rp464
-S'e| is Belize lo|c||ate'
+S' |old |is the '
 p465
-S'ed in Belize to counte'
+S' told him the '
 p466
-(I4
-I526
+(I3
+I4038
 tp467
-(I22
-I548
+(I15
+I4052
 tp468
 tp469
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p470
-S'|Up to 10 spacewalks'
+S'|A University of Ore'
 p471
 tp472
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80E@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p473
 tp474
 Rp475
-S'hat ||||was the name of |the first Russian astronaut| to| do a'
+S'e di|d |bocci ||originate'
 p476
-S'hat much of the time of at|| least ||||two astronauts |on bo|a'
+S'e city should coor|dinate'
 p477
-(I1
-I1305
+(I4
+I374
 tp478
-(I56
-I1359
+(I25
+I398
 tp479
 tp480
 s(S'|How old is the sun?'
 p481
-S'|Matsushita Electric'
+S'| "This makes it dif'
 p482
 tp483
 (g4
@@ -973,218 +973,218 @@ S'\x00\x00\x00\x00\x00\x00.@'
 p484
 tp485
 Rp486
-S'ow |old is the '
+S' |old|| is||| the '
 p487
-S'on sale in the '
+S' to|day is on the '
 p488
-(I1
-I1582
+(I3
+I788
 tp489
 (I15
-I1597
+I805
 tp490
 tp491
-s(S"|Where's Montenegro?"
+s(S'|What was the name o'
 p492
-S'|CSO       [Editoria'
+S'|Astronauts Jerry L '
 p493
 tp494
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p495
 tp496
 Rp497
-S' Montenegro'
+S' was the |name o|f the first Russian astronaut to'
 p498
-S' Montenegro'
+S' was ||a pla|tform th|||||at ||||the astronaut ho'
 p499
-(I7
-I257
+(I4
+I1089
 tp500
-(I18
-I268
+(I51
+I1126
 tp501
 tp502
-s(S'|Where is Belize loc'
+s(S'|What was the name o'
 p503
-S'|CONSERVATION and to'
+S'| "Very nice braking'
 p504
 tp505
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00D@'
 p506
 tp507
 Rp508
-S' is Belize '
+S' the |||||na||||me of the| first Russian |a||||st|r||onaut to do a||| space|walk'
 p509
-S' in Belize '
+S" the antenna loose |, then ||got |||||an early start on||| to|d||ay's space-walk"
 p510
-(I5
-I54
+(I8
+I815
 tp511
-(I16
-I65
+(I66
+I881
 tp512
 tp513
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p514
-S'|The Ventura agreeme'
+S'|About 30 food booth'
 p515
 tp516
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00$@'
 p517
 tp518
 Rp519
-S'ow ||old is the |s'
+S' bocc'
 p520
-S'o| broad|en the us'
+S' bocc'
 p521
-(I1
-I59
+(I9
+I96
 tp522
-(I16
-I75
+(I14
+I101
 tp523
 tp524
-s(S'|Where is Belize loc'
+s(S'|When was Microsoft '
 p525
-S'|THE opposition in B'
+S'|The US software ind'
 p526
 tp527
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p528
 tp529
 Rp530
-S'ere is Belize '
+S' was Microsoft '
 p531
-S'ers in Belize '
+S' |as Microsoft '
 p532
-(I2
-I647
+(I4
+I2302
 tp533
-(I16
-I661
+(I19
+I2316
 tp534
 tp535
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p536
-S'|<p> An egg laid Sun'
+S'| "A guy jumps you ,'
 p537
 tp538
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x006@'
 p539
 tp540
 Rp541
-S'at| is the wingspa||n|| |of a condor'
+S' basketball'
 p542
-S'ate in the ||||season , so|me condor'
+S' basketball'
 p543
-(I2
-I1446
+(I12
+I827
 tp544
-(I32
-I1477
+(I23
+I838
 tp545
 tp546
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p547
-S"|<p> There's a littl"
+S'|<p> The California '
 p548
 tp549
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00P@'
 p550
 tp551
 Rp552
-S'e| |did bocci '
+S' the average salary of a professional baseball player'
 p553
-S'el hair bocca '
+S' the ||longe|st  given a professional baseball player'
 p554
-(I4
-I1045
+(I6
+I628
 tp555
-(I16
-I1059
+(I59
+I678
 tp556
 tp557
-s(S'|Where is Belize loc'
+s(S'|How old is the sun?'
 p558
-S'|Belize says neighbo'
+S'|Revenue for the fou'
 p559
 tp560
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p561
 tp562
 Rp563
-S'e| is Belize lo'
+S' |old i|s '
 p564
-S'ed in Belize to'
+S' sold its '
 p565
-(I4
-I606
+(I3
+I653
 tp566
-(I18
-I621
+(I11
+I663
 tp567
 tp568
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p569
-S'|Removing the egg fr'
+S'|Fans across America'
 p570
 tp571
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x00A@'
 p572
 tp573
 Rp574
-S' the wingspan of a condor'
+S' invented basketball'
 p575
-S' the wi||||ld |, a condor'
+S' invented bas|e|ball'
 p576
-(I7
-I118
+(I3
+I805
 tp577
-(I32
-I138
+(I23
+I823
 tp578
 tp579
-s(S'|Where is Belize loc'
+s(S'|What is the wingspa'
 p580
-S"|BELIZE'S new govern"
+S'|The first of two he'
 p581
 tp582
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x004@'
 p583
 tp584
 Rp585
-S'ere| is Belize |locate'
+S' the wingspa|n of ||a| |c'
 p586
-S'ered by Belize , Guate'
+S' the vang|uard of what sc'
 p587
-(I2
-I1276
+(I7
+I1139
 tp588
-(I22
-I1298
+(I27
+I1163
 tp589
 tp590
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p591
-S'|The upstart company'
+S'|Festivals and fairs'
 p592
 tp593
 (g4
@@ -1193,1494 +1193,1494 @@ S'\x00\x00\x00\x00\x00\x000@'
 p594
 tp595
 Rp596
-S' |old |i||s the s'
+S' origina'
 p597
-S' four times the s'
+S' origina'
 p598
-(I3
-I2659
+(I15
+I37
 tp599
-(I16
-I2676
+(I23
+I45
 tp600
 tp601
-s(S'|How old is the sun?'
+s(S'|When was Microsoft '
 p602
-S'|COMPUTER workstatio'
+S'|Novell , the US net'
 p603
 tp604
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p605
 tp606
 Rp607
-S' is the '
+S'en w|as Microsoft |est'
 p608
-S' is the '
+S'e| when Microsoft next'
 p609
-(I7
-I1957
+(I2
+I765
 tp610
-(I15
-I1965
+(I22
+I786
 tp611
 tp612
-s(S'|Where did bocci ori'
+s(S'|What was the ball g'
 p613
-S'|Brant unveils tonig'
+S'|The scene is from a'
 p614
 tp615
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p616
 tp617
 Rp618
-S' bocci '
+S' the ba||ll game of|||| ancient||||||| Mayans '
 p619
-S' bocci '
+S' the sacred book of the ancient Quiche Maya|s '
 p620
-(I9
-I3574
+(I8
+I2322
 tp621
-(I16
-I3581
+(I41
+I2367
 tp622
 tp623
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p624
-S'|The Gamma Ray Obser'
+S'|<p> Almost 1 ,000 l'
 p625
 tp626
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p627
 tp628
 Rp629
-S't wa|s the |name of the first|| Russia||n astronaut| '
+S't was the ball game of an|cient Mayans cal'
 p630
-S't have t|o leave||| the shuttle ||today , astronauts '
+S't was t|o |||create |a unifie|d Mayan| |al'
 p631
 (I3
-I835
+I2244
 tp632
-(I49
-I882
+(I44
+I2278
 tp633
 tp634
-s(S'|Where did bocci ori'
+s(S'|What was the ball g'
 p635
-S'|<p> At the unpreced'
+S'|<p> The striking be'
 p636
 tp637
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p638
 tp639
 Rp640
-S'd bocci orig||inat'
+S' the bal||l game |of ancien|||||t|||||||| Mayans calle'
 p641
-S'd local or|ganizat'
+S' the b|lood |||. The ancient martyrdom of Mayan| ma|le'
 p642
 (I8
-I8374
+I2512
 tp643
-(I24
-I8391
+(I46
+I2560
 tp644
 tp645
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p646
-S'|One zoo-hatched And'
+S'|THE Guatemalan gove'
 p647
 tp648
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x000@'
 p649
 tp650
 Rp651
-S' the wingspan of a condor'
+S' Belize '
 p652
-S' the |An|dean||||| condor'
+S' Belize '
 p653
-(I7
-I1188
+(I8
+I2705
 tp654
-(I32
-I1206
+(I16
+I2713
 tp655
 tp656
-s(S'|What was the name o'
+s(S"|Where's Montenegro?"
 p657
-S'|The solar panels on'
+S'|Language : <f p= "1'
 p658
 tp659
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x008@'
 p660
 tp661
 Rp662
-S' astronau||||t||||||||| to ||do a spacewalk'
+S's Montenegro'
 p663
-S' astronauts standing by to take a spacewalk'
+S's Montenegro'
 p664
-(I38
-I265
+(I6
+I4647
 tp665
-(I66
-I308
+(I18
+I4659
 tp666
 tp667
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p668
-S'|<p> As result of in'
+S'|It was Labour Day y'
 p669
 tp670
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x80N@'
 p671
 tp672
 Rp673
-S' origina'
+S' s|alary |o|f a professional baseball player'
 p674
-S' origina'
+S" shal||t not' . Professional baseball player"
 p675
-(I15
-I75
+(I18
+I51
 tp676
-(I23
-I83
+(I59
+I93
 tp677
 tp678
-s(S'|What is the wingspa'
+s(S"|Where's Montenegro?"
 p679
-S'|Four Andean condors'
+S'|CSO   <f p= "106 ">'
 p680
 tp681
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x006@'
 p682
 tp683
 Rp684
-S'at|| |is th|e wingspan '
+S' Montenegro'
 p685
-S'ater wi||th a wingspan '
+S' Montenegro'
 p686
-(I2
-I512
+(I7
+I1326
 tp687
-(I21
-I533
+(I18
+I1337
 tp688
 tp689
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p690
-S'|One of four Andean '
+S"|While Sun's new wor"
 p691
 tp692
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p693
 tp694
 Rp695
-S'at||| is the wingspa|n o|f a condor'
+S' |o|ld is|||| the '
 p696
-S'ative to the |||||California condor'
+S' could |stall the '
 p697
-(I2
-I788
+(I3
+I3038
 tp698
-(I32
-I818
+(I15
+I3055
 tp699
 tp700
 s(S'|Where is Belize loc'
 p701
-S'|The first of a stri'
+S'|BELIZE holds a gene'
 p702
 tp703
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x001@'
 p704
 tp705
 Rp706
-S'ere is Belize '
+S're is Belize '
 p707
-S'er| of Belize '
+S'r| to Belize '
 p708
-(I2
-I720
+(I3
+I645
 tp709
 (I16
-I733
+I657
 tp710
 tp711
 s(S'|Where did bocci ori'
 p712
-S'|They do these thing'
+S"|A dancer's life is "
 p713
 tp714
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p715
 tp716
 Rp717
-S'e did bocc||i o'
+S'e did bo'
 p718
-S'endid |occasi|o'
+S'e did no'
 p719
 (I4
-I607
+I1829
 tp720
-(I17
-I620
+(I12
+I1837
 tp721
 tp722
-s(S'|What was the name o'
+s(S'|When was Microsoft '
 p723
-S'|Two cosmonauts whos'
+S'|Microsoft Corp . an'
 p724
 tp725
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00B@'
+S'\x00\x00\x00\x00\x00\x006@'
 p726
 tp727
 Rp728
-S'hat was the name| of the first Russia|n|| |astronaut t'
+S' Microsoft '
 p729
-S'hat was trumpeted as the first ||||manned mission in t'
+S' Microsoft '
 p730
-(I1
-I956
+(I8
+I650
 tp731
-(I50
-I1006
+(I19
+I661
 tp732
 tp733
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p734
-S"|In ``hush-hush'' su"
+S'|An excited young An'
 p735
 tp736
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x007@'
 p737
 tp738
 Rp739
-S' astronaut| ||to ||do a spacewal'
+S' the| wingspan| ||of ||a con'
 p740
-S' astronauts will test a spec|ial'
+S' |her wings and took off |on'
 p741
-(I38
-I3641
+(I7
+I38
 tp742
-(I65
-I3672
+(I29
+I64
 tp743
 tp744
-s(S'|What was the name o'
+s(S"|What's the average "
 p745
-S'|An internal NASA st'
+S"|<p> Baseball's top "
 p746
 tp747
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x00D@'
 p748
 tp749
 Rp750
-S' the name of the first Russian |astronau|t to d'
+S' the average||||||| salary of |a profession|||||||||a|||||||l baseball '
 p751
-S' th|||a|t if the si||t||uation cont|in|ues to d'
+S' The average annual salary of $2 .5 million is the largest in baseball '
 p752
-(I8
-I1432
+(I6
+I417
 tp753
 (I53
-I1469
+I488
 tp754
 tp755
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p756
-S"|Discovery's astrona"
+S'|<p> A California co'
 p757
 tp758
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00G@'
+S'\x00\x00\x00\x00\x00\x008@'
 p759
 tp760
 Rp761
-S' the ||name |of the fir|st Russian astronaut |to|||| ||||do a spacewalk'
+S'at is| ||t|he wing||s|pa|n of a c'
 p762
-S' the repair was |performed ||by an astronaut who was taking a spacewalk'
+S'at|est hatch|||ing is part of a c'
 p763
-(I8
-I1228
+(I2
+I524
 tp764
-(I66
-I1296
+(I27
+I553
 tp765
 tp766
-s(S'|How old is the sun?'
+s(S'|When was Microsoft '
 p767
-S'|Sun is fortunate Mr'
+S'|IBM and Microsoft C'
 p768
 tp769
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p770
 tp771
 Rp772
-S' |old |is the '
+S' wa|s Microsoft esta'
 p773
-S' told him the '
+S' |and Microsoft |sta'
 p774
-(I3
-I4038
+(I4
+I255
 tp775
-(I15
-I4052
+(I23
+I273
 tp776
 tp777
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p778
-S'|A jury has conclude'
+S'|The salaries earned'
 p779
 tp780
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00@@'
 p781
 tp782
 Rp783
-S'he|re|| did '
+S' baseball player'
 p784
-S'helmets did '
+S' baseball player'
 p785
-(I1
-I1743
+(I43
+I239
 tp786
-(I10
-I1755
+(I59
+I255
 tp787
 tp788
-s(S'|Where did bocci ori'
+s(S'|When was Microsoft '
 p789
-S'|The finances have h'
+S'|The original IBMs w'
 p790
 tp791
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x009@'
 p792
 tp793
 Rp794
-S' origina'
+S' was||| Microsoft |e'
 p795
-S' origina'
+S' |as if Microsoft we'
 p796
-(I15
-I2158
+(I4
+I925
 tp797
-(I23
-I2166
+(I20
+I944
 tp798
 tp799
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p800
-S"|Lockheed Corp .'s C"
+S'|The first Californi'
 p801
 tp802
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p803
 tp804
 Rp805
-S' old i|s the su'
+S't i|s the ||wingspan of a c'
 p806
-S' o|f its two su'
+S'tains the makings||| of a c'
 p807
 (I3
-I794
+I79
 tp808
-(I17
-I808
+(I27
+I103
 tp809
 tp810
-s(S'|Where did bocci ori'
+s(S'|What was the ball g'
 p811
-S'|And speaking of SJC'
+S'|<p> Authorities in '
 p812
 tp813
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00?@'
 p814
 tp815
 Rp816
-S' origina'
+S'e of ancient Mayans '
 p817
-S' origina'
+S'e || ancient Mayan| '
 p818
-(I15
-I397
+(I21
+I241
 tp819
-(I23
-I405
+(I41
+I258
 tp820
 tp821
-s(S"|Where's Montenegro?"
+s(S'|Who invented basket'
 p822
-S'|BFN   <f p= "106 ">'
+S'|Two inventors have '
 p823
 tp824
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x001@'
 p825
 tp826
 Rp827
-S"ere's Montenegro"
+S'ho|| invent|ed basketball'
 p828
-S'e|e . Montenegro'
+S'hose inventors |us|||uall'
 p829
-(I2
-I2250
+(I1
+I3644
 tp830
-(I18
-I2265
+(I23
+I3665
 tp831
 tp832
-s(S'|What is the wingspa'
+s(S'|What was the ball g'
 p833
-S'|An egg laid in capt'
+S'|In the last decade '
 p834
 tp835
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p836
 tp837
 Rp838
-S' the wingspan of ||a| condor'
+S' was t|he| ball game |of ancient Mayans '
 p839
-S" the |||||park's lead condor"
+S' has tried ||so hard to| a|ccept Mayan| '
 p840
-(I7
-I196
+(I4
+I2432
 tp841
-(I32
-I219
+(I41
+I2467
 tp842
 tp843
 s(S'|What is the wingspa'
 p844
-S'| "Next year we\'re h'
+S'|<p> Biologists tryi'
 p845
 tp846
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x003@'
 p847
 tp848
 Rp849
-S' the wi||||ngspan of|||| ||||a condor'
+S' wingspan| '
 p850
-S' the wildernes||s of the Sespe Condor'
+S' wingspans '
 p851
-(I7
-I1358
+(I11
+I318
 tp852
-(I32
-I1393
+(I21
+I329
 tp853
 tp854
-s(S'|What was the name o'
+s(S'|When was Microsoft '
 p855
-S'|The sky was cloudy '
+S'|IBM has just announ'
 p856
 tp857
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x009@'
 p858
 tp859
 Rp860
-S's the |||name of the '
+S' was Microsoft |esta'
 p861
-S's the release of the '
+S' |at Microsoft , s|a'
 p862
-(I7
-I951
+(I4
+I1238
 tp863
-(I25
-I972
+(I23
+I1256
 tp864
 tp865
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p866
-S'|After he came to Am'
+S'|Negotiations to res'
 p867
 tp868
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00&@'
+S'\x00\x00\x00\x00\x00\x00@@'
 p869
 tp870
 Rp871
-S'here |di|d bo'
+S' baseball player'
 p872
-S'her| tried to'
+S' baseball player'
 p873
-(I1
-I858
+(I43
+I27
 tp874
-(I12
-I870
+(I59
+I43
 tp875
 tp876
-s(S'|Where did bocci ori'
+s(S'|Where is Belize loc'
 p877
-S'|<p> In San Francisc'
+S'|TWO important devel'
 p878
 tp879
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x003@'
 p880
 tp881
 Rp882
-S' origin'
+S' is Belize|| ||locat'
 p883
-S' origin'
+S" as Belize's rel||at"
 p884
-(I15
-I6754
+(I5
+I1922
 tp885
-(I22
-I6761
+(I21
+I1940
 tp886
 tp887
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p888
-S'|Five astronauts boa'
+S'|In none of their in'
 p889
 tp890
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p891
 tp892
 Rp893
-S't| wa|s th||e name| o|||||||f the first Russian '
+S'here did bo|c'
 p894
-S'th pads |have |been occupied; the first was i|n '
+S'here |is no c'
 p895
-(I3
-I1508
+(I1
+I4261
 tp896
-(I39
-I1553
+(I13
+I4273
 tp897
 tp898
-s(S'|What is the wingspa'
+s(S'|Where did bocci ori'
 p899
-S'|Condor keepers hobb'
+S'|<p> Her extension s'
 p900
 tp901
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p902
 tp903
 Rp904
-S'is|| the |||wingspa|n o|f a condor'
+S'here did bo'
 p905
-S'ised the know|n| California condor'
+S'here |it co'
 p906
-(I5
-I1974
+(I1
+I99
 tp907
-(I32
-I2006
+(I12
+I109
 tp908
 tp909
-s(S'|Where is Belize loc'
+s(S'|Who invented basket'
 p910
-S'|BELIZE holds a gene'
+S'|They took the pews '
 p911
 tp912
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p913
 tp914
 Rp915
-S're is Belize '
+S'o| invented||| basketball'
 p916
-S'r| to Belize '
+S'ow involved in basketball'
 p917
-(I3
-I645
+(I2
+I842
 tp918
-(I16
-I657
+(I23
+I867
 tp919
 tp920
-s(S'|Where did bocci ori'
+s(S'|Who invented basket'
 p921
-S'|The gala celebratin'
+S'|<p> George Mikan li'
 p922
 tp923
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x008@'
 p924
 tp925
 Rp926
-S'here did '
+S'ho invented '
 p927
-S'here |in '
+S'ho invented '
 p928
 (I1
-I88
+I1236
 tp929
-(I10
-I96
+(I13
+I1248
 tp930
 tp931
-s(S'|How old is the sun?'
+s(S"|Where's Montenegro?"
 p932
-S'|Apollo Computer Inc'
+S'|BFN     [Text] Lond'
 p933
 tp934
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x006@'
 p935
 tp936
 Rp937
-S'o|l|d |is the '
+S' Montenegro'
 p938
-S'ollo  "is the '
+S' Montenegro'
 p939
-(I4
-I667
+(I7
+I73
 tp940
-(I15
-I681
+(I18
+I84
 tp941
 tp942
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p943
-S'|A University of Ore'
+S'|According to figure'
 p944
 tp945
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x80A@'
 p946
 tp947
 Rp948
-S'e di|d |bocci ||originate'
+S' the average ||||||salary |||of ||a professional||| baseball player'
 p949
-S'e city should coor|dinate'
+S' the average opening-da|y major lea|||gue s|||alary |for all player'
 p950
-(I4
-I374
+(I6
+I116
 tp951
-(I25
-I398
+(I59
+I175
 tp952
 tp953
 s(S'|What is the wingspa'
 p954
-S'|<p> Zookeepers kept'
+S'|Six Andean condors '
 p955
 tp956
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x006@'
 p957
 tp958
 Rp959
-S' is the wingspan ||of a condor'
+S'hat is the '
 p960
-S' is the fi|rs||t time a condor'
+S'hat is the '
 p961
-(I4
-I750
+(I1
+I3264
 tp962
-(I32
-I777
+(I12
+I3275
 tp963
 tp964
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p965
-S'|American Ballet The'
+S'|NASA , in a rare mo'
 p966
 tp967
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x80A@'
 p968
 tp969
 Rp970
-S'here '
+S' name| |of the first| Russi|an astron'
 p971
-S'here '
+S' named for the ||late American astron'
 p972
-(I1
-I2486
+(I12
+I2807
 tp973
-(I6
-I2491
+(I45
+I2842
 tp974
 tp975
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p976
-S'|Analysts said Apple'
+S'|After seven years o'
 p977
 tp978
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00@@'
 p979
 tp980
 Rp981
-S'd is the s'
+S' the ||||n|||ame of the fi|||rst Russian|| astronaut| to d'
 p982
-S'd in the s'
+S' the second da|y of the five-day mission . NASA wants to d'
 p983
-(I6
-I1112
+(I8
+I4274
 tp984
-(I16
-I1122
+(I53
+I4331
 tp985
 tp986
 s(S'|How old is the sun?'
 p987
-S'| "This makes it dif'
+S'|Says executive vice'
 p988
 tp989
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x001@'
 p990
 tp991
 Rp992
-S' |old|| is||| the '
+S' |old is the '
 p993
-S' to|day is on the '
+S' no|w is the '
 p994
 (I3
-I788
+I4563
 tp995
 (I15
-I805
+I4575
 tp996
 tp997
-s(S'|How old is the sun?'
+s(S'|What was the ball g'
 p998
-S'|A Sun spokeswoman a'
+S'|<p> Six-year-old Ca'
 p999
 tp1000
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1001
 tp1002
 Rp1003
-S' is the '
+S' the ball g|ame of|||| ancient| Mayans ||||call'
 p1004
-S' as the '
+S' the ||language of the students |||and graduall'
 p1005
-(I7
-I2006
+(I8
+I3136
 tp1006
-(I15
-I2014
+(I45
+I3178
 tp1007
 tp1008
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p1009
-S'|All but one of this'
+S'|Bagian had left an '
 p1010
 tp1011
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x00D@'
 p1012
 tp1013
 Rp1014
-S'e| did bocci| origina'
+S'hat w|as the name of the first Russian ||ast||ron||au|||t to |do a| '
 p1015
-S'ed |in |their origina'
+S'hat when |we came on th|||i|s| mission tha|t when you get to fly at '
 p1016
-(I4
-I582
+(I1
+I376
 tp1017
-(I23
-I601
+(I57
+I437
 tp1018
 tp1019
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p1020
-S'|Astronaut Donald E '
+S'|New York City Balle'
 p1021
 tp1022
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1023
 tp1024
 Rp1025
-S'an astronaut to| do ||a s'
+S' origina'
 p1026
-S'an astronaut for 11 years'
+S' origina'
 p1027
-(I36
-I203
+(I15
+I2584
 tp1028
-(I58
-I228
+(I23
+I2592
 tp1029
 tp1030
-s(S'|Where is Belize loc'
+s(S'|Where did bocci ori'
 p1031
-S'|BFN     [Text] Afte'
+S'|Federal prosecutors'
 p1032
 tp1033
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00$@'
 p1034
 tp1035
 Rp1036
-S'e| is Belize '
+S'ere d||i|d boc'
 p1037
-S'ed to Belize '
+S'ers dating bac'
 p1038
-(I4
-I1670
+(I2
+I660
 tp1039
-(I16
-I1683
+(I13
+I674
 tp1040
 tp1041
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p1042
-S'| "Everyone from the'
+S'|A newborn Californi'
 p1043
 tp1044
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00&@'
+S'\x00\x00\x00\x00\x00\x00A@'
 p1045
 tp1046
 Rp1047
-S' bocci '
+S't is the wingsp|an| of|||| |a|| condor'
 p1048
-S' bocce '
+S't is the |offspring of the same condor'
 p1049
-(I9
-I1286
+(I3
+I1004
 tp1050
-(I16
-I1293
+(I32
+I1041
 tp1051
 tp1052
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p1053
-S'|San Francisco Beat '
+S'|The Philadelphia Zo'
 p1054
 tp1055
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p1056
 tp1057
 Rp1058
-S'here d'
+S'hat is the wingspan of |a co'
 p1059
-S'here d'
+S'ha|||s ||a wingspan of up to'
 p1060
 (I1
-I453
+I2115
 tp1061
-(I7
-I459
+(I28
+I2138
 tp1062
 tp1063
-s(S'|What was the name o'
+s(S'|When was Microsoft '
 p1064
-S"|Czechoslovakia's tr"
+S'|At stake , in part '
 p1065
 tp1066
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00F@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1067
 tp1068
 Rp1069
-S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
+S' w|as Microsoft '
 p1070
-S' to| the telescope ||so two astronauts could perform a spacewalk'
+S' with Microsoft '
 p1071
-(I17
-I3320
+(I4
+I2298
 tp1072
-(I66
-I3381
+(I19
+I2314
 tp1073
 tp1074
-s(S'|Where is Belize loc'
+s(S'|What was the name o'
 p1075
-S'|BFN     [Excerpt] G'
+S'|<p> The launch of t'
 p1076
 tp1077
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x80E@'
 p1078
 tp1079
 Rp1080
-S'e is |Belize lo'
+S' the ||name of the first Russian|||||| astronaut| '
 p1081
-S'e || "Belize Co'
+S' the course of the||ir|| mission , the astronauts '
 p1082
-(I4
-I1007
+(I8
+I2040
 tp1083
-(I18
-I1020
+(I49
+I2086
 tp1084
 tp1085
 s(S'|What was the name o'
 p1086
-S'|Astronauts Jerry L '
+S'|NASA launched the s'
 p1087
 tp1088
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x80F@'
 p1089
 tp1090
 Rp1091
-S' was the |name o|f the first Russian astronaut to'
+S' the first Russian astronaut| to ||do a space'
 p1092
-S' was ||a pla|tform th|||||at ||||the astronaut ho'
+S' The first ||||non-astronauts go into|| space'
 p1093
-(I4
-I1089
+(I20
+I938
 tp1094
-(I51
-I1126
+(I62
+I977
 tp1095
 tp1096
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p1097
-S'|Except in her exqui'
+S'|Mission specialist '
 p1098
 tp1099
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x80B@'
 p1100
 tp1101
 Rp1102
-S' origina'
+S'hat was t||he|| |||name of the |fir||||s||||t||||| Russian a|||||s|tr|onaut to |||do|| a spacewalk'
 p1103
-S' origina'
+S'h|t |is to help operate||| the Astro observatory , Hoffman also is train|ed to perform a spacewalk'
 p1104
-(I15
-I3462
+(I1
+I495
 tp1105
-(I23
-I3470
+(I66
+I587
 tp1106
 tp1107
-s(S"|Where's Montenegro?"
+s(S"|What's the average "
 p1108
-S'|Article   Type :CSO'
+S'| "Because of local '
 p1109
 tp1110
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1111
 tp1112
 Rp1113
-S' Montenegro'
+S' the |aver|age salary of a profe|||ssional baseball '
 p1114
-S' Montenegro'
+S' the other one will . ";   Vincent sai|||d baseball '
 p1115
-(I7
-I165
+(I6
+I1373
 tp1116
-(I18
-I176
+(I53
+I1422
 tp1117
 tp1118
-s(S'|What is the wingspa'
+s(S'|What was the ball g'
 p1119
-S'|A California condor'
+S'|Researchers have fo'
 p1120
 tp1121
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1122
 tp1123
 Rp1124
-S' the w||ings|pa|n o|f a condor'
+S' w|as the| ball ga||||||me o||||f ancient Mayans '
 p1125
-S" the world's California condor"
+S' what they sa|y may be the oldest kn|own| Mayan| '
 p1126
-(I7
-I1344
+(I4
+I158
 tp1127
-(I32
-I1374
+(I41
+I203
 tp1128
 tp1129
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p1130
-S'|Price cuts on older'
+S'|Space shuttle Atlan'
 p1131
 tp1132
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x80C@'
 p1133
 tp1134
 Rp1135
-S'ow |old is the '
+S'hat wa|s|| the ||||||name|| of the f|irst |Russian '
 p1136
-S'o| follows the '
+S'hat caused the postponement of the flight Thursday '
 p1137
 (I1
-I462
+I780
 tp1138
-(I15
-I476
+(I39
+I831
 tp1139
 tp1140
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p1141
-S'|Twenty high schools'
+S'|<p> An egg laid Sun'
 p1142
 tp1143
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p1144
 tp1145
 Rp1146
-S'ere did bocci '
+S'at| is the wingspa||n|| |of a condor'
 p1147
-S'er| ||, bocce '
+S'ate in the ||||season , so|me condor'
 p1148
 (I2
-I2469
+I1446
 tp1149
-(I16
-I2480
+(I32
+I1477
 tp1150
 tp1151
-s(S'|What was the name o'
+s(S'|albacore'
 p1152
-S'| "If we can\'t , the'
+S'|bacon'
 p1153
 tp1154
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80D@'
+S'\x00\x00\x00\x00\x00\x00 @'
 p1155
 tp1156
 Rp1157
-S' was the |name of the firs||||||||t ||Russia|n astronaut| '
+S'baco'
 p1158
-S" |at the en||d of the mission .;    Columbia's astronauts "
+S'baco'
 p1159
-(I4
-I847
+(I2
+I0
 tp1160
-(I49
-I902
+(I6
+I4
 tp1161
 tp1162
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p1163
-S'|<p> Three Californi'
+S'|<p> Ron Newlin stoo'
 p1164
 tp1165
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1166
 tp1167
 Rp1168
-S'pa|n of a condor'
+S'ed basketball'
 p1169
-S'pair of|| condor'
+S'ed basketball'
 p1170
-(I17
-I1046
+(I10
+I4725
 tp1171
-(I32
-I1060
+(I23
+I4738
 tp1172
 tp1173
-s(S'|What was the name o'
+s(S"|Where's Montenegro?"
 p1174
-S'|Navy Capt . Dick Ri'
+S'|Article   Type :CSO'
 p1175
 tp1176
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1177
 tp1178
 Rp1179
-S' w|as the |na|me| of th|||||e| |first|| Russian astronaut '
+S' Montenegro'
 p1180
-S' when |he learned he |had been selected ||as an astronaut '
+S' Montenegro'
 p1181
-(I4
-I1501
+(I7
+I165
 tp1182
-(I49
-I1555
+(I18
+I176
 tp1183
 tp1184
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p1185
-S'|A fist-sized bundle'
+S'|And San Jose State '
 p1186
 tp1187
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1188
 tp1189
 Rp1190
-S'hat is the wingspan of |a co'
+S'ed basketball'
 p1191
-S'ha|||s ||a wingspan of up to'
+S'e| basketball'
 p1192
-(I1
-I1758
+(I10
+I1436
 tp1193
-(I28
-I1781
+(I23
+I1448
 tp1194
 tp1195
 s(S'|What is the wingspa'
 p1196
-S'|A decision on the h'
+S'|A hungry bundle of '
 p1197
 tp1198
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p1199
 tp1200
 Rp1201
-S'hat is the|| wing||s|pa'
+S'hat is the wingspan of |a co'
 p1202
-S'h|t |, their wings sepa'
+S'ha|||s ||a wingspan of up to'
 p1203
 (I1
-I3108
+I3113
 tp1204
-(I19
-I3129
+(I28
+I3136
 tp1205
 tp1206
-s(S'|Where did bocci ori'
+s(S'|Who invented basket'
 p1207
-S'|Briggs would rather'
+S"|It's rough in Washi"
 p1208
 tp1209
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1210
 tp1211
 Rp1212
-S'here '
+S't|ed basketball'
 p1213
-S'here '
+S'the| basketball'
 p1214
-(I1
-I947
+(I9
+I81
 tp1215
-(I6
-I952
+(I23
+I95
 tp1216
 tp1217
-s(S'|Where is Belize loc'
+s(S'|Who invented basket'
 p1218
-S'|BFN     [Text] The '
+S'|A  No , just poor p'
 p1219
 tp1220
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1221
 tp1222
 Rp1223
-S'er|||e |i|s Belize '
+S't|ed basketball'
 p1224
-S'erence with Belize '
+S'the| basketball'
 p1225
-(I2
-I815
+(I9
+I133
 tp1226
-(I16
-I834
+(I23
+I147
 tp1227
 tp1228
 s(S'|Where did bocci ori'
 p1229
-S'|The first Hans Chri'
+S'|THE HISTORY of La B'
 p1230
 tp1231
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1232
 tp1233
 Rp1234
-S'ere ||d||||id bocci o'
+S'ere did boc'
 p1235
-S'er| and Julio Bocca o'
+S'ere had bec'
 p1236
 (I2
-I1331
+I1288
 tp1237
-(I17
-I1351
+(I13
+I1299
 tp1238
 tp1239
 s(S'|Where did bocci ori'
 p1240
-S'|BFN     [Text] Let '
+S'|To this end , they '
 p1241
 tp1242
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p1243
 tp1244
 Rp1245
-S'i |or|ig|||in|ate'
+S'ere d||i||d b'
 p1246
-S'i Foreign Ministe'
+S'ere devised b'
 p1247
-(I14
-I470
+(I2
+I661
 tp1248
-(I25
-I487
+(I11
+I674
 tp1249
 tp1250
-s(S'|How old is the sun?'
+s(S'|When was Microsoft '
 p1251
-S'|Hewlett-Packard , S'
+S'|Making a rare publi'
 p1252
 tp1253
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p1254
 tp1255
 Rp1256
-S' |old is ||the |s'
+S' Microsoft es|tabl|i'
 p1257
-S' hold as much| as'
+S' Microsoft is ta|lki'
 p1258
-(I3
-I1153
+(I8
+I1701
 tp1259
-(I16
-I1169
+(I26
+I1720
 tp1260
 tp1261
 s(S'|Where did bocci ori'
 p1262
-S'|Prospective jurors '
+S'|If the New York Cit'
 p1263
 tp1264
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1265
 tp1266
 Rp1267
-S'he|re| did bocci o'
+S'here |did bocci originate'
 p1268
-S'he reputed bo|ss o'
+S'her| hand ||||, originate'
 p1269
 (I1
-I571
+I1165
 tp1270
-(I17
-I588
+(I25
+I1185
 tp1271
 tp1272
-s(S'|Where did bocci ori'
+s(S'|When was Microsoft '
 p1273
-S"|Let's hope that the"
+S'|Ashton-Tate Corp . '
 p1274
 tp1275
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1276
 tp1277
 Rp1278
-S' origina'
+S'en| w|as Microsoft '
 p1279
-S' origina'
+S'ent with Microsoft '
 p1280
-(I15
-I507
+(I2
+I4110
 tp1281
-(I23
-I515
+(I19
+I4129
 tp1282
 tp1283
-s(S'|How old is the sun?'
+s(S"|What's the average "
 p1284
-S'|DIGITAL Equipment ('
+S'|It is an odd kind o'
 p1285
 tp1286
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p1287
 tp1288
 Rp1289
-S' is |the '
+S' baseball player'
 p1290
-S" is 'the "
+S' Baseball player'
 p1291
-(I7
-I2467
+(I43
+I1933
 tp1292
-(I15
-I2476
+(I59
+I1949
 tp1293
 tp1294
-s(S'|What was the name o'
+s(S'|Who invented basket'
 p1295
-S'| "Very nice braking'
+S'|<p> John J . Reeves'
 p1296
 tp1297
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00D@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1298
 tp1299
 Rp1300
-S' the |||||na||||me of the| first Russian |a||||st|r||onaut to do a||| space|walk'
+S'ed basketball'
 p1301
-S" the antenna loose |, then ||got |||||an early start on||| to|d||ay's space-walk"
+S'ed basketball'
 p1302
-(I8
-I815
+(I10
+I2295
 tp1303
-(I66
-I881
+(I23
+I2308
 tp1304
 tp1305
-s(S'|Where did bocci ori'
+s(S'|What was the ball g'
 p1306
-S'|About 30 food booth'
+S'|Authorities have re'
 p1307
 tp1308
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p1309
 tp1310
 Rp1311
-S' bocc'
+S' ancient Mayans '
 p1312
-S' bocc'
+S' ancient Mayan| '
 p1313
-(I9
-I96
+(I25
+I268
 tp1314
-(I14
-I101
+(I41
+I283
 tp1315
 tp1316
 s(S'|How old is the sun?'
 p1317
-S'|SUN Microsystems ai'
+S'|Analysts said Apple'
 p1318
 tp1319
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1320
 tp1321
 Rp1322
-S'd is the '
+S'd is the s'
 p1323
-S'd in the '
+S'd in the s'
 p1324
 (I6
-I667
+I1112
 tp1325
-(I15
-I676
+(I16
+I1122
 tp1326
 tp1327
-s(S'|Where is Belize loc'
+s(S'|What is the wingspa'
 p1328
-S'|Farce , rather than'
+S'|A decision on the h'
 p1329
 tp1330
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1331
 tp1332
 Rp1333
-S' Belize '
+S'hat is the|| wing||s|pa'
 p1334
-S' Belize '
+S'h|t |, their wings sepa'
 p1335
-(I8
-I619
+(I1
+I3108
 tp1336
-(I16
-I627
+(I19
+I3129
 tp1337
 tp1338
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p1339
-S'|Silicon Graphics Co'
+S'|Brant unveils tonig'
 p1340
 tp1341
 (g4
@@ -2689,1076 +2689,1076 @@ S'\x00\x00\x00\x00\x00\x00,@'
 p1342
 tp1343
 Rp1344
-S' |ol|d i||||s||| the s'
+S' bocci '
 p1345
-S' color images on the s'
+S' bocci '
 p1346
-(I3
-I475
+(I9
+I3574
 tp1347
 (I16
-I497
+I3581
 tp1348
 tp1349
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p1350
-S'|In early June , Sun'
+S'|The Gamma Ray Obser'
 p1351
 tp1352
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p1353
 tp1354
 Rp1355
-S'w| |old is the s'
+S't wa|s the |name of the first|| Russia||n astronaut| '
 p1356
-S'we told||| the s'
+S't have t|o leave||| the shuttle ||today , astronauts '
 p1357
-(I2
-I2451
+(I3
+I835
 tp1358
-(I16
-I2464
+(I49
+I882
 tp1359
 tp1360
-s(S"|Where's Montenegro?"
+s(S'|What is the wingspa'
 p1361
-S'|BFN     [Text] Ceti'
+S'|One zoo-hatched And'
 p1362
 tp1363
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1364
 tp1365
 Rp1366
-S' Montenegro'
+S' the wingspan of a condor'
 p1367
-S' Montenegro'
+S' the |An|dean||||| condor'
 p1368
 (I7
-I84
+I1188
 tp1369
-(I18
-I95
+(I32
+I1206
 tp1370
 tp1371
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p1372
-S'|Revenue for the fou'
+S'|Four Andean condors'
 p1373
 tp1374
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1375
 tp1376
 Rp1377
-S' |old i|s '
+S'at|| |is th|e wingspan '
 p1378
-S' sold its '
+S'ater wi||th a wingspan '
 p1379
-(I3
-I653
+(I2
+I512
 tp1380
-(I11
-I663
+(I21
+I533
 tp1381
 tp1382
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p1383
-S'|If it succeeds , th'
+S'|Two cosmonauts whos'
 p1384
 tp1385
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00B@'
 p1386
 tp1387
 Rp1388
-S' is the '
+S'hat was the name| of the first Russia|n|| |astronaut t'
 p1389
-S' is the '
+S'hat was trumpeted as the first ||||manned mission in t'
 p1390
-(I7
-I1217
+(I1
+I956
 tp1391
-(I15
-I1225
+(I50
+I1006
 tp1392
 tp1393
-s(S'|What is the wingspa'
+s(S'|When was Microsoft '
 p1394
-S'|Love is in the air '
+S'|When Bill Gates and'
 p1395
 tp1396
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1397
 tp1398
 Rp1399
-S' wingspan|||||| |of ||||a| condor'
+S'en |was Microsoft |est'
 p1400
-S' wingspans .    The Andean condor'
+S'es that Microsoft Ne|t'
 p1401
-(I11
-I2679
+(I2
+I5941
 tp1402
-(I32
-I2712
+(I22
+I5962
 tp1403
 tp1404
-s(S'|What is the wingspa'
+s(S"|Where's Montenegro?"
 p1405
-S'| "You could tell ou'
+S'|BFN   <f p= "106 ">'
 p1406
 tp1407
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1408
 tp1409
 Rp1410
-S' wingspan '
+S"ere's Montenegro"
 p1411
-S' wingspan '
+S'e|e . Montenegro'
 p1412
-(I11
-I1406
+(I2
+I2250
 tp1413
-(I21
-I1416
+(I18
+I2265
 tp1414
 tp1415
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p1416
-S'|The long-delayed Co'
+S'|<p> On a June eveni'
 p1417
 tp1418
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80@@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1419
 tp1420
 Rp1421
-S' was ||the name of th||e |||fi|rst Russi||||an||||| |||ast|||r|onaut to |do |a space'
+S' was the| ||ball gam|||e of anci'
 p1422
-S' |a| vet|e|ra|n of three previous| missions and the oldest person||| to fly in space'
+S' was then in the | midst of a ci'
 p1423
 (I4
-I62
+I4430
 tp1424
-(I62
-I137
+(I30
+I4461
 tp1425
 tp1426
-s(S"|Where's Montenegro?"
+s(S'|What was the ball g'
 p1427
-S'|BFN     [Text] Podg'
+S'|<p> Today we breach'
 p1428
 tp1429
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p1430
 tp1431
 Rp1432
-S"here's Montenegro"
+S' was the ||ball game||| |o||f ancient Mayans '
 p1433
-S'her||  Montenegro'
+S' |at the hub of several dozen ancient |roads '
 p1434
-(I1
-I429
+(I4
+I1850
 tp1435
-(I18
-I444
+(I41
+I1893
 tp1436
 tp1437
-s(S'|What is the wingspa'
+s(S'|What was the ball g'
 p1438
-S'|The first of two he'
+S'|<p> As Hernan Corte'
 p1439
 tp1440
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x00?@'
 p1441
 tp1442
 Rp1443
-S' the wingspa|n of ||a| |c'
+S' ancient Mayans c'
 p1444
-S' the vang|uard of what sc'
+S' ancient Mayan| c'
 p1445
-(I7
-I1139
+(I25
+I6158
 tp1446
-(I27
-I1163
+(I42
+I6174
 tp1447
 tp1448
-s(S'|How old is the sun?'
+s(S'|Where is Belize loc'
 p1449
-S'|IBM unveiled a line'
+S'|A Guatemalan gunboa'
 p1450
 tp1451
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1452
 tp1453
 Rp1454
-S' is the su'
+S'e| is Belize '
 p1455
-S' in the su'
+S'ed in Belize '
 p1456
-(I7
-I2407
+(I4
+I1111
 tp1457
-(I17
-I2417
+(I16
+I1124
 tp1458
 tp1459
-s(S'|How old is the sun?'
+s(S'|Who invented basket'
 p1460
-S'|Compaq Computer Cor'
+S'|His likeness , cast'
 p1461
 tp1462
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1463
 tp1464
 Rp1465
-S' is the '
+S'ho invented '
 p1466
-S' is the '
+S'ho invented '
 p1467
-(I7
-I1351
+(I1
+I88
 tp1468
-(I15
-I1359
+(I13
+I100
 tp1469
 tp1470
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p1471
-S'|The competition amo'
+S'|The gala celebratin'
 p1472
 tp1473
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p1474
 tp1475
 Rp1476
-S'd is the '
+S'here did '
 p1477
-S'd is the '
+S'here |in '
 p1478
-(I6
-I2883
+(I1
+I88
 tp1479
-(I15
-I2892
+(I10
+I96
 tp1480
 tp1481
-s(S'|Where is Belize loc'
+s(S'|Who invented basket'
 p1482
-S"|<p> It's not exactl"
+S'|As spring comes to '
 p1483
 tp1484
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p1485
 tp1486
 Rp1487
-S'ere |is Belize '
+S'ho invent|ed basketball'
 p1488
-S'er| the Belize '
+S'h| inventing bas|e|ball'
 p1489
-(I2
-I888
+(I1
+I6994
 tp1490
-(I16
-I902
+(I23
+I7014
 tp1491
 tp1492
-s(S'|Where did bocci ori'
+s(S"|What's the average "
 p1493
-S"|<p> Star-cross'd ca"
+S'|Baseball owners are'
 p1494
 tp1495
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p1496
 tp1497
 Rp1498
-S' origina'
+S's the averag||e| |salary |of |a professiona||l baseball player'
 p1499
-S' origina'
+S's |h||ave agreed to give the Major Le|||||ague Baseball Player'
 p1500
-(I15
-I1042
+(I5
+I2361
 tp1501
-(I23
-I1050
+(I59
+I2415
 tp1502
 tp1503
-s(S'|Where is Belize loc'
+s(S'|Who invented basket'
 p1504
-S"|CENTRAL AMERICA's d"
+S'| "I have a friend w'
 p1505
 tp1506
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1507
 tp1508
 Rp1509
-S're is Belize '
+S' basketball'
 p1510
-S're in Belize '
+S' basketball'
 p1511
-(I3
-I961
+(I12
+I127
 tp1512
-(I16
-I974
+(I23
+I138
 tp1513
 tp1514
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p1515
-S'|The Discovery astro'
+S'|A Sun spokeswoman a'
 p1516
 tp1517
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1518
 tp1519
 Rp1520
-S' astronaut| ||to do a space|walk'
+S' is the '
 p1521
-S' astronauts alread||y |have walk'
+S' as the '
 p1522
-(I38
-I1977
-tp1523
-(I66
+(I7
 I2006
+tp1523
+(I15
+I2014
 tp1524
 tp1525
-s(S'|What was the name o'
+s(S"|What's the average "
 p1526
-S'|Here are brief sket'
+S'|<p> Baseball owners'
 p1527
 tp1528
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1529
 tp1530
 Rp1531
-S' astronaut ||||to ||do |||a spacewa'
+S' baseball player'
 p1532
-S' astronaut first| flew into space a'
+S' Baseball Player'
 p1533
-(I38
-I665
+(I43
+I1331
 tp1534
-(I64
-I699
+(I59
+I1347
 tp1535
 tp1536
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p1537
-S'|US astronauts succe'
+S'|A museum in southea'
 p1538
 tp1539
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x003@'
 p1540
 tp1541
 Rp1542
-S' astronaut| |to do '
+S' the ball game of ancient '
 p1543
-S' astronauts can do '
+S' th|||a|t |the|se ancient '
 p1544
-(I38
-I238
+(I8
+I132
 tp1545
-(I55
-I257
+(I34
+I152
 tp1546
 tp1547
-s(S'|Where is Belize loc'
+s(S"|What's the average "
 p1548
-S'|THE award this mont'
+S'|<p> The 1990 baseba'
 p1549
 tp1550
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00C@'
 p1551
 tp1552
 Rp1553
-S'is| Belize '
+S' average salary of '
 p1554
-S'ise Belize '
+S' average salary of '
 p1555
-(I6
-I1457
+(I10
+I341
 tp1556
-(I16
-I1468
+(I29
+I360
 tp1557
 tp1558
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p1559
-S'|The release of Hoin'
+S'|BFN     [Text] Afte'
 p1560
 tp1561
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1562
 tp1563
 Rp1564
-S's| the wingspa|n o|f a condor'
+S'e| is Belize '
 p1565
-S'se the |||||California condor'
+S'ed to Belize '
 p1566
-(I6
-I789
+(I4
+I1670
 tp1567
-(I32
-I813
+(I16
+I1683
 tp1568
 tp1569
-s(S'|What was the name o'
+s(S'|Who invented basket'
 p1570
-S'|A new NASA report c'
+S'|Retailers are delay'
 p1571
 tp1572
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1573
 tp1574
 Rp1575
-S' of the ||fir|||st|| |Rus|||sia|||n| astronaut| '
+S' basketball'
 p1576
-S' of the solar system by spacewalking astronauts '
+S' basketball'
 p1577
-(I17
-I466
+(I12
+I4994
 tp1578
-(I49
-I514
+(I23
+I5005
 tp1579
 tp1580
-s(S'|What is the wingspa'
+s(S'|Where did bocci ori'
 p1581
-S'|A Boy Scout who cra'
+S'| "Everyone from the'
 p1582
 tp1583
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x00&@'
 p1584
 tp1585
 Rp1586
-S'ingspan of|| ||a| condor'
+S' bocci '
 p1587
-S'ings||| of a real condor'
+S' bocce '
 p1588
-(I13
-I2584
+(I9
+I1286
 tp1589
-(I32
-I2605
+(I16
+I1293
 tp1590
 tp1591
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p1592
-S'|BFN   <f p= "106 ">'
+S"|Czechoslovakia's tr"
 p1593
 tp1594
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00F@'
 p1595
 tp1596
 Rp1597
-S'ere did bo'
+S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
 p1598
-S'ers did so'
+S' to| the telescope ||so two astronauts could perform a spacewalk'
 p1599
-(I2
-I2831
+(I17
+I3320
 tp1600
-(I12
-I2841
+(I66
+I3381
 tp1601
 tp1602
-s(S'|Where is Belize loc'
+s(S'|What is the wingspa'
 p1603
-S'|FOR MORE than 40 ye'
+S'|Wildlife officials '
 p1604
 tp1605
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1606
 tp1607
 Rp1608
-S' Belize lo'
+S' |i||s ||the wingspan| '
 p1609
-S' Belize wo'
+S' birds with| wingspans '
 p1610
-(I8
-I412
+(I4
+I698
 tp1611
-(I18
-I422
+(I21
+I720
 tp1612
 tp1613
-s(S'|How old is the sun?'
+s(S"|What's the average "
 p1614
-S'|Sun Microsystems In'
+S'|For this baseball f'
 p1615
 tp1616
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00H@'
 p1617
 tp1618
 Rp1619
-S' |old i|s |the '
+S' the |average salary |||of a professional baseball '
 p1620
-S' sold its line '
+S' the subur|bs - ca|n enjo||y professional baseball '
 p1621
-(I3
-I41
+(I6
+I3982
 tp1622
-(I15
-I56
+(I53
+I4029
 tp1623
 tp1624
 s(S'|What was the name o'
 p1625
-S'| "We\'re extremely p'
+S'| "If we can\'t , the'
 p1626
 tp1627
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x80D@'
 p1628
 tp1629
 Rp1630
-S' astronaut||||| t|o do|| a space'
+S' was the |name of the firs||||||||t ||Russia|n astronaut| '
 p1631
-S' astronauts saw the Soviet space'
+S" |at the en||d of the mission .;    Columbia's astronauts "
 p1632
-(I38
-I305
+(I4
+I847
 tp1633
-(I62
-I337
+(I49
+I902
 tp1634
 tp1635
-s(S'|Where is Belize loc'
+s(S"|What's the average "
 p1636
-S'|THE Guatemalan gove'
+S'|<p> Projecting astr'
 p1637
 tp1638
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00D@'
 p1639
 tp1640
 Rp1641
-S' Belize '
+S' salar||y |of |a professiona||l baseball player'
 p1642
-S' Belize '
+S' salaries for major le|||||ague baseball player'
 p1643
-(I8
-I2705
+(I18
+I27
 tp1644
-(I16
-I2713
+(I59
+I69
 tp1645
 tp1646
-s(S"|Where's Montenegro?"
+s(S'|How old is the sun?'
 p1647
-S'|BFN     [Text] Lond'
+S'|Hewlett-Packard , S'
 p1648
 tp1649
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1650
 tp1651
 Rp1652
-S' Montenegro'
+S' |old is ||the |s'
 p1653
-S' Montenegro'
+S' hold as much| as'
 p1654
-(I7
-I73
+(I3
+I1153
 tp1655
-(I18
-I84
+(I16
+I1169
 tp1656
 tp1657
-s(S'|What was the name o'
+s(S'|Who invented basket'
 p1658
-S'|An emergency spacew'
+S'| "Sort of , " I ans'
 p1659
 tp1660
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1661
 tp1662
 Rp1663
-S'as the| |name o|||f |the|| first| Russian astronaut| '
+S'ho invented '
 p1664
-S'as|t|ed in|to orbit June 5 wi||th ||seven astronauts '
+S'ho invented '
 p1665
-(I6
-I381
+(I1
+I1619
 tp1666
-(I49
-I427
+(I13
+I1631
 tp1667
 tp1668
-s(S"|Where's Montenegro?"
+s(S'|Who invented basket'
 p1669
-S'|CSO   <f p= "106 ">'
+S'|So that leaves the '
 p1670
 tp1671
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1672
 tp1673
 Rp1674
-S' Montenegro'
+S've|nt|ed basketball'
 p1675
-S' Montenegro'
+S'ves the| basketball'
 p1676
-(I7
-I1326
+(I6
+I11
 tp1677
-(I18
-I1337
+(I23
+I29
 tp1678
 tp1679
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p1680
-S'|A tiny California c'
+S'|DIGITAL Equipment ('
 p1681
 tp1682
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p1683
 tp1684
 Rp1685
-S' |is th|e wing|span of |a co'
+S' is |the '
 p1686
-S' wi||th a wing span of up to'
+S" is 'the "
 p1687
-(I4
-I1416
+(I7
+I2467
 tp1688
-(I28
-I1442
+(I15
+I2476
 tp1689
 tp1690
-s(S'|Where did bocci ori'
+s(S'|Who invented basket'
 p1691
-S'|Festivals and fairs'
+S'|<p> Harold Miner wa'
 p1692
 tp1693
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1694
 tp1695
 Rp1696
-S' origina'
+S'nted| basketball'
 p1697
-S' origina'
+S'n|ed  basketball'
 p1698
-(I15
-I37
+(I8
+I1025
 tp1699
 (I23
-I45
+I1040
 tp1700
 tp1701
-s(S'|What is the wingspa'
+s(S'|What was the ball g'
 p1702
-S'|After weeks of amor'
+S'|Deep in a mangrove '
 p1703
 tp1704
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p1705
 tp1706
 Rp1707
-S' wingspan| '
+S't wa|||s th|e ball game of ancient M'
 p1708
-S' wingspans '
+S't |about this |a||rea|| of ancient M'
 p1709
-(I11
-I1262
+(I3
+I3949
 tp1710
-(I21
-I1273
+(I35
+I3979
 tp1711
 tp1712
-s(S'|Where did bocci ori'
+s(S'|How old is the sun?'
 p1713
-S"|A dancer's life is "
+S'|Silicon Graphics Co'
 p1714
 tp1715
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p1716
 tp1717
 Rp1718
-S'e did bo'
+S' |ol|d i||||s||| the s'
 p1719
-S'e did no'
+S' color images on the s'
 p1720
-(I4
-I1829
+(I3
+I475
 tp1721
-(I12
-I1837
+(I16
+I497
 tp1722
 tp1723
-s(S'|Where did bocci ori'
+s(S'|What was the ball g'
 p1724
-S'|<p> And you thought'
+S'|<p> Forest Lawn , t'
 p1725
 tp1726
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p1727
 tp1728
 Rp1729
-S'e| |did bocci '
+S'e| of| ancient M||ayans ca'
 p1730
-S'el hair bocca '
+S'es of  ancient Mexican| |a'
 p1731
-(I4
-I1360
+(I21
+I237
 tp1732
-(I16
-I1374
+(I43
+I261
 tp1733
 tp1734
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p1735
-S'|Digital Equipment C'
+S'|The release of Hoin'
 p1736
 tp1737
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x003@'
 p1738
 tp1739
 Rp1740
-S'ow o|ld is the s'
+S's| the wingspa|n o|f a condor'
 p1741
-S'owdowns in the s'
+S'se the |||||California condor'
 p1742
-(I1
-I3540
+(I6
+I789
 tp1743
-(I16
-I3556
+(I32
+I813
 tp1744
 tp1745
-s(S'|Where did bocci ori'
+s(S"|Where's Montenegro?"
 p1746
-S'|Joined by Councilma'
+S'|BFN     [Text] Podg'
 p1747
 tp1748
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1749
 tp1750
 Rp1751
-S'ere |did bocci ||originate'
+S"here's Montenegro"
 p1752
-S'ere said to||| proliferate'
+S'her||  Montenegro'
 p1753
-(I2
-I1402
+(I1
+I429
 tp1754
-(I25
-I1425
+(I18
+I444
 tp1755
 tp1756
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p1757
-S'|An excited young An'
+S'|IBM unveiled a line'
 p1758
 tp1759
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1760
 tp1761
 Rp1762
-S' the| wingspan| ||of ||a con'
+S' is the su'
 p1763
-S' |her wings and took off |on'
+S' in the su'
 p1764
 (I7
-I38
+I2407
 tp1765
-(I29
-I64
+(I17
+I2417
 tp1766
 tp1767
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p1768
-S'|<p> The proposed U '
+S'|<p> The mystery of '
 p1769
 tp1770
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00@@'
 p1771
 tp1772
 Rp1773
-S's the nam|e| of ||the||||| f|||||||irst Russian astronaut| '
+S't was the ball ga|me of ancient Mayans c'
 p1774
-S's|tic number of spacewalks for repairs| |before astronauts '
+S't |in the coll||apse of ||the|| Mayan  c'
 p1775
-(I7
-I102
+(I3
+I8106
 tp1776
-(I49
-I158
+(I42
+I8139
 tp1777
 tp1778
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p1779
-S"|Mission Control's B"
+S'|Condor keepers hobb'
 p1780
 tp1781
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00?@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1782
 tp1783
 Rp1784
-S'me of the fi|rs|||t Russi||||||||a|n astronaut '
+S'is|| the |||wingspa|n o|f a condor'
 p1785
-S'me of the views are amazing , " said astronaut '
+S'ised the know|n| California condor'
 p1786
-(I15
-I2580
+(I5
+I1974
 tp1787
-(I49
-I2627
+(I32
+I2006
 tp1788
 tp1789
 s(S'|How old is the sun?'
 p1790
-S'|Sun said its net in'
+S'|The competition amo'
 p1791
 tp1792
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x002@'
 p1793
 tp1794
 Rp1795
-S' is the su'
+S'd is the '
 p1796
-S' in the qu'
+S'd is the '
 p1797
-(I7
-I422
+(I6
+I2883
 tp1798
-(I17
-I432
+(I15
+I2892
 tp1799
 tp1800
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p1801
-S'|Air Force Lt . Col '
+S"|CENTRAL AMERICA's d"
 p1802
 tp1803
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1804
 tp1805
 Rp1806
-S' astronaut||||| to| ||||||d||o |a spacewalk'
+S're is Belize '
 p1807
-S' astronauts had not planned to go spacewalk'
+S're in Belize '
 p1808
-(I38
-I1607
+(I3
+I961
 tp1809
-(I66
-I1650
+(I16
+I974
 tp1810
 tp1811
-s(S'|Where is Belize loc'
+s(S'|What was the name o'
 p1812
-S'|BELIZE faces an arr'
+S'|The Discovery astro'
 p1813
 tp1814
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1815
 tp1816
 Rp1817
-S' is Belize '
+S' astronaut| ||to do a space|walk'
 p1818
-S' is Belize '
+S' astronauts alread||y |have walk'
 p1819
-(I5
-I191
+(I38
+I1977
 tp1820
-(I16
-I202
+(I66
+I2006
 tp1821
 tp1822
-s(S'|What is the wingspa'
+s(S'|When was Microsoft '
 p1823
-S'|<p> A California co'
+S'|In an interview yes'
 p1824
 tp1825
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p1826
 tp1827
 Rp1828
-S'at is| ||t|he wing||s|pa|n of a c'
+S'hen wa||||s|| Microsoft ||es|t'
 p1829
-S'at|est hatch|||ing is part of a c'
+S'he| |assets . Microsoft does t'
 p1830
-(I2
-I524
+(I1
+I2452
 tp1831
-(I27
-I553
+(I22
+I2480
 tp1832
 tp1833
-s(S'|How old is the sun?'
+s(S'|What was the ball g'
 p1834
-S'| "This is the first'
+S'|One morning late la'
 p1835
 tp1836
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1837
 tp1838
 Rp1839
-S' is the '
+S'hat was the |ball |game| of ancient Mayans '
 p1840
-S' is the '
+S"hat||'s the stall buzzer -- |||i||t |means "
 p1841
-(I7
-I6
+(I1
+I5087
 tp1842
-(I15
-I14
+(I41
+I5122
 tp1843
 tp1844
-s(S'|What was the name o'
+s(S"|What's the average "
 p1845
-S'|Ground controllers '
+S'|<p> As an idea , re'
 p1846
 tp1847
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00F@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p1848
 tp1849
 Rp1850
-S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
+S"hat's the average "
 p1851
-S' to| the telescope ||so two astronauts could perform a spacewalk'
+S'hat|| the average '
 p1852
-(I17
-I3905
+(I1
+I3696
 tp1853
-(I66
-I3966
+(I19
+I3712
 tp1854
 tp1855
-s(S'|How old is the sun?'
+s(S'|What was the ball g'
 p1856
-S'|But now a new breed'
+S'|<p> UFO mania is sw'
 p1857
 tp1858
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x80B@'
 p1859
 tp1860
 Rp1861
-S' is th|e'
+S' the |ball game|| of ancient Mayans ca'
 p1862
-S' is thre'
+S' the respl|endent || ancient Mayan| ca'
 p1863
-(I7
-I33
+(I8
+I1003
 tp1864
-(I14
-I41
+(I43
+I1037
 tp1865
 tp1866
-s(S'|Where did bocci ori'
+s(S'|When was Microsoft '
 p1867
-S'|<p> In a departure '
+S'|The industry execut'
 p1868
 tp1869
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p1870
 tp1871
 Rp1872
-S'here did bo'
+S' Microsoft |es|tablished'
 p1873
-S'here |is fo'
+S' Microsoft has ta|l||ked'
 p1874
-(I1
-I978
+(I8
+I709
 tp1875
-(I12
-I988
+(I30
+I730
 tp1876
 tp1877
-s(S'|What is the wingspa'
+s(S'|What was the ball g'
 p1878
-S'|<p> The laying of a'
+S'|The government has '
 p1879
 tp1880
 (g4
@@ -3767,614 +3767,614 @@ S'\x00\x00\x00\x00\x00\x009@'
 p1881
 tp1882
 Rp1883
-S' the ||||wing|spa||n|| ||||of a condor'
+S' was the ball game of a|ncien||t Ma'
 p1884
-S' the breeding season , citing a condor'
+S' |at the||||| home of a friend , Ma'
 p1885
-(I7
-I2534
+(I4
+I955
 tp1886
-(I32
-I2572
+(I36
+I984
 tp1887
 tp1888
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p1889
-S'| "Congratulations o'
+S'|In early June , Sun'
 p1890
 tp1891
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00B@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1892
 tp1893
 Rp1894
-S' was the name of the first Russi||||||an astronaut '
+S'w| |old is the s'
 p1895
-S' was ||fin||e on the right |||side .;    Astronaut '
+S'we told||| the s'
 p1896
-(I4
-I819
+(I2
+I2451
 tp1897
-(I49
-I863
+(I16
+I2464
 tp1898
 tp1899
 s(S'|Where did bocci ori'
 p1900
-S'|<p> A year go , Twy'
+S"|<p> There's a littl"
 p1901
 tp1902
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1903
 tp1904
 Rp1905
-S'ere did boc|ci |originate'
+S'e| |did bocci '
 p1906
-S'er| ||, become more in|te'
+S'el hair bocca '
 p1907
-(I2
-I3066
+(I4
+I1045
 tp1908
-(I25
-I3087
+(I16
+I1059
 tp1909
 tp1910
-s(S'|What is the wingspa'
+s(S'|Where did bocci ori'
 p1911
-S'|The first Californi'
+S'|Joined by Councilma'
 p1912
 tp1913
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1914
 tp1915
 Rp1916
-S't i|s the ||wingspan of a c'
+S'ere |did bocci ||originate'
 p1917
-S'tains the makings||| of a c'
+S'ere said to||| proliferate'
 p1918
-(I3
-I79
+(I2
+I1402
 tp1919
-(I27
-I103
+(I25
+I1425
 tp1920
 tp1921
-s(S'|How old is the sun?'
+s(S'|Who invented basket'
 p1922
-S"|Sun has the world's"
+S'|No order is too tal'
 p1923
 tp1924
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1925
 tp1926
 Rp1927
-S' is the '
+S' basketball'
 p1928
-S' is the '
+S' basketball'
 p1929
-(I7
-I532
+(I12
+I1248
 tp1930
-(I15
-I540
+(I23
+I1259
 tp1931
 tp1932
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p1933
-S"|Sun's new decree , "
+S'|<p> The proposed U '
 p1934
 tp1935
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1936
 tp1937
 Rp1938
-S' is the '
+S's the nam|e| of ||the||||| f|||||||irst Russian astronaut| '
 p1939
-S' as the '
+S's|tic number of spacewalks for repairs| |before astronauts '
 p1940
 (I7
-I542
+I102
 tp1941
-(I15
-I550
+(I49
+I158
 tp1942
 tp1943
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p1944
-S'|<p> The California '
+S'|Brave new world;  ('
 p1945
 tp1946
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1947
 tp1948
 Rp1949
-S' the wings|||pa|n o|f a condor'
+S' basketball'
 p1950
-S' the fi|rst  California condor'
+S' basketball'
 p1951
-(I7
-I1291
+(I12
+I2474
 tp1952
-(I32
-I1320
+(I23
+I2485
 tp1953
 tp1954
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p1955
-S'|<p> Biologists tryi'
+S'|The game is a class'
 p1956
 tp1957
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p1958
 tp1959
 Rp1960
-S' wingspan| '
+S' invented||||| basketball'
 p1961
-S' wingspans '
+S' invented by a bas|e|ball'
 p1962
-(I11
-I318
+(I3
+I1493
 tp1963
-(I21
-I329
+(I23
+I1516
 tp1964
 tp1965
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p1966
-S'|Molloko , the Calif'
+S'|BELIZE faces an arr'
 p1967
 tp1968
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1969
 tp1970
 Rp1971
-S'is|| the wingspa|n o|f a condor'
+S' is Belize '
 p1972
-S'ised the |||||California condor'
+S' is Belize '
 p1973
 (I5
-I911
+I191
 tp1974
-(I32
-I937
+(I16
+I202
 tp1975
 tp1976
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p1977
-S'|A new space race is'
+S'|<p> Freed , referri'
 p1978
 tp1979
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00B@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1980
 tp1981
 Rp1982
-S'an| astronaut ||||||to do a||||| spacewalk'
+S'hat wa|||s the |ball g||||ame of ancient Mayans '
 p1983
-S'and astronaut Spring , in a 1985 spacewalk'
+S'h|t |about the nea|r-genocide of ||the|  Mayan| '
 p1984
-(I36
-I5601
+(I1
+I491
 tp1985
-(I66
-I5643
+(I41
+I532
 tp1986
 tp1987
-s(S'|What was the name o'
+s(S"|What's the average "
 p1988
-S'|<p> The Discovery a'
+S'|A new American foot'
 p1989
 tp1990
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00A@'
+S'\x00\x00\x00\x00\x00\x00P@'
 p1991
 tp1992
 Rp1993
-S't was the||| |name| ||of |the fir|||st Russian| |astronaut to d|o a spacewalk'
+S's the average salary of|||| |a professional baseball player'
 p1994
-S't was |being pulled from it|s ||reel . Mission  Contro|||l |ordered spacewalk'
+S's the |||ca||us||||e of the US professional baseball player'
 p1995
-(I3
-I923
+(I5
+I655
 tp1996
-(I66
-I992
+(I59
+I705
 tp1997
 tp1998
-s(S'|Where did bocci ori'
+s(S'|When was Microsoft '
 p1999
-S'|To this end , they '
+S'|The much ballyhooed'
 p2000
 tp2001
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p2002
 tp2003
 Rp2004
-S'ere d||i||d b'
+S' Microsof||t||||||||||| establish'
 p2005
-S'ere devised b'
+S' Microsoft to help OS/2 establish'
 p2006
-(I2
-I661
+(I8
+I1253
 tp2007
-(I11
-I674
+(I28
+I1286
 tp2008
 tp2009
-s(S'|Where is Belize loc'
+s(S'|Where did bocci ori'
 p2010
-S'|TWO important devel'
+S'|<p> In a departure '
 p2011
 tp2012
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p2013
 tp2014
 Rp2015
-S' is Belize|| ||locat'
+S'here did bo'
 p2016
-S" as Belize's rel||at"
+S'here |is fo'
 p2017
-(I5
-I1922
+(I1
+I978
 tp2018
-(I21
-I1940
+(I12
+I988
 tp2019
 tp2020
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p2021
-S'|In none of their in'
+S'|<p> The laying of a'
 p2022
 tp2023
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x009@'
 p2024
 tp2025
 Rp2026
-S'here did bo|c'
+S' the ||||wing|spa||n|| ||||of a condor'
 p2027
-S'here |is no c'
+S' the breeding season , citing a condor'
 p2028
-(I1
-I4261
+(I7
+I2534
 tp2029
-(I13
-I4273
+(I32
+I2572
 tp2030
 tp2031
-s(S'|Where is Belize loc'
+s(S'|When was Microsoft '
 p2032
-S'|MR Manuel Esquivel '
+S'|THE US Justice Depa'
 p2033
 tp2034
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p2035
 tp2036
 Rp2037
-S'ere is Belize '
+S'en| |was Microsoft es'
 p2038
-S'er| of Belize '
+S"en' , as Microsoft is"
 p2039
 (I2
-I97
+I3738
 tp2040
-(I16
-I110
+(I21
+I3759
 tp2041
 tp2042
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p2043
-S'|<p> Her extension s'
+S'|One of four Andean '
 p2044
 tp2045
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x003@'
 p2046
 tp2047
 Rp2048
-S'here did bo'
+S'at||| is the wingspa|n o|f a condor'
 p2049
-S'here |it co'
+S'ative to the |||||California condor'
 p2050
-(I1
-I99
+(I2
+I788
 tp2051
-(I12
-I109
+(I32
+I818
 tp2052
 tp2053
-s(S'|How old is the sun?'
+s(S'|Who invented basket'
 p2054
-S'|Both companies see '
+S'|<p> Dick Motta once'
 p2055
 tp2056
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2057
 tp2058
 Rp2059
-S' is the '
+S'invented basketball'
 p2060
-S' is the '
+S'in|ental Basketball'
 p2061
-(I7
-I531
+(I4
+I3987
 tp2062
-(I15
-I539
+(I23
+I4005
 tp2063
 tp2064
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p2065
-S'|<p> A former high s'
+S'|Molloko , the Calif'
 p2066
 tp2067
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x004@'
 p2068
 tp2069
 Rp2070
-S'here did '
+S'is|| the wingspa|n o|f a condor'
 p2071
-S'here |is '
+S'ised the |||||California condor'
 p2072
-(I1
-I1297
+(I5
+I911
 tp2073
-(I10
-I1305
+(I32
+I937
 tp2074
 tp2075
-s(S'|How old is the sun?'
+s(S"|What's the average "
 p2076
-S'|Computers , except '
+S'|With such a mind-se'
 p2077
 tp2078
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x80@@'
 p2079
 tp2080
 Rp2081
-S'l|d is the '
+S'ary of |a||| |professional baseball '
 p2082
-S'led as the '
+S'ars of labor strife| i|n|| baseball '
 p2083
-(I5
-I1644
+(I22
+I2165
 tp2084
-(I15
-I1655
+(I53
+I2197
 tp2085
 tp2086
-s(S'|How old is the sun?'
+s(S'|Where is Belize loc'
 p2087
-S"|Sun's machine , exp"
+S'|MR Manuel Esquivel '
 p2088
 tp2089
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x003@'
 p2090
 tp2091
 Rp2092
-S' |old is the '
+S'ere is Belize '
 p2093
-S' no|w is the '
+S'er| of Belize '
 p2094
-(I3
-I2615
+(I2
+I97
 tp2095
-(I15
-I2627
+(I16
+I110
 tp2096
 tp2097
-s(S'|How old is the sun?'
+s(S'|Who invented basket'
 p2098
-S'|Sun also is expecte'
+S'|The stinky inspirat'
 p2099
 tp2100
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x006@'
 p2101
 tp2102
 Rp2103
-S' is the s'
+S' basketball'
 p2104
-S' in the s'
+S' basketball'
 p2105
-(I7
-I466
+(I12
+I298
 tp2106
-(I16
-I475
+(I23
+I309
 tp2107
 tp2108
-s(S'|What is the wingspa'
+s(S'|Where did bocci ori'
 p2109
-S'|Six Andean condors '
+S'|<p> A former high s'
 p2110
 tp2111
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p2112
 tp2113
 Rp2114
-S'hat is the '
+S'here did '
 p2115
-S'hat is the '
+S'here |is '
 p2116
 (I1
-I3264
+I1297
 tp2117
-(I12
-I3275
+(I10
+I1305
 tp2118
 tp2119
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p2120
-S'|NASA , in a rare mo'
+S'|Computers , except '
 p2121
 tp2122
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x000@'
 p2123
 tp2124
 Rp2125
-S' name| |of the first| Russi|an astron'
+S'l|d is the '
 p2126
-S' named for the ||late American astron'
+S'led as the '
 p2127
-(I12
-I2807
+(I5
+I1644
 tp2128
-(I45
-I2842
+(I15
+I1655
 tp2129
 tp2130
-s(S"|Where's Montenegro?"
+s(S'|Where is Belize loc'
 p2131
-S'|BFN     [Text] [Ann'
+S'|Language : <f p= "1'
 p2132
 tp2133
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x002@'
 p2134
 tp2135
 Rp2136
-S' Montenegro'
+S'here |i|s Belize|| lo'
 p2137
-S' Montenegro'
+S'he|s with Belizean so'
 p2138
-(I7
-I1752
+(I1
+I1650
 tp2139
 (I18
-I1763
+I1670
 tp2140
 tp2141
-s(S'|What was the name o'
+s(S'|When was Microsoft '
 p2142
-S'|After seven years o'
+S'|For Microsoft chair'
 p2143
 tp2144
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00@@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p2145
 tp2146
 Rp2147
-S' the ||||n|||ame of the fi|||rst Russian|| astronaut| to d'
+S'en |was Microsoft es|tabl|i'
 p2148
-S' the second da|y of the five-day mission . NASA wants to d'
+S'es that Microsoft is ta|lki'
 p2149
-(I8
-I4274
+(I2
+I5018
 tp2150
-(I53
-I4331
+(I26
+I5044
 tp2151
 tp2152
-s(S'|Where is Belize loc'
+s(S"|What's the average "
 p2153
-S'|Language : <f p= "1'
+S'|April 26    The Par'
 p2154
 tp2155
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x00L@'
 p2156
 tp2157
 Rp2158
-S'here |i|s Belize|| lo'
+S' a professional baseball player'
 p2159
-S'he|s with Belizean so'
+S'   Professional baseball player'
 p2160
-(I1
-I1650
+(I28
+I55
 tp2161
-(I18
-I1670
+(I59
+I86
 tp2162
 tp2163
-s(S'|How old is the sun?'
+s(S'|When was Microsoft '
 p2164
-S'|The software is par'
+S'|THE US Federal Trad'
 p2165
 tp2166
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x009@'
 p2167
 tp2168
 Rp2169
-S' is the '
+S'n |wa||s| Microsoft '
 p2170
-S' in the '
+S'n against Microsoft '
 p2171
-(I7
-I983
+(I3
+I3560
 tp2172
-(I15
-I991
+(I19
+I3580
 tp2173
 tp2174
-s(S'|What is the wingspa'
+s(S'|Who invented basket'
 p2175
-S'|The hatchings of tw'
+S'|I saw an Arena foot'
 p2176
 tp2177
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x004@'
 p2178
 tp2179
 Rp2180
-S' th||e|| wingspan of '
+S'basketball'
 p2181
-S' |have a wingspan of '
+S'basketball'
 p2182
-(I7
-I1176
+(I13
+I5242
 tp2183
-(I24
-I1196
+(I23
+I5252
 tp2184
 tp2185
-s(S'|What was the name o'
+s(S"|What's the average "
 p2186
-S'|The 60-foot-long do'
+S'|I wish I could reme'
 p2187
 tp2188
 (g4
@@ -4383,279 +4383,4415 @@ S'\x00\x00\x00\x00\x00\x00A@'
 p2189
 tp2190
 Rp2191
-S' of the first Russian astronaut| to| do a'
+S'o|n||al baseball player'
 p2192
-S' of the|||||| ||seven astronauts |on bo|a'
+S'ound a| baseball player'
 p2193
-(I17
-I346
+(I39
+I2535
 tp2194
-(I56
-I377
+(I59
+I2557
 tp2195
 tp2196
-s(S'|Where did bocci ori'
+s(S'|When was Microsoft '
 p2197
-S'|Irma Balderas will '
+S'|NOVELL , the US sof'
 p2198
 tp2199
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2200
 tp2201
 Rp2202
-S'here '
+S'n was Microsoft '
 p2203
-S'here '
+S'n its Microsoft '
 p2204
-(I1
-I564
+(I3
+I2397
 tp2205
-(I6
-I569
+(I19
+I2413
 tp2206
 tp2207
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p2208
-S'|Says executive vice'
+S'|Two eggs laid by ca'
 p2209
 tp2210
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x003@'
 p2211
 tp2212
 Rp2213
-S' |old is the '
+S'at is |the| ||||wing|span of a| '
 p2214
-S' no|w is the '
+S"ate's other breeding station at "
 p2215
-(I3
-I4563
+(I2
+I338
 tp2216
-(I15
-I4575
+(I26
+I370
 tp2217
 tp2218
-s(S'|What was the name o'
+s(S'|What was the ball g'
 p2219
-S'|Installing a donut-'
+S'|And there are hundr'
 p2220
 tp2221
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x001@'
 p2222
 tp2223
 Rp2224
-S'hat was the n|ame |o||f the first||||| |Rus|||sia|||n| astronaut| to '
+S'hat was |the||| b||all game of '
 p2225
-S"hat |a| ``donut'' could |be |installed by spacewalking astronauts to "
+S'hat has already become |one of '
 p2226
 (I1
-I207
+I285
 tp2227
-(I52
-I272
+(I26
+I315
 tp2228
 tp2229
-s(S"|Where's Montenegro?"
+s(S'|What was the ball g'
 p2230
-S'|Language : <f p= "1'
+S'|All proceeds go dir'
 p2231
 tp2232
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x007@'
 p2233
 tp2234
 Rp2235
-S's Montenegro'
+S's the ball game of ancie|||nt Mayans '
 p2236
-S's Montenegro'
+S's|t|| |and home of ||the last Mayan| '
 p2237
-(I6
-I4647
+(I7
+I621
 tp2238
-(I18
-I4659
+(I41
+I651
 tp2239
 tp2240
 s(S'|What was the name o'
 p2241
-S'|Bagian had left an '
+S'|US astronauts succe'
 p2242
 tp2243
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00D@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2244
 tp2245
 Rp2246
-S'hat w|as the name of the first Russian ||ast||ron||au|||t to |do a| '
+S' astronaut| |to do '
 p2247
-S'hat when |we came on th|||i|s| mission tha|t when you get to fly at '
+S' astronauts can do '
 p2248
-(I1
-I376
+(I38
+I238
 tp2249
-(I57
-I437
+(I55
+I257
 tp2250
 tp2251
-s(S'|Where did bocci ori'
+s(S'|albacore'
 p2252
-S'|New York City Balle'
+S'|baecon'
 p2253
 tp2254
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00\x1c@'
 p2255
 tp2256
 Rp2257
-S' origina'
+S'ba|co'
 p2258
-S' origina'
+S'baeco'
 p2259
-(I15
-I2584
+(I2
+I0
 tp2260
-(I23
-I2592
+(I6
+I5
 tp2261
 tp2262
-s(S'|Where did bocci ori'
+s(S'|How old is the sun?'
 p2263
-S'|Federal prosecutors'
+S'|At the same time , '
 p2264
 tp2265
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x001@'
 p2266
 tp2267
 Rp2268
-S'ere d||i|d boc'
+S' o|ld is the '
 p2269
-S'ers dating bac'
+S' only in the '
 p2270
-(I2
-I660
+(I3
+I5940
 tp2271
-(I13
-I674
+(I15
+I5953
 tp2272
 tp2273
-s(S'|What is the wingspa'
+s(S'|What was the ball g'
 p2274
-S'|A newborn Californi'
+S'|<p> It takes quite '
 p2275
 tp2276
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00A@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p2277
 tp2278
 Rp2279
-S't is the wingsp|an| of|||| |a|| condor'
+S' the ball game of ancient M'
 p2280
-S't is the |offspring of the same condor'
+S' the worl||||d of ancient M'
 p2281
-(I3
-I1004
+(I8
+I41
 tp2282
-(I32
-I1041
+(I35
+I64
 tp2283
 tp2284
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p2285
-S'|The Philadelphia Zo'
+S"|GUATEMALA'S Congres"
 p2286
 tp2287
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x005@'
 p2288
 tp2289
 Rp2290
-S'hat is the wingspan of |a co'
+S'here is Belize '
 p2291
-S'ha|||s ||a wingspan of up to'
+S'held in Belize '
 p2292
 (I1
-I2115
+I566
 tp2293
-(I28
-I2138
+(I16
+I581
 tp2294
 tp2295
-s(S'|Where is Belize loc'
+s(S'|What was the ball g'
 p2296
-S'|A Guatemalan gunboa'
+S'|An archaeological t'
 p2297
 tp2298
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2299
 tp2300
 Rp2301
-S'e| is Belize '
+S'e| of ancient Mayans calle|d'
 p2302
-S'ed in Belize '
+S'es of ||the|| Mayan| ca|lend'
 p2303
-(I4
-I1111
+(I21
+I619
 tp2304
-(I16
-I1124
+(I47
+I641
 tp2305
 tp2306
-s(S'|What was the name o'
+s(S'|When was Microsoft '
 p2307
-S'|<p> The launch of t'
+S'|The Windows 3 .1 Pr'
 p2308
 tp2309
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80E@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2310
 tp2311
 Rp2312
-S' the ||name of the first Russian|||||| astronaut| '
+S'en wa|s Microsoft ||es'
 p2313
-S' the course of the||ir|| mission , the astronauts '
+S'er said Microsoft does'
 p2314
-(I8
-I2040
+(I2
+I1856
 tp2315
-(I49
-I2086
+(I21
+I1878
 tp2316
 tp2317
-s(S'|What was the name o'
+s(S'|Who invented basket'
 p2318
-S'|NASA launched the s'
+S'|<p> Rewind the bask'
 p2319
 tp2320
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80F@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p2321
 tp2322
 Rp2323
-S' the first Russian astronaut| to ||do a space'
+S'ented basketball'
 p2324
-S' The first ||||non-astronauts go into|| space'
+S'ected basketball'
 p2325
-(I20
-I938
+(I7
+I7033
 tp2326
-(I62
-I977
+(I23
+I7049
 tp2327
 tp2328
+s(S"|What's the average "
+p2329
+S'|Is it over?  Is the'
+p2330
+tp2331
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p2332
+tp2333
+Rp2334
+S'l baseball player'
+p2335
+S'l baseball player'
+p2336
+(I42
+I7213
+tp2337
+(I59
+I7230
+tp2338
+tp2339
+s(S'|Where did bocci ori'
+p2340
+S'|Language : <f p= "1'
+p2341
+tp2342
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p2343
+tp2344
+Rp2345
+S'here did bo|c'
+p2346
+S'here |is no c'
+p2347
+(I1
+I3313
+tp2348
+(I13
+I3325
+tp2349
+tp2350
+s(S'|What was the name o'
+p2351
+S'|Two cosmonauts left'
+p2352
+tp2353
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p2354
+tp2355
+Rp2356
+S't was the name| o|||f the first Russia||n|| astrona|ut|| t||||||||||o do a||| space|walk'
+p2357
+S"t |to the telescope , the |Tass news agency |said at the time .    In today's space walk"
+p2358
+(I3
+I698
+tp2359
+(I66
+I783
+tp2360
+tp2361
+s(S'|What was the ball g'
+p2362
+S'|<p> A UCLA archeolo'
+p2363
+tp2364
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p2365
+tp2366
+Rp2367
+S'at was ||the| bal|l ga||me of |||ancient Mayans c'
+p2368
+S'as |a  pot|ential location of advanc|e|d Mayan| c'
+p2369
+(I2
+I2321
+tp2370
+(I42
+I2365
+tp2371
+tp2372
+s(S'|What was the ball g'
+p2373
+S'|<p> The Rio Azul ar'
+p2374
+tp2375
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2376
+tp2377
+Rp2378
+S' the |||ball |gam||e| of |a|||nc||||ient Mayans cal'
+p2379
+S' the finest  examples of early classi||c Mayan| cul'
+p2380
+(I8
+I72
+tp2381
+(I44
+I120
+tp2382
+tp2383
+s(S'|Who invented basket'
+p2384
+S'|<p> The Harlem Glob'
+p2385
+tp2386
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2387
+tp2388
+Rp2389
+S'd basketball'
+p2390
+S'd basketball'
+p2391
+(I11
+I1620
+tp2392
+(I23
+I1632
+tp2393
+tp2394
+s(S'|Where is Belize loc'
+p2395
+S'|PORING OVER the pag'
+p2396
+tp2397
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p2398
+tp2399
+Rp2400
+S'r|e| is Belize '
+p2401
+S'rced in Belize '
+p2402
+(I3
+I2818
+tp2403
+(I16
+I2833
+tp2404
+tp2405
+s(S'|Where is Belize loc'
+p2406
+S'|BFN     [Text] Pres'
+p2407
+tp2408
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2409
+tp2410
+Rp2411
+S' is Belize||| located'
+p2412
+S' in Pe||ten , located'
+p2413
+(I5
+I1417
+tp2414
+(I23
+I1436
+tp2415
+tp2416
+s(S'|Where is Belize loc'
+p2417
+S'|The British governm'
+p2418
+tp2419
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2420
+tp2421
+Rp2422
+S'e| is Belize lo|c||ate'
+p2423
+S'ed in Belize to counte'
+p2424
+(I4
+I526
+tp2425
+(I22
+I548
+tp2426
+tp2427
+s(S'|Who invented basket'
+p2428
+S'|<p> Dan Goldie , th'
+p2429
+tp2430
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p2431
+tp2432
+Rp2433
+S'ed| basketball'
+p2434
+S'ed  basketball'
+p2435
+(I10
+I2450
+tp2436
+(I23
+I2464
+tp2437
+tp2438
+s(S'|Where is Belize loc'
+p2439
+S'|THE opposition in B'
+p2440
+tp2441
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2442
+tp2443
+Rp2444
+S'ere is Belize '
+p2445
+S'ers in Belize '
+p2446
+(I2
+I647
+tp2447
+(I16
+I661
+tp2448
+tp2449
+s(S'|Where is Belize loc'
+p2450
+S"|BELIZE'S new govern"
+p2451
+tp2452
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2453
+tp2454
+Rp2455
+S'ere| is Belize |locate'
+p2456
+S'ered by Belize , Guate'
+p2457
+(I2
+I1276
+tp2458
+(I22
+I1298
+tp2459
+tp2460
+s(S'|When was Microsoft '
+p2461
+S"|When Microsoft's po"
+p2462
+tp2463
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p2464
+tp2465
+Rp2466
+S'en| ||wa||s Microsoft '
+p2467
+S'ent towards Microsoft '
+p2468
+(I2
+I273
+tp2469
+(I19
+I295
+tp2470
+tp2471
+s(S'|What was the ball g'
+p2472
+S'|<p> Once home to el'
+p2473
+tp2474
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p2475
+tp2476
+Rp2477
+S' of|||| ancient Mayans c'
+p2478
+S' of the ancient Mayan| c'
+p2479
+(I22
+I2079
+tp2480
+(I42
+I2102
+tp2481
+tp2482
+s(S'|How old is the sun?'
+p2483
+S'|COMPUTER workstatio'
+p2484
+tp2485
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2486
+tp2487
+Rp2488
+S' is the '
+p2489
+S' is the '
+p2490
+(I7
+I1957
+tp2491
+(I15
+I1965
+tp2492
+tp2493
+s(S'|Where did bocci ori'
+p2494
+S'|<p> At the unpreced'
+p2495
+tp2496
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p2497
+tp2498
+Rp2499
+S'd bocci orig||inat'
+p2500
+S'd local or|ganizat'
+p2501
+(I8
+I8374
+tp2502
+(I24
+I8391
+tp2503
+tp2504
+s(S'|What was the name o'
+p2505
+S'|Five astronauts boa'
+p2506
+tp2507
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p2508
+tp2509
+Rp2510
+S't| wa|s th||e name| o|||||||f the first Russian '
+p2511
+S'th pads |have |been occupied; the first was i|n '
+p2512
+(I3
+I1508
+tp2513
+(I39
+I1553
+tp2514
+tp2515
+s(S"|What's the average "
+p2516
+S'|Has the  "free " sn'
+p2517
+tp2518
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p2519
+tp2520
+Rp2521
+S' baseball player'
+p2522
+S' Baseball Player'
+p2523
+(I43
+I868
+tp2524
+(I59
+I884
+tp2525
+tp2526
+s(S'|What was the name o'
+p2527
+S'|An internal NASA st'
+p2528
+tp2529
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p2530
+tp2531
+Rp2532
+S' the name of the first Russian |astronau|t to d'
+p2533
+S' th|||a|t if the si||t||uation cont|in|ues to d'
+p2534
+(I8
+I1432
+tp2535
+(I53
+I1469
+tp2536
+tp2537
+s(S'|Where did bocci ori'
+p2538
+S'|A jury has conclude'
+p2539
+tp2540
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p2541
+tp2542
+Rp2543
+S'he|re|| did '
+p2544
+S'helmets did '
+p2545
+(I1
+I1743
+tp2546
+(I10
+I1755
+tp2547
+tp2548
+s(S'|When was Microsoft '
+p2549
+S'|<p> Microsoft Corp '
+p2550
+tp2551
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2552
+tp2553
+Rp2554
+S' Microsoft esta'
+p2555
+S' Microsoft |s|a'
+p2556
+(I8
+I169
+tp2557
+(I23
+I182
+tp2558
+tp2559
+s(S"|Where's Montenegro?"
+p2560
+S'|BFN     [Text] Ceti'
+p2561
+tp2562
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2563
+tp2564
+Rp2565
+S' Montenegro'
+p2566
+S' Montenegro'
+p2567
+(I7
+I84
+tp2568
+(I18
+I95
+tp2569
+tp2570
+s(S'|What is the wingspa'
+p2571
+S'|An egg laid in capt'
+p2572
+tp2573
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p2574
+tp2575
+Rp2576
+S' the wingspan of ||a| condor'
+p2577
+S" the |||||park's lead condor"
+p2578
+(I7
+I196
+tp2579
+(I32
+I219
+tp2580
+tp2581
+s(S'|What was the name o'
+p2582
+S'|The sky was cloudy '
+p2583
+tp2584
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p2585
+tp2586
+Rp2587
+S's the |||name of the '
+p2588
+S's the release of the '
+p2589
+(I7
+I951
+tp2590
+(I25
+I972
+tp2591
+tp2592
+s(S'|How old is the sun?'
+p2593
+S'|Price cuts on older'
+p2594
+tp2595
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p2596
+tp2597
+Rp2598
+S'ow |old is the '
+p2599
+S'o| follows the '
+p2600
+(I1
+I462
+tp2601
+(I15
+I476
+tp2602
+tp2603
+s(S'|What is the wingspa'
+p2604
+S'|After weeks of amor'
+p2605
+tp2606
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p2607
+tp2608
+Rp2609
+S' wingspan| '
+p2610
+S' wingspans '
+p2611
+(I11
+I1262
+tp2612
+(I21
+I1273
+tp2613
+tp2614
+s(S'|Who invented basket'
+p2615
+S'|Things were not goi'
+p2616
+tp2617
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2618
+tp2619
+Rp2620
+S'ed basketball'
+p2621
+S'e| basketball'
+p2622
+(I10
+I746
+tp2623
+(I23
+I758
+tp2624
+tp2625
+s(S'|When was Microsoft '
+p2626
+S'|<p> In an effort to'
+p2627
+tp2628
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p2629
+tp2630
+Rp2631
+S'en| was ||Microsoft| establish'
+p2632
+S'ent was an effort to establish'
+p2633
+(I2
+I639
+tp2634
+(I28
+I669
+tp2635
+tp2636
+s(S"|Where's Montenegro?"
+p2637
+S'|BFN     [Text] [Ann'
+p2638
+tp2639
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2640
+tp2641
+Rp2642
+S' Montenegro'
+p2643
+S' Montenegro'
+p2644
+(I7
+I1752
+tp2645
+(I18
+I1763
+tp2646
+tp2647
+s(S'|Where did bocci ori'
+p2648
+S'|American Ballet The'
+p2649
+tp2650
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p2651
+tp2652
+Rp2653
+S'here '
+p2654
+S'here '
+p2655
+(I1
+I2486
+tp2656
+(I6
+I2491
+tp2657
+tp2658
+s(S'|Who invented basket'
+p2659
+S'|The National Basket'
+p2660
+tp2661
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p2662
+tp2663
+Rp2664
+S'ed basketball'
+p2665
+S'ed basketball'
+p2666
+(I10
+I4673
+tp2667
+(I23
+I4686
+tp2668
+tp2669
+s(S'|Who invented basket'
+p2670
+S'|The unusual has com'
+p2671
+tp2672
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2673
+tp2674
+Rp2675
+S' invent|e||||d basketball'
+p2676
+S' in|| the NCAA basketball'
+p2677
+(I3
+I46
+tp2678
+(I23
+I69
+tp2679
+tp2680
+s(S'|Where did bocci ori'
+p2681
+S'|All but one of this'
+p2682
+tp2683
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2684
+tp2685
+Rp2686
+S'e| did bocci| origina'
+p2687
+S'ed |in |their origina'
+p2688
+(I4
+I582
+tp2689
+(I23
+I601
+tp2690
+tp2691
+s(S"|What's the average "
+p2692
+S'|Baseball players in'
+p2693
+tp2694
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p2695
+tp2696
+Rp2697
+S' |of |a professional |ba|se|ball '
+p2698
+S' top US professional league will '
+p2699
+(I25
+I23
+tp2700
+(I53
+I56
+tp2701
+tp2702
+s(S'|Where is Belize loc'
+p2703
+S'|BFN     [Excerpt] G'
+p2704
+tp2705
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2706
+tp2707
+Rp2708
+S'e is |Belize lo'
+p2709
+S'e || "Belize Co'
+p2710
+(I4
+I1007
+tp2711
+(I18
+I1020
+tp2712
+tp2713
+s(S'|What was the ball g'
+p2714
+S'|Marilyn Goldstein ,'
+p2715
+tp2716
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p2717
+tp2718
+Rp2719
+S' the |ball g|ame of|||||| an||c|ie|nt|| Mayans ca'
+p2720
+S' the writing and |figures indicated the Mayans ha'
+p2721
+(I8
+I139
+tp2722
+(I43
+I187
+tp2723
+tp2724
+s(S'|Where did bocci ori'
+p2725
+S'|Except in her exqui'
+p2726
+tp2727
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2728
+tp2729
+Rp2730
+S' origina'
+p2731
+S' origina'
+p2732
+(I15
+I3462
+tp2733
+(I23
+I3470
+tp2734
+tp2735
+s(S'|What is the wingspa'
+p2736
+S'|A tiny , pale aqua '
+p2737
+tp2738
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p2739
+tp2740
+Rp2741
+S' is the win|gspa|n o|f a condor'
+p2742
+S' is the |only California condor'
+p2743
+(I4
+I1162
+tp2744
+(I32
+I1192
+tp2745
+tp2746
+s(S'|What was the name o'
+p2747
+S'|Navy Capt . Dick Ri'
+p2748
+tp2749
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p2750
+tp2751
+Rp2752
+S' w|as the |na|me| of th|||||e| |first|| Russian astronaut '
+p2753
+S' when |he learned he |had been selected ||as an astronaut '
+p2754
+(I4
+I1501
+tp2755
+(I49
+I1555
+tp2756
+tp2757
+s(S'|Where did bocci ori'
+p2758
+S'|The first Hans Chri'
+p2759
+tp2760
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p2761
+tp2762
+Rp2763
+S'ere ||d||||id bocci o'
+p2764
+S'er| and Julio Bocca o'
+p2765
+(I2
+I1331
+tp2766
+(I17
+I1351
+tp2767
+tp2768
+s(S'|How old is the sun?'
+p2769
+S'|The software is par'
+p2770
+tp2771
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p2772
+tp2773
+Rp2774
+S' is the '
+p2775
+S' in the '
+p2776
+(I7
+I983
+tp2777
+(I15
+I991
+tp2778
+tp2779
+s(S'|Where did bocci ori'
+p2780
+S'|Prospective jurors '
+p2781
+tp2782
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p2783
+tp2784
+Rp2785
+S'he|re| did bocci o'
+p2786
+S'he reputed bo|ss o'
+p2787
+(I1
+I571
+tp2788
+(I17
+I588
+tp2789
+tp2790
+s(S'|What is the wingspa'
+p2791
+S'|Love is in the air '
+p2792
+tp2793
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2794
+tp2795
+Rp2796
+S' wingspan|||||| |of ||||a| condor'
+p2797
+S' wingspans .    The Andean condor'
+p2798
+(I11
+I2679
+tp2799
+(I32
+I2712
+tp2800
+tp2801
+s(S'|How old is the sun?'
+p2802
+S'|SUN Microsystems ai'
+p2803
+tp2804
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p2805
+tp2806
+Rp2807
+S'd is the '
+p2808
+S'd in the '
+p2809
+(I6
+I667
+tp2810
+(I15
+I676
+tp2811
+tp2812
+s(S'|What was the ball g'
+p2813
+S'|Two decades ago , u'
+p2814
+tp2815
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p2816
+tp2817
+Rp2818
+S'e ||bal|l |game of ancient '
+p2819
+S'e rivaled tha|t of ancient '
+p2820
+(I11
+I1134
+tp2821
+(I34
+I1160
+tp2822
+tp2823
+s(S'|Where is Belize loc'
+p2824
+S'|Farce , rather than'
+p2825
+tp2826
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2827
+tp2828
+Rp2829
+S' Belize '
+p2830
+S' Belize '
+p2831
+(I8
+I619
+tp2832
+(I16
+I627
+tp2833
+tp2834
+s(S'|What was the name o'
+p2835
+S'|Air Force Lt . Col '
+p2836
+tp2837
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80A@'
+p2838
+tp2839
+Rp2840
+S' astronaut||||| to| ||||||d||o |a spacewalk'
+p2841
+S' astronauts had not planned to go spacewalk'
+p2842
+(I38
+I1607
+tp2843
+(I66
+I1650
+tp2844
+tp2845
+s(S'|What is the wingspa'
+p2846
+S'| "You could tell ou'
+p2847
+tp2848
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p2849
+tp2850
+Rp2851
+S' wingspan '
+p2852
+S' wingspan '
+p2853
+(I11
+I1406
+tp2854
+(I21
+I1416
+tp2855
+tp2856
+s(S"|What's the average "
+p2857
+S'|Brett Hull of the S'
+p2858
+tp2859
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80G@'
+p2860
+tp2861
+Rp2862
+S' the average salary of a pro'
+p2863
+S' the average salary is appro'
+p2864
+(I6
+I382
+tp2865
+(I34
+I410
+tp2866
+tp2867
+s(S'|How old is the sun?'
+p2868
+S'|Compaq Computer Cor'
+p2869
+tp2870
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2871
+tp2872
+Rp2873
+S' is the '
+p2874
+S' is the '
+p2875
+(I7
+I1351
+tp2876
+(I15
+I1359
+tp2877
+tp2878
+s(S'|What is the wingspa'
+p2879
+S'|The hatchings of tw'
+p2880
+tp2881
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p2882
+tp2883
+Rp2884
+S' th||e|| wingspan of '
+p2885
+S' |have a wingspan of '
+p2886
+(I7
+I1176
+tp2887
+(I24
+I1196
+tp2888
+tp2889
+s(S'|What was the ball g'
+p2890
+S'|A jungle-shrouded c'
+p2891
+tp2892
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p2893
+tp2894
+Rp2895
+S' was the| ba|l||l |game| of |||ancient Mayans c'
+p2896
+S' |an even earlier center of advanc|e|d Mayan| c'
+p2897
+(I4
+I2470
+tp2898
+(I42
+I2513
+tp2899
+tp2900
+s(S'|Where is Belize loc'
+p2901
+S'|THE award this mont'
+p2902
+tp2903
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p2904
+tp2905
+Rp2906
+S'is| Belize '
+p2907
+S'ise Belize '
+p2908
+(I6
+I1457
+tp2909
+(I16
+I1468
+tp2910
+tp2911
+s(S'|What was the name o'
+p2912
+S'|A new NASA report c'
+p2913
+tp2914
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p2915
+tp2916
+Rp2917
+S' of the ||fir|||st|| |Rus|||sia|||n| astronaut| '
+p2918
+S' of the solar system by spacewalking astronauts '
+p2919
+(I17
+I466
+tp2920
+(I49
+I514
+tp2921
+tp2922
+s(S'|When was Microsoft '
+p2923
+S'|THE computer indust'
+p2924
+tp2925
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2926
+tp2927
+Rp2928
+S' established'
+p2929
+S' established'
+p2930
+(I18
+I1829
+tp2931
+(I30
+I1841
+tp2932
+tp2933
+s(S'|What was the name o'
+p2934
+S'| "We\'re extremely p'
+p2935
+tp2936
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p2937
+tp2938
+Rp2939
+S' astronaut||||| t|o do|| a space'
+p2940
+S' astronauts saw the Soviet space'
+p2941
+(I38
+I305
+tp2942
+(I62
+I337
+tp2943
+tp2944
+s(S'|Where did bocci ori'
+p2945
+S'|<p> As result of in'
+p2946
+tp2947
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2948
+tp2949
+Rp2950
+S' origina'
+p2951
+S' origina'
+p2952
+(I15
+I75
+tp2953
+(I23
+I83
+tp2954
+tp2955
+s(S'|What is the wingspa'
+p2956
+S'|A tiny California c'
+p2957
+tp2958
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p2959
+tp2960
+Rp2961
+S' |is th|e wing|span of |a co'
+p2962
+S' wi||th a wing span of up to'
+p2963
+(I4
+I1416
+tp2964
+(I28
+I1442
+tp2965
+tp2966
+s(S"|What's the average "
+p2967
+S'|It was the US Labor'
+p2968
+tp2969
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00E@'
+p2970
+tp2971
+Rp2972
+S' the |aver|a||||g||e salary of ||a professional '
+p2973
+S' the ba||rgaining te|nacity of the professional '
+p2974
+(I6
+I1591
+tp2975
+(I44
+I1636
+tp2976
+tp2977
+s(S'|How old is the sun?'
+p2978
+S'|Digital Equipment C'
+p2979
+tp2980
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p2981
+tp2982
+Rp2983
+S'ow o|ld is the s'
+p2984
+S'owdowns in the s'
+p2985
+(I1
+I3540
+tp2986
+(I16
+I3556
+tp2987
+tp2988
+s(S'|When was Microsoft '
+p2989
+S'|Microsoft , the wor'
+p2990
+tp2991
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p2992
+tp2993
+Rp2994
+S' Microsoft establ'
+p2995
+S' Microsoft is a|l'
+p2996
+(I8
+I726
+tp2997
+(I25
+I742
+tp2998
+tp2999
+s(S'|What was the name o'
+p3000
+S"|Mission Control's B"
+p3001
+tp3002
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00?@'
+p3003
+tp3004
+Rp3005
+S'me of the fi|rs|||t Russi||||||||a|n astronaut '
+p3006
+S'me of the views are amazing , " said astronaut '
+p3007
+(I15
+I2580
+tp3008
+(I49
+I2627
+tp3009
+tp3010
+s(S'|How old is the sun?'
+p3011
+S'| "This is the first'
+p3012
+tp3013
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3014
+tp3015
+Rp3016
+S' is the '
+p3017
+S' is the '
+p3018
+(I7
+I6
+tp3019
+(I15
+I14
+tp3020
+tp3021
+s(S'|What was the name o'
+p3022
+S'|Ground controllers '
+p3023
+tp3024
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00F@'
+p3025
+tp3026
+Rp3027
+S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
+p3028
+S' to| the telescope ||so two astronauts could perform a spacewalk'
+p3029
+(I17
+I3905
+tp3030
+(I66
+I3966
+tp3031
+tp3032
+s(S"|What's the average "
+p3033
+S'|<p> Baseball player'
+p3034
+tp3035
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00D@'
+p3036
+tp3037
+Rp3038
+S' the average salary '
+p3039
+S' the average salary '
+p3040
+(I6
+I1353
+tp3041
+(I26
+I1373
+tp3042
+tp3043
+s(S'|What was the name o'
+p3044
+S'| "Congratulations o'
+p3045
+tp3046
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00B@'
+p3047
+tp3048
+Rp3049
+S' was the name of the first Russi||||||an astronaut '
+p3050
+S' was ||fin||e on the right |||side .;    Astronaut '
+p3051
+(I4
+I819
+tp3052
+(I49
+I863
+tp3053
+tp3054
+s(S'|When was Microsoft '
+p3055
+S'|The 1985 agreement '
+p3056
+tp3057
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p3058
+tp3059
+Rp3060
+S' established'
+p3061
+S' established'
+p3062
+(I18
+I270
+tp3063
+(I30
+I282
+tp3064
+tp3065
+s(S'|What was the ball g'
+p3066
+S'|Prehistoric America'
+p3067
+tp3068
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3069
+tp3070
+Rp3071
+S' wa|s the ba||||ll |ga||me of ancien||t Mayans ca'
+p3072
+S' |and the National Academy of |Sciences |||and wa'
+p3073
+(I4
+I1879
+tp3074
+(I43
+I1923
+tp3075
+tp3076
+s(S'|How old is the sun?'
+p3077
+S"|Sun's new decree , "
+p3078
+tp3079
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3080
+tp3081
+Rp3082
+S' is the '
+p3083
+S' as the '
+p3084
+(I7
+I542
+tp3085
+(I15
+I550
+tp3086
+tp3087
+s(S'|Who invented basket'
+p3088
+S'| "I went to work wi'
+p3089
+tp3090
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p3091
+tp3092
+Rp3093
+S' invent|ed basketball'
+p3094
+S' i|dentify basketball'
+p3095
+(I3
+I1810
+tp3096
+(I23
+I1830
+tp3097
+tp3098
+s(S'|What was the ball g'
+p3099
+S'|WERE the first civi'
+p3100
+tp3101
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3102
+tp3103
+Rp3104
+S' the ball game of ancient| Mayans calle|d'
+p3105
+S' the |||hig|||hly accurate Mayan| ca|lend'
+p3106
+(I8
+I1717
+tp3107
+(I47
+I1750
+tp3108
+tp3109
+s(S"|What's the average "
+p3110
+S'|<p> Now watch what '
+p3111
+tp3112
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00E@'
+p3113
+tp3114
+Rp3115
+S'e avera||||ge salary of a|||| professional |base'
+p3116
+S'e attract the s||ort of able  professional whose'
+p3117
+(I9
+I2968
+tp3118
+(I48
+I3014
+tp3119
+tp3120
+s(S'|When was Microsoft '
+p3121
+S'|With IBM , Microsof'
+p3122
+tp3123
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p3124
+tp3125
+Rp3126
+S' wa|s Microsoft ||es'
+p3127
+S' says Microsoft pres'
+p3128
+(I4
+I240
+tp3129
+(I21
+I260
+tp3130
+tp3131
+s(S'|How old is the sun?'
+p3132
+S'|Both companies see '
+p3133
+tp3134
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3135
+tp3136
+Rp3137
+S' is the '
+p3138
+S' is the '
+p3139
+(I7
+I531
+tp3140
+(I15
+I539
+tp3141
+tp3142
+s(S"|What's the average "
+p3143
+S'|<p> The NFL , follo'
+p3144
+tp3145
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00D@'
+p3146
+tp3147
+Rp3148
+S"hat's||| the average|||| salary "
+p3149
+S'hat said the average NFL salary '
+p3150
+(I1
+I1751
+tp3151
+(I26
+I1783
+tp3152
+tp3153
+s(S'|How old is the sun?'
+p3154
+S"|Sun's machine , exp"
+p3155
+tp3156
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p3157
+tp3158
+Rp3159
+S' |old is the '
+p3160
+S' no|w is the '
+p3161
+(I3
+I2615
+tp3162
+(I15
+I2627
+tp3163
+tp3164
+s(S'|How old is the sun?'
+p3165
+S'|Sun also is expecte'
+p3166
+tp3167
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3168
+tp3169
+Rp3170
+S' is the s'
+p3171
+S' in the s'
+p3172
+(I7
+I466
+tp3173
+(I16
+I475
+tp3174
+tp3175
+s(S'|Where did bocci ori'
+p3176
+S'|Briggs would rather'
+p3177
+tp3178
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p3179
+tp3180
+Rp3181
+S'here '
+p3182
+S'here '
+p3183
+(I1
+I947
+tp3184
+(I6
+I952
+tp3185
+tp3186
+s(S'|How old is the sun?'
+p3187
+S"|Sun has the world's"
+p3188
+tp3189
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3190
+tp3191
+Rp3192
+S' is the '
+p3193
+S' is the '
+p3194
+(I7
+I532
+tp3195
+(I15
+I540
+tp3196
+tp3197
+s(S"|What's the average "
+p3198
+S'|Labor gridlock grip'
+p3199
+tp3200
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00L@'
+p3201
+tp3202
+Rp3203
+S' professional bas|e|ball player'
+p3204
+S' professional basketball player'
+p3205
+(I30
+I81
+tp3206
+(I59
+I112
+tp3207
+tp3208
+s(S'|Who invented basket'
+p3209
+S'|<p> He majored in A'
+p3210
+tp3211
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3212
+tp3213
+Rp3214
+S'ed||| basketball'
+p3215
+S'ed on basketball'
+p3216
+(I10
+I5124
+tp3217
+(I23
+I5140
+tp3218
+tp3219
+s(S'|What was the name o'
+p3220
+S'|The 60-foot-long do'
+p3221
+tp3222
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p3223
+tp3224
+Rp3225
+S' of the first Russian astronaut| to| do a'
+p3226
+S' of the|||||| ||seven astronauts |on bo|a'
+p3227
+(I17
+I346
+tp3228
+(I56
+I377
+tp3229
+tp3230
+s(S'|When was Microsoft '
+p3231
+S"|Microsoft's stock w"
+p3232
+tp3233
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3234
+tp3235
+Rp3236
+S'hen was Microsoft |established'
+p3237
+S'hen ||, Microsoft has| boosted'
+p3238
+(I1
+I757
+tp3239
+(I30
+I784
+tp3240
+tp3241
+s(S'|How old is the sun?'
+p3242
+S'|Sun Microsystems In'
+p3243
+tp3244
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3245
+tp3246
+Rp3247
+S' |old i|s |the '
+p3248
+S' sold its line '
+p3249
+(I3
+I41
+tp3250
+(I15
+I56
+tp3251
+tp3252
+s(S"|What's the average "
+p3253
+S'|They average $230 ,'
+p3254
+tp3255
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80G@'
+p3256
+tp3257
+Rp3258
+S' the|| average salary of a professional baseball '
+p3259
+S' their |pe|||e|||||rs ||in professional baseball '
+p3260
+(I6
+I572
+tp3261
+(I53
+I610
+tp3262
+tp3263
+s(S'|Who invented basket'
+p3264
+S'|<p> Dave Lorenzen c'
+p3265
+tp3266
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3267
+tp3268
+Rp3269
+S'ho invented ba'
+p3270
+S'h| invented |a'
+p3271
+(I1
+I4280
+tp3272
+(I15
+I4292
+tp3273
+tp3274
+s(S"|What's the average "
+p3275
+S'|<p> The man in the '
+p3276
+tp3277
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3278
+tp3279
+Rp3280
+S"hat|'s the average|| salary "
+p3281
+S'hat if the |cur|rent salary '
+p3282
+(I1
+I3462
+tp3283
+(I26
+I3488
+tp3284
+tp3285
+s(S"|What's the average "
+p3286
+S'|The professional-fo'
+p3287
+tp3288
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p3289
+tp3290
+Rp3291
+S"hat|||'s||| the average||||||| salary "
+p3292
+S'hat boosted the average annual salary '
+p3293
+(I1
+I3829
+tp3294
+(I26
+I3867
+tp3295
+tp3296
+s(S'|Who invented basket'
+p3297
+S'|Former Chief Justic'
+p3298
+tp3299
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3300
+tp3301
+Rp3302
+S'ed basketball'
+p3303
+S'e| basketball'
+p3304
+(I10
+I3231
+tp3305
+(I23
+I3243
+tp3306
+tp3307
+s(S'|What is the wingspa'
+p3308
+S'|<p> Mandan , the se'
+p3309
+tp3310
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3311
+tp3312
+Rp3313
+S' is the |||wingspan of '
+p3314
+S' is the sibling|||| of '
+p3315
+(I4
+I2819
+tp3316
+(I24
+I2838
+tp3317
+tp3318
+s(S'|Where is Belize loc'
+p3319
+S'|VISITORS arriving a'
+p3320
+tp3321
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3322
+tp3323
+Rp3324
+S'he|r||e ||i|s Belize loca'
+p3325
+S'he role which Belize ||ca'
+p3326
+(I1
+I2893
+tp3327
+(I20
+I2916
+tp3328
+tp3329
+s(S'|Where is Belize loc'
+p3330
+S'|WHILE civil war rav'
+p3331
+tp3332
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p3333
+tp3334
+Rp3335
+S'ere|||| is Belize '
+p3336
+S'erendum in Belize '
+p3337
+(I2
+I2053
+tp3338
+(I16
+I2071
+tp3339
+tp3340
+s(S'|What is the wingspa'
+p3341
+S'|<p> Wildlife offici'
+p3342
+tp3343
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3344
+tp3345
+Rp3346
+S't |is the wings||pa|n of a condor'
+p3347
+S't was the fi|rst laid by a condor'
+p3348
+(I3
+I193
+tp3349
+(I32
+I225
+tp3350
+tp3351
+s(S"|What's the average "
+p3352
+S'|Even an all-black t'
+p3353
+tp3354
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00H@'
+p3355
+tp3356
+Rp3357
+S' professional baseball pl|a'
+p3358
+S' professional baseball |lea'
+p3359
+(I30
+I1612
+tp3360
+(I56
+I1638
+tp3361
+tp3362
+s(S'|When was Microsoft '
+p3363
+S'|MICROSOFT said yest'
+p3364
+tp3365
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3366
+tp3367
+Rp3368
+S'n w|as Microsoft '
+p3369
+S'n with Microsoft '
+p3370
+(I3
+I962
+tp3371
+(I19
+I979
+tp3372
+tp3373
+s(S'|Where did bocci ori'
+p3374
+S'|Italian voters deal'
+p3375
+tp3376
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p3377
+tp3378
+Rp3379
+S'e did bocci |originate'
+p3380
+S'e led |o||r do||minate'
+p3381
+(I4
+I836
+tp3382
+(I25
+I853
+tp3383
+tp3384
+s(S'|What is the wingspa'
+p3385
+S'|Stress is believed '
+p3386
+tp3387
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3388
+tp3389
+Rp3390
+S' |the| |wingsp|an||| |of a| condor'
+p3391
+S' other tran|splanted Andean condor'
+p3392
+(I7
+I191
+tp3393
+(I32
+I224
+tp3394
+tp3395
+s(S'|What was the ball g'
+p3396
+S'|<p> We were floatin'
+p3397
+tp3398
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p3399
+tp3400
+Rp3401
+S' ancient| Mayan|s'
+p3402
+S' ancient  Mayan s'
+p3403
+(I25
+I5900
+tp3404
+(I40
+I5917
+tp3405
+tp3406
+s(S'|Where is Belize loc'
+p3407
+S'|Prime Minister Manu'
+p3408
+tp3409
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3410
+tp3411
+Rp3412
+S'ere is Belize '
+p3413
+S'ery to Belize '
+p3414
+(I2
+I624
+tp3415
+(I16
+I638
+tp3416
+tp3417
+s(S'|How old is the sun?'
+p3418
+S'|Nevertheless ,  "Th'
+p3419
+tp3420
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3421
+tp3422
+Rp3423
+S' is the '
+p3424
+S' in the '
+p3425
+(I7
+I624
+tp3426
+(I15
+I632
+tp3427
+tp3428
+s(S'|When was Microsoft '
+p3429
+S'|Rogers Cablesystems'
+p3430
+tp3431
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p3432
+tp3433
+Rp3434
+S'en w|as Microsof||t| |establishe'
+p3435
+S'e| with Microsoft to install the'
+p3436
+(I2
+I74
+tp3437
+(I29
+I105
+tp3438
+tp3439
+s(S'|Where did bocci ori'
+p3440
+S'|<p> In San Francisc'
+p3441
+tp3442
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p3443
+tp3444
+Rp3445
+S' origin'
+p3446
+S' origin'
+p3447
+(I15
+I6754
+tp3448
+(I22
+I6761
+tp3449
+tp3450
+s(S'|When was Microsoft '
+p3451
+S'|Microsoft and Tele-'
+p3452
+tp3453
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3454
+tp3455
+Rp3456
+S'hen w|as Microsoft '
+p3457
+S'her with Microsoft '
+p3458
+(I1
+I1451
+tp3459
+(I19
+I1470
+tp3460
+tp3461
+s(S'|Where is Belize loc'
+p3462
+S'|BFN     [Text] Yest'
+p3463
+tp3464
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3465
+tp3466
+Rp3467
+S'ere |is Belize lo'
+p3468
+S'er| the Belize Co'
+p3469
+(I2
+I672
+tp3470
+(I18
+I688
+tp3471
+tp3472
+s(S'|What is the wingspa'
+p3473
+S"|It's a big bird . A"
+p3474
+tp3475
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3476
+tp3477
+Rp3478
+S'hat| is the wingspan of a '
+p3479
+S'h|ts on the wings||| |, a '
+p3480
+(I1
+I216
+tp3481
+(I26
+I237
+tp3482
+tp3483
+s(S'|What was the name o'
+p3484
+S'|A still-unexplained'
+p3485
+tp3486
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3487
+tp3488
+Rp3489
+S' the first Russian as'
+p3490
+S' the first mission |s'
+p3491
+(I20
+I3407
+tp3492
+(I41
+I3427
+tp3493
+tp3494
+s(S'|What was the ball g'
+p3495
+S'|<p> THE JUNGLE IS S'
+p3496
+tp3497
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p3498
+tp3499
+Rp3500
+S's t|he ba||ll game| ||of ancient Mayans c'
+p3501
+S's|tine cavern laden with ancient Mayan| c'
+p3502
+(I7
+I5207
+tp3503
+(I42
+I5246
+tp3504
+tp3505
+s(S'|What is the wingspa'
+p3506
+S'|The first egg produ'
+p3507
+tp3508
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3509
+tp3510
+Rp3511
+S' th||e|| wingspan of a'
+p3512
+S' |have a wingspan of a'
+p3513
+(I7
+I1269
+tp3514
+(I25
+I1290
+tp3515
+tp3516
+s(S'|What was the name o'
+p3517
+S'|Chunks of shrapnel '
+p3518
+tp3519
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80A@'
+p3520
+tp3521
+Rp3522
+S't was the |name of the |first Rus|sian astronaut| to do |a'
+p3523
+S't was ||a flake of the pai|nt |used on |||rockets |and| pa'
+p3524
+(I3
+I3121
+tp3525
+(I56
+I3170
+tp3526
+tp3527
+s(S"|What's the average "
+p3528
+S'|The salaries of pla'
+p3529
+tp3530
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80D@'
+p3531
+tp3532
+Rp3533
+S"hat's th||e |a|||||ve||rage salary of a pro|fe|ssional baseball "
+p3534
+S'hat|| there was no telltale s||ign of|| problems i|n|| baseball '
+p3535
+(I1
+I4359
+tp3536
+(I53
+I4414
+tp3537
+tp3538
+s(S'|What was the ball g'
+p3539
+S'|Scientists are stud'
+p3540
+tp3541
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p3542
+tp3543
+Rp3544
+S' the ba|ll game| of a'
+p3545
+S' the Mayan names of a'
+p3546
+(I8
+I3018
+tp3547
+(I27
+I3039
+tp3548
+tp3549
+s(S"|Where's Montenegro?"
+p3550
+S'|CSO       [Editoria'
+p3551
+tp3552
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3553
+tp3554
+Rp3555
+S' Montenegro'
+p3556
+S' Montenegro'
+p3557
+(I7
+I257
+tp3558
+(I18
+I268
+tp3559
+tp3560
+s(S'|What was the ball g'
+p3561
+S'|<p> Living in a cit'
+p3562
+tp3563
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p3564
+tp3565
+Rp3566
+S' the ball game of ||ancient Mayans c'
+p3567
+S' the styl||||e of the great Mayan  c'
+p3568
+(I8
+I4830
+tp3569
+(I42
+I4862
+tp3570
+tp3571
+s(S'|Where is Belize loc'
+p3572
+S'|CONSERVATION and to'
+p3573
+tp3574
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3575
+tp3576
+Rp3577
+S' is Belize '
+p3578
+S' in Belize '
+p3579
+(I5
+I54
+tp3580
+(I16
+I65
+tp3581
+tp3582
+s(S'|How old is the sun?'
+p3583
+S'|The Ventura agreeme'
+p3584
+tp3585
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p3586
+tp3587
+Rp3588
+S'ow ||old is the |s'
+p3589
+S'o| broad|en the us'
+p3590
+(I1
+I59
+tp3591
+(I16
+I75
+tp3592
+tp3593
+s(S'|What was the name o'
+p3594
+S'|Astronaut Donald E '
+p3595
+tp3596
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3597
+tp3598
+Rp3599
+S'an astronaut to| do ||a s'
+p3600
+S'an astronaut for 11 years'
+p3601
+(I36
+I203
+tp3602
+(I58
+I228
+tp3603
+tp3604
+s(S'|What was the ball g'
+p3605
+S'|FROM Antwerp to Zon'
+p3606
+tp3607
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p3608
+tp3609
+Rp3610
+S'hat was the ball game of |ancient Ma||yans|| called'
+p3611
+S'hat was the||||| fate of ma||||ny fabulously carved'
+p3612
+(I1
+I5932
+tp3613
+(I47
+I5974
+tp3614
+tp3615
+s(S'|Who invented basket'
+p3616
+S'|(check) A guy can r'
+p3617
+tp3618
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3619
+tp3620
+Rp3621
+S'ted basketball'
+p3622
+S'te| basketball'
+p3623
+(I9
+I2881
+tp3624
+(I23
+I2894
+tp3625
+tp3626
+s(S'|When was Microsoft '
+p3627
+S'|People familiar wit'
+p3628
+tp3629
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3630
+tp3631
+Rp3632
+S' wa|s Microsoft '
+p3633
+S' pays Microsoft '
+p3634
+(I4
+I93
+tp3635
+(I19
+I109
+tp3636
+tp3637
+s(S'|Where did bocci ori'
+p3638
+S'|They do these thing'
+p3639
+tp3640
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3641
+tp3642
+Rp3643
+S'e did bocc||i o'
+p3644
+S'endid |occasi|o'
+p3645
+(I4
+I607
+tp3646
+(I17
+I620
+tp3647
+tp3648
+s(S"|What's the average "
+p3649
+S'|<p> Question : Why '
+p3650
+tp3651
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p3652
+tp3653
+Rp3654
+S"t's the |average salary o|f|| a|| prof|||e|ssio|||na||l baseball| player"
+p3655
+S't|s the owner||s |, and officials ||of the Major League Baseball  Player'
+p3656
+(I3
+I652
+tp3657
+(I59
+I718
+tp3658
+tp3659
+s(S'|When was Microsoft '
+p3660
+S'|International Busin'
+p3661
+tp3662
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3663
+tp3664
+Rp3665
+S'as Microsoft es||t|a'
+p3666
+S'ar Microsoft |softwa'
+p3667
+(I6
+I5738
+tp3668
+(I23
+I5757
+tp3669
+tp3670
+s(S'|How old is the sun?'
+p3671
+S"|Lockheed Corp .'s C"
+p3672
+tp3673
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3674
+tp3675
+Rp3676
+S' old i|s the su'
+p3677
+S' o|f its two su'
+p3678
+(I3
+I794
+tp3679
+(I17
+I808
+tp3680
+tp3681
+s(S"|What's the average "
+p3682
+S'|Let the games begin'
+p3683
+tp3684
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00D@'
+p3685
+tp3686
+Rp3687
+S' the |average |salary of||||||||||||| ||a| professional baseball '
+p3688
+S' the la||r|ge number| of male viewers that professional football '
+p3689
+(I6
+I8562
+tp3690
+(I53
+I8623
+tp3691
+tp3692
+s(S'|What is the wingspa'
+p3693
+S'| "Next year we\'re h'
+p3694
+tp3695
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3696
+tp3697
+Rp3698
+S' the wi||||ngspan of|||| ||||a condor'
+p3699
+S' the wildernes||s of the Sespe Condor'
+p3700
+(I7
+I1358
+tp3701
+(I32
+I1393
+tp3702
+tp3703
+s(S'|When was Microsoft '
+p3704
+S'|IBM and Microsoft h'
+p3705
+tp3706
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p3707
+tp3708
+Rp3709
+S' Microsoft estab|lished'
+p3710
+S' Microsoft is| believed'
+p3711
+(I8
+I1680
+tp3712
+(I30
+I1702
+tp3713
+tp3714
+s(S'|When was Microsoft '
+p3715
+S'|MICROSOFT , the US '
+p3716
+tp3717
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3718
+tp3719
+Rp3720
+S' Microsoft '
+p3721
+S' Microsoft '
+p3722
+(I8
+I753
+tp3723
+(I19
+I764
+tp3724
+tp3725
+s(S'|How old is the sun?'
+p3726
+S'|Apollo Computer Inc'
+p3727
+tp3728
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3729
+tp3730
+Rp3731
+S'o|l|d |is the '
+p3732
+S'ollo  "is the '
+p3733
+(I4
+I667
+tp3734
+(I15
+I681
+tp3735
+tp3736
+s(S'|What is the wingspa'
+p3737
+S'|<p> Zookeepers kept'
+p3738
+tp3739
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3740
+tp3741
+Rp3742
+S' is the wingspan ||of a condor'
+p3743
+S' is the fi|rs||t time a condor'
+p3744
+(I4
+I750
+tp3745
+(I32
+I777
+tp3746
+tp3747
+s(S'|What was the ball g'
+p3748
+S'|She was , of course'
+p3749
+tp3750
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00B@'
+p3751
+tp3752
+Rp3753
+S' the bal||l game of|||| ancient Maya'
+p3754
+S' The golden |age of the ancient Maya'
+p3755
+(I8
+I584
+tp3756
+(I38
+I619
+tp3757
+tp3758
+s(S"|What's the average "
+p3759
+S'|<p> The players uni'
+p3760
+tp3761
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3762
+tp3763
+Rp3764
+S' the average '
+p3765
+S' the average '
+p3766
+(I6
+I2466
+tp3767
+(I19
+I2479
+tp3768
+tp3769
+s(S'|Where did bocci ori'
+p3770
+S'|San Francisco Beat '
+p3771
+tp3772
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p3773
+tp3774
+Rp3775
+S'here d'
+p3776
+S'here d'
+p3777
+(I1
+I453
+tp3778
+(I7
+I459
+tp3779
+tp3780
+s(S'|Who invented basket'
+p3781
+S'|If the baseball loc'
+p3782
+tp3783
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3784
+tp3785
+Rp3786
+S'ed basketball'
+p3787
+S'e| basketball'
+p3788
+(I10
+I1381
+tp3789
+(I23
+I1393
+tp3790
+tp3791
+s(S'|What was the ball g'
+p3792
+S'|<p> The Mayan cultu'
+p3793
+tp3794
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3795
+tp3796
+Rp3797
+S' was the ball game |of ancient M'
+p3798
+S' |as th|||a|t ||of the ancient M'
+p3799
+(I4
+I334
+tp3800
+(I35
+I359
+tp3801
+tp3802
+s(S'|What is the wingspa'
+p3803
+S'|A California condor'
+p3804
+tp3805
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p3806
+tp3807
+Rp3808
+S' the w||ings|pa|n o|f a condor'
+p3809
+S" the world's California condor"
+p3810
+(I7
+I1344
+tp3811
+(I32
+I1374
+tp3812
+tp3813
+s(S'|Where did bocci ori'
+p3814
+S'|Twenty high schools'
+p3815
+tp3816
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3817
+tp3818
+Rp3819
+S'ere did bocci '
+p3820
+S'er| ||, bocce '
+p3821
+(I2
+I2469
+tp3822
+(I16
+I2480
+tp3823
+tp3824
+s(S'|Who invented basket'
+p3825
+S"|<p> America's Funni"
+p3826
+tp3827
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3828
+tp3829
+Rp3830
+S'invented basketball'
+p3831
+S'in|ental Basketball'
+p3832
+(I4
+I3964
+tp3833
+(I23
+I3982
+tp3834
+tp3835
+s(S'|What is the wingspa'
+p3836
+S'|<p> Three Californi'
+p3837
+tp3838
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3839
+tp3840
+Rp3841
+S'pa|n of a condor'
+p3842
+S'pair of|| condor'
+p3843
+(I17
+I1046
+tp3844
+(I32
+I1060
+tp3845
+tp3846
+s(S'|What is the wingspa'
+p3847
+S'|A fist-sized bundle'
+p3848
+tp3849
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3850
+tp3851
+Rp3852
+S'hat is the wingspan of |a co'
+p3853
+S'ha|||s ||a wingspan of up to'
+p3854
+(I1
+I1758
+tp3855
+(I28
+I1781
+tp3856
+tp3857
+s(S'|Where is Belize loc'
+p3858
+S'|BFN     [Text] The '
+p3859
+tp3860
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3861
+tp3862
+Rp3863
+S'er|||e |i|s Belize '
+p3864
+S'erence with Belize '
+p3865
+(I2
+I815
+tp3866
+(I16
+I834
+tp3867
+tp3868
+s(S'|What was the name o'
+p3869
+S"|Discovery's astrona"
+p3870
+tp3871
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00G@'
+p3872
+tp3873
+Rp3874
+S' the ||name |of the fir|st Russian astronaut |to|||| ||||do a spacewalk'
+p3875
+S' the repair was |performed ||by an astronaut who was taking a spacewalk'
+p3876
+(I8
+I1228
+tp3877
+(I66
+I1296
+tp3878
+tp3879
+s(S'|Where did bocci ori'
+p3880
+S'|And speaking of SJC'
+p3881
+tp3882
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3883
+tp3884
+Rp3885
+S' origina'
+p3886
+S' origina'
+p3887
+(I15
+I397
+tp3888
+(I23
+I405
+tp3889
+tp3890
+s(S'|Where did bocci ori'
+p3891
+S"|Let's hope that the"
+p3892
+tp3893
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3894
+tp3895
+Rp3896
+S' origina'
+p3897
+S' origina'
+p3898
+(I15
+I507
+tp3899
+(I23
+I515
+tp3900
+tp3901
+s(S'|Who invented basket'
+p3902
+S'|Did you hear about '
+p3903
+tp3904
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3905
+tp3906
+Rp3907
+S'ed basketball'
+p3908
+S'ed basketball'
+p3909
+(I10
+I6214
+tp3910
+(I23
+I6227
+tp3911
+tp3912
+s(S'|When was Microsoft '
+p3913
+S'|Other   Firms   <f '
+p3914
+tp3915
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p3916
+tp3917
+Rp3918
+S'en w|as Microsoft '
+p3919
+S'e| with Microsoft '
+p3920
+(I2
+I688
+tp3921
+(I19
+I705
+tp3922
+tp3923
+s(S'|When was Microsoft '
+p3924
+S'|Operating systems s'
+p3925
+tp3926
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00?@'
+p3927
+tp3928
+Rp3929
+S'en wa|s Mi||c|rosoft established'
+p3930
+S'ed |a solid core of| established'
+p3931
+(I2
+I3403
+tp3932
+(I30
+I3433
+tp3933
+tp3934
+s(S'|When was Microsoft '
+p3935
+S'|A FEW days before C'
+p3936
+tp3937
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3938
+tp3939
+Rp3940
+S'hen |wa|s Microsoft establish'
+p3941
+S'hen plans |||||to|| establish'
+p3942
+(I1
+I1836
+tp3943
+(I28
+I1858
+tp3944
+tp3945
+s(S"|What's the average "
+p3946
+S'|<p> So your head sp'
+p3947
+tp3948
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00B@'
+p3949
+tp3950
+Rp3951
+S'e salary of a professional baseball player'
+p3952
+S'e sal|||||||a||r|ie|s o||f baseball player'
+p3953
+(I17
+I2783
+tp3954
+(I59
+I2812
+tp3955
+tp3956
+s(S'|What was the name o'
+p3957
+S'|The long-delayed Co'
+p3958
+tp3959
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p3960
+tp3961
+Rp3962
+S' was ||the name of th||e |||fi|rst Russi||||an||||| |||ast|||r|onaut to |do |a space'
+p3963
+S' |a| vet|e|ra|n of three previous| missions and the oldest person||| to fly in space'
+p3964
+(I4
+I62
+tp3965
+(I62
+I137
+tp3966
+tp3967
+s(S'|When was Microsoft '
+p3968
+S'|Compaq Computer Cor'
+p3969
+tp3970
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3971
+tp3972
+Rp3973
+S' Microsoft '
+p3974
+S' Microsoft '
+p3975
+(I8
+I41
+tp3976
+(I19
+I52
+tp3977
+tp3978
+s(S"|What's the average "
+p3979
+S'|Canseco and another'
+p3980
+tp3981
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3982
+tp3983
+Rp3984
+S' average salary '
+p3985
+S' Average salary '
+p3986
+(I10
+I5504
+tp3987
+(I26
+I5520
+tp3988
+tp3989
+s(S'|Where is Belize loc'
+p3990
+S"|<p> It's not exactl"
+p3991
+tp3992
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p3993
+tp3994
+Rp3995
+S'ere |is Belize '
+p3996
+S'er| the Belize '
+p3997
+(I2
+I888
+tp3998
+(I16
+I902
+tp3999
+tp4000
+s(S'|Where did bocci ori'
+p4001
+S"|<p> Star-cross'd ca"
+p4002
+tp4003
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4004
+tp4005
+Rp4006
+S' origina'
+p4007
+S' origina'
+p4008
+(I15
+I1042
+tp4009
+(I23
+I1050
+tp4010
+tp4011
+s(S"|What's the average "
+p4012
+S'|Last month , a glor'
+p4013
+tp4014
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p4015
+tp4016
+Rp4017
+S' the ave|r|age|| salary of a professional baseball |p'
+p4018
+S" the |year's end |, the only professional ||te|a|m sp"
+p4019
+(I6
+I1175
+tp4020
+(I54
+I1222
+tp4021
+tp4022
+s(S'|Who invented basket'
+p4023
+S'|Shirley Flower Sedg'
+p4024
+tp4025
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p4026
+tp4027
+Rp4028
+S'd basketball'
+p4029
+S'd basketball'
+p4030
+(I11
+I1455
+tp4031
+(I23
+I1467
+tp4032
+tp4033
+s(S'|What was the ball g'
+p4034
+S'|STOLEN CONTINENTS :'
+p4035
+tp4036
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p4037
+tp4038
+Rp4039
+S's the ball ga|me '
+p4040
+S's the ba|l||ance '
+p4041
+(I7
+I220
+tp4042
+(I23
+I234
+tp4043
+tp4044
+s(S'|Where did bocci ori'
+p4045
+S'|On the other , ther'
+p4046
+tp4047
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p4048
+tp4049
+Rp4050
+S'Where '
+p4051
+S'Where '
+p4052
+(I0
+I3704
+tp4053
+(I6
+I3710
+tp4054
+tp4055
+s(S'|Where did bocci ori'
+p4056
+S'|BFN   <f p= "106 ">'
+p4057
+tp4058
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p4059
+tp4060
+Rp4061
+S'ere did bo'
+p4062
+S'ers did so'
+p4063
+(I2
+I2831
+tp4064
+(I12
+I2841
+tp4065
+tp4066
+s(S'|When was Microsoft '
+p4067
+S'|Since then , the tw'
+p4068
+tp4069
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4070
+tp4071
+Rp4072
+S'en w|as Microsoft es|t'
+p4073
+S'ed with Microsoft as t'
+p4074
+(I2
+I946
+tp4075
+(I22
+I968
+tp4076
+tp4077
+s(S'|What was the name o'
+p4078
+S'|An emergency spacew'
+p4079
+tp4080
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p4081
+tp4082
+Rp4083
+S'as the| |name o|||f |the|| first| Russian astronaut| '
+p4084
+S'as|t|ed in|to orbit June 5 wi||th ||seven astronauts '
+p4085
+(I6
+I381
+tp4086
+(I49
+I427
+tp4087
+tp4088
+s(S'|When was Microsoft '
+p4089
+S'|The widely-reported'
+p4090
+tp4091
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p4092
+tp4093
+Rp4094
+S'en |was Microsof||||||||t| establish'
+p4095
+S'e| that Microsoft aimed to establish'
+p4096
+(I2
+I469
+tp4097
+(I28
+I504
+tp4098
+tp4099
+s(S'|How old is the sun?'
+p4100
+S'|If it succeeds , th'
+p4101
+tp4102
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4103
+tp4104
+Rp4105
+S' is the '
+p4106
+S' is the '
+p4107
+(I7
+I1217
+tp4108
+(I15
+I1225
+tp4109
+tp4110
+s(S'|Where did bocci ori'
+p4111
+S'|<p> And you thought'
+p4112
+tp4113
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4114
+tp4115
+Rp4116
+S'e| |did bocci '
+p4117
+S'el hair bocca '
+p4118
+(I4
+I1360
+tp4119
+(I16
+I1374
+tp4120
+tp4121
+s(S'|When was Microsoft '
+p4122
+S'|Microsoft Corp . sa'
+p4123
+tp4124
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p4125
+tp4126
+Rp4127
+S'a|s| Microsoft '
+p4128
+S'ause Microsoft '
+p4129
+(I6
+I673
+tp4130
+(I19
+I688
+tp4131
+tp4132
+s(S"|What's the average "
+p4133
+S'|The move came amid '
+p4134
+tp4135
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00G@'
+p4136
+tp4137
+Rp4138
+S' professional baseball '
+p4139
+S' professional baseball '
+p4140
+(I30
+I402
+tp4141
+(I53
+I425
+tp4142
+tp4143
+s(S"|What's the average "
+p4144
+S'|<p> Last year , the'
+p4145
+tp4146
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00D@'
+p4147
+tp4148
+Rp4149
+S"hat's the average salary of |a|| ||||professional baseball player"
+p4150
+S'hat\'s|||| |being| sold , |" said Dick Mo||ss , a| baseball player'
+p4151
+(I1
+I2305
+tp4152
+(I59
+I2360
+tp4153
+tp4154
+s(S'|Who invented basket'
+p4155
+S'|He adds :  "Being a'
+p4156
+tp4157
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p4158
+tp4159
+Rp4160
+S'e|d basketball'
+p4161
+S'ead basketball'
+p4162
+(I10
+I2014
+tp4163
+(I23
+I2028
+tp4164
+tp4165
+s(S'|What was the ball g'
+p4166
+S'|The tiny Indian gir'
+p4167
+tp4168
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00?@'
+p4169
+tp4170
+Rp4171
+S' was t|he| ball game of ancient Mayans ca'
+p4172
+S' had tried ||in |the||| ancient Mayan| wa'
+p4173
+(I4
+I568
+tp4174
+(I43
+I602
+tp4175
+tp4176
+s(S'|How old is the sun?'
+p4177
+S'|Sun said its net in'
+p4178
+tp4179
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p4180
+tp4181
+Rp4182
+S' is the su'
+p4183
+S' in the qu'
+p4184
+(I7
+I422
+tp4185
+(I17
+I432
+tp4186
+tp4187
+s(S'|When was Microsoft '
+p4188
+S'|DESPITE their long '
+p4189
+tp4190
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p4191
+tp4192
+Rp4193
+S'en| was Microsoft |||es|t|a'
+p4194
+S'ent ||. Microsoft hopes tha'
+p4195
+(I2
+I4620
+tp4196
+(I23
+I4645
+tp4197
+tp4198
+s(S'|How old is the sun?'
+p4199
+S'|But now a new breed'
+p4200
+tp4201
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4202
+tp4203
+Rp4204
+S' is th|e'
+p4205
+S' is thre'
+p4206
+(I7
+I33
+tp4207
+(I14
+I41
+tp4208
+tp4209
+s(S'|Who invented basket'
+p4210
+S'|Ten-year-old Kristi'
+p4211
+tp4212
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p4213
+tp4214
+Rp4215
+S' invented ba'
+p4216
+S' invented |a'
+p4217
+(I3
+I2107
+tp4218
+(I15
+I2118
+tp4219
+tp4220
+s(S'|Who invented basket'
+p4221
+S'|The first John D . '
+p4222
+tp4223
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p4224
+tp4225
+Rp4226
+S'ented '
+p4227
+S'ented '
+p4228
+(I7
+I52
+tp4229
+(I13
+I58
+tp4230
+tp4231
+s(S'|When was Microsoft '
+p4232
+S'|Microsoft Corp . , '
+p4233
+tp4234
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p4235
+tp4236
+Rp4237
+S' wa|s Microsoft ||es'
+p4238
+S' said Microsoft pres'
+p4239
+(I4
+I1248
+tp4240
+(I21
+I1268
+tp4241
+tp4242
+s(S'|What is the wingspa'
+p4243
+S'|<p> The California '
+p4244
+tp4245
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p4246
+tp4247
+Rp4248
+S' the wings|||pa|n o|f a condor'
+p4249
+S' the fi|rst  California condor'
+p4250
+(I7
+I1291
+tp4251
+(I32
+I1320
+tp4252
+tp4253
+s(S'|What was the name o'
+p4254
+S'|<p> The Discovery a'
+p4255
+tp4256
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p4257
+tp4258
+Rp4259
+S't was the||| |name| ||of |the fir|||st Russian| |astronaut to d|o a spacewalk'
+p4260
+S't was |being pulled from it|s ||reel . Mission  Contro|||l |ordered spacewalk'
+p4261
+(I3
+I923
+tp4262
+(I66
+I992
+tp4263
+tp4264
+s(S'|What was the ball g'
+p4265
+S'|<p> As interesting '
+p4266
+tp4267
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p4268
+tp4269
+Rp4270
+S' of ancient Mayans c'
+p4271
+S' of ||the|| Mayan| c'
+p4272
+(I22
+I93
+tp4273
+(I42
+I108
+tp4274
+tp4275
+s(S'|Who invented basket'
+p4276
+S'|<p> Joe Ferguson an'
+p4277
+tp4278
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p4279
+tp4280
+Rp4281
+S'ho invented|||||||||||| basketball'
+p4282
+S'h| invented the game of basketball'
+p4283
+(I1
+I2619
+tp4284
+(I23
+I2652
+tp4285
+tp4286
+s(S'|Who invented basket'
+p4287
+S'|<p> Part of the wor'
+p4288
+tp4289
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4290
+tp4291
+Rp4292
+S'invented basketball'
+p4293
+S'in|ental Basketball'
+p4294
+(I4
+I518
+tp4295
+(I23
+I536
+tp4296
+tp4297
+s(S"|What's the average "
+p4298
+S"|<p> The players' un"
+p4299
+tp4300
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4301
+tp4302
+Rp4303
+S's| the average salary of '
+p4304
+S'se the ||||||| salary of '
+p4305
+(I5
+I761
+tp4306
+(I29
+I779
+tp4307
+tp4308
+s(S'|Where did bocci ori'
+p4309
+S'|Irma Balderas will '
+p4310
+tp4311
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p4312
+tp4313
+Rp4314
+S'here '
+p4315
+S'here '
+p4316
+(I1
+I564
+tp4317
+(I6
+I569
+tp4318
+tp4319
+s(S'|What was the name o'
+p4320
+S'|Up to 10 spacewalks'
+p4321
+tp4322
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80E@'
+p4323
+tp4324
+Rp4325
+S'hat ||||was the name of |the first Russian astronaut| to| do a'
+p4326
+S'hat much of the time of at|| least ||||two astronauts |on bo|a'
+p4327
+(I1
+I1305
+tp4328
+(I56
+I1359
+tp4329
+tp4330
+s(S'|Who invented basket'
+p4331
+S'|Mr . Shaw said he a'
+p4332
+tp4333
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p4334
+tp4335
+Rp4336
+S' basketball'
+p4337
+S' basketball'
+p4338
+(I12
+I2165
+tp4339
+(I23
+I2176
+tp4340
+tp4341
+s(S"|What's the average "
+p4342
+S'|The Cincinnati Reds'
+p4343
+tp4344
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00E@'
+p4345
+tp4346
+Rp4347
+S' the averag|||||e salary of |a professional base'
+p4348
+S' the average base salary of $3 .1 million l|eave'
+p4349
+(I6
+I513
+tp4350
+(I48
+I560
+tp4351
+tp4352
+s(S'|Who invented basket'
+p4353
+S'|But as basketball a'
+p4354
+tp4355
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4356
+tp4357
+Rp4358
+S'ed basketball'
+p4359
+S'ed basketball'
+p4360
+(I10
+I2257
+tp4361
+(I23
+I2270
+tp4362
+tp4363
+s(S'|What was the ball g'
+p4364
+S'|In this isolated va'
+p4365
+tp4366
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p4367
+tp4368
+Rp4369
+S'th||e ball |ga|me of ancient M||ayans c'
+p4370
+S'thing |a|| cradle of ancient Mexican| c'
+p4371
+(I9
+I118
+tp4372
+(I42
+I153
+tp4373
+tp4374
+s(S'|Who invented basket'
+p4375
+S'|Flashback to last f'
+p4376
+tp4377
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p4378
+tp4379
+Rp4380
+S' invented basketball'
+p4381
+S' i|||nt|o basketball'
+p4382
+(I3
+I5576
+tp4383
+(I23
+I5592
+tp4384
+tp4385
+s(S'|What was the name o'
+p4386
+S'|Installing a donut-'
+p4387
+tp4388
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p4389
+tp4390
+Rp4391
+S'hat was the n|ame |o||f the first||||| |Rus|||sia|||n| astronaut| to '
+p4392
+S"hat |a| ``donut'' could |be |installed by spacewalking astronauts to "
+p4393
+(I1
+I207
+tp4394
+(I52
+I272
+tp4395
+tp4396
 s.
