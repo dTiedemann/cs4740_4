@@ -320,6 +320,28 @@ zero.py, and its mean reciprocal rank over 197 questions is 0.048.
 This represent a total bare-bones approach with essentially no hope of getting a
 question right.
 
+\subsection{Walk through of one question}
+- Initial setup of the Q/A system
+    - We collect all the documents that may contain the answer for all qids (20 documents per qid)
+    - We then run the chunker on the document text creating answer candidate phrases
+    - We save the chunker results to a set of files
+- We are given a question id
+- We retrieve the question text from the provided input file
+- We read the chunker results 
+    - We filter out all candidate answers that are not noun phrases
+    - We also filter out candidate answers not within 50 bytes of the aligned question in the document
+- We feed the filtered answers through our answer evaluators specifically
+    - punctuation_location,
+    - novelty_factor
+    - a combination of both
+- The scores of the evaluators are fed into the supervised classification algorithm:
+    - Spectral Regression Discriminant Analysis 
+    - this gives us a confidence measure
+- Sort by confidence measure 
+- In descending order by confidence measure, pack them into 50-byte answers which are our final outputs
+- The answers are then passed into our scorer
+
+
 \subsection{Graphical Methods}
 
 \subsection{Best Run Results}
