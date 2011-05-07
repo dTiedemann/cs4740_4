@@ -99,7 +99,6 @@ def main():
     [punc_loc]
 #     bag_of_words,
 #     novelty_bool]
-#    [pos_test]
 #    [seq_length,punc_loc,question_apposition,rewrite_apposition,pos_test,vector_bag,bag_of_words,novelty_bool] #,novelty_count]
 #    [novelty_count]
     ]
@@ -117,4 +116,4 @@ if __name__ == '__main__':
     main()
     align.load_cache()
     align.save_cache()
-    question_candidates (243)
+#    question_candidates (243)
