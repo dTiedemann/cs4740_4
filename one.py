@@ -51,6 +51,7 @@ def question_candidates(q_id):
 def question_learning_data(evaluators,q_ids):
     x=[]
     y=[]
+    print q_ids
     for q_id in q_ids:
         cand=question_candidates(q_id)
         x=x+run_evaluators(cand,evaluators)
