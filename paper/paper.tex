@@ -266,6 +266,12 @@ to mitigate this, we implemented aggressive caching systems, but they did not
 reduce the time to compute too dramatically, and ultimately, the time constraint
 was a very serious one.
 
+We did pre-process some of the data by running the chunker (which creates
+candidate phrases along with part of speech tags) and creating files in
+groups of ten questions each with all of the candidates. Running the chunker
+took about two minutes per question, so by doing this we were able to have
+the whole set of potential candidates instantly ready to go.
+
 %We tried these classifiers separately rather than 
 We ended using just the SRDA classifier since the others were throwing memory errors.
 \section{Results}
