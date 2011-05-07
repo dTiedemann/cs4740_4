@@ -87,12 +87,15 @@ def writeAnswers(stuff,filename='tmp-answers.txt'):
 
 def main():
     align.load_cache()
-    foo=map(int,question_type.classify_questions(1)['Where'])
-    evaluatorCombinationID=10
-#    trainIDs=foo[:-3]
-#    validationIDs=foo[-3:]
-    trainIDs=foo[:4]
-    validationIDs=foo[4:5]
+    #foo=map(int,question_type.classify_questions(1)['Where'])
+    #Where questions
+    foo=[202, 211, 223, 226, 227, 243, 245, 249, 258, 266, 272, 283, 304, 306, 310, 317, 318, 320, 356, 359, 368, 369, 373, 385, 390, 393]
+    evaluatorCombinationID=20
+    trainIDs=foo[:-6]
+    validationIDs=foo[-6:]
+#    trainIDs=foo
+#    validationIDs=[10025,10026]
+
     evaluator_combinations=[
     [punc_loc,novelty_bool],
     [punc_loc],
