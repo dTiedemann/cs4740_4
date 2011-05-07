@@ -272,6 +272,8 @@ to mitigate this, we implemented aggressive caching systems, but they did not
 reduce the time to compute too dramatically, and ultimately, the time constraint
 was a very serious one.
 
+To speed alignment (which runs in $O(mn)$ where m and n are the length of the strings being aligned, and the documents are several thousand characters), we cached previous alignments, and looked them up by the first 50 bytes of the two strings being aligned.  We also stored this in a file so that we could use the pre-computed values between runs.
+
 We did pre-process some of the data by running the chunker (which creates
 candidate phrases along with part of speech tags) and creating files in
 groups of ten questions each with all of the candidates. Running the chunker
@@ -293,7 +295,7 @@ through this decision list before sending them to the SRDA learning algorithm.
 Since the system was taking too long to run we made several choices in order
 to get meaningful results on which to report on. We decided to specifically analyze
 the "Where" questions since there were 28 of them, which seemed like an appropriate
-amount on which to train on.
+amount to train on.
 
 \section{Results}
 
@@ -317,6 +319,37 @@ zero.py, and its mean reciprocal rank over 197 questions is 0.048.
 
 This represent a total bare-bones approach with essentially no hope of getting a
 question right.
+
+\subsection{Walk through of one question}
+\begin{itemize}
+\item Initial setup of the Q/A system
+    \begin{itemize}
+    \item We collect all the documents that may contain the answer for all qids (20 documents per qid)
+    \item We then run the chunker on the document text creating answer candidate phrases
+    \item We save the chunker results to a set of files
+    \end{itemize}
+\item We are given a question id
+\item We retrieve the question text from the provided input file
+\item We read the chunker results 
+    \begin{itemize}
+    \item We filter out all candidate answers that are not noun phrases
+    \item We also filter out candidate answers not within 50 bytes of the aligned question in the document
+    \end{itemize}
+\item We feed the filtered answers through our answer evaluators specifically
+    \begin{itemize}
+    \item punctuation location
+    \item novelty factor
+    \item A combination of both
+    \end{itemize}
+\item The scores of the evaluators are fed into the supervised classification algorithm
+    \begin{itemize}
+    \item Spectral Regression Discriminant Analysis 
+    \item This gives us a confidence measure
+    \end{itemize}
+\item Sort by confidence measure 
+\item In descending order by confidence measure, pack them into 50-byte answers which are our final outputs
+\item The answers are then passed into our scorer
+\end{itemize}
 
 \subsection{Graphical Methods}
 

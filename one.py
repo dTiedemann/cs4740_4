@@ -90,7 +90,7 @@ def main():
     #foo=map(int,question_type.classify_questions(1)['Where'])
     #Where questions
     foo=[202, 211, 223, 226, 227, 243, 245, 249, 258, 266, 272, 283, 304, 306, 317, 318, 356, 359, 368, 369, 373, 385, 393]
-    evaluatorCombinationID=20
+    evaluatorCombinationID=9000
 #    trainIDs=foo[:-6]
 #    validationIDs=foo[-6:]
     trainIDs=foo
