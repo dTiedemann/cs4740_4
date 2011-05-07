@@ -1,7 +1,7 @@
 (dp0
-(S'|What is the wingspa'
+(S'|Where did the ukule'
 p1
-S'|Two eggs laid by ca'
+S'|<p> Most critics ag'
 p2
 tp3
 (cnumpy.core.multiarray
@@ -27,460 +27,460 @@ bS'\x00\x00\x00\x00\x00\x003@'
 p11
 tp12
 Rp13
-S'at is |the| ||||wing|span of a| '
+S' did the |u'
 p14
-S"ate's other breeding station at "
+S' did the mu'
 p15
-(I2
-I338
+(I5
+I1907
 tp16
-(I26
-I370
+(I15
+I1918
 tp17
 tp18
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p19
-S'|Mission specialist '
+S'|Two eggs laid by ca'
 p20
 tp21
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80B@'
+S'\x00\x00\x00\x00\x00\x003@'
 p22
 tp23
 Rp24
-S'hat was t||he|| |||name of the |fir||||s||||t||||| Russian a|||||s|tr|onaut to |||do|| a spacewalk'
+S'at is |the| ||||wing|span of a| '
 p25
-S'h|t |is to help operate||| the Astro observatory , Hoffman also is train|ed to perform a spacewalk'
+S"ate's other breeding station at "
 p26
-(I1
-I495
+(I2
+I338
 tp27
-(I66
-I587
+(I26
+I370
 tp28
 tp29
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p30
-S'|Language : <f p= "1'
+S"|<p>  You know you'v"
 p31
 tp32
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00G@'
+S'\x00\x00\x00\x00\x00\x000@'
 p33
 tp34
 Rp35
-S' wa||s the |name of| the first |||Russi||||||an||||||| astronaut| to do a '
+S'e did the uku|le|le '
 p36
-S' marks the en||d of  the first ever flight when U .S . astronauts |and| a '
+S'e |in the  audience '
 p37
 (I4
-I302
+I1761
 tp38
-(I57
-I372
+(I22
+I1780
 tp39
 tp40
-s(S'|What is the wingspa'
+s(S'|Where is the Valley'
 p41
-S'|<p> Mandan , the se'
+S"|<p> In other girls'"
 p42
 tp43
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x002@'
 p44
 tp45
 Rp46
-S' is the |||wingspan of '
+S'e Valley '
 p47
-S' is the sibling|||| of '
+S'e Valley '
 p48
-(I4
-I2819
+(I11
+I706
 tp49
-(I24
-I2838
+(I20
+I715
 tp50
 tp51
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p52
-S"|While Sun's new wor"
+S'|<p> The massive par'
 p53
 tp54
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p55
 tp56
 Rp57
-S' |o|ld is|||| the '
+S'ere did bocci o'
 p58
-S' could |stall the '
+S'ery big so|ci|o'
 p59
-(I3
-I3038
+(I2
+I304
 tp60
-(I15
-I3055
+(I17
+I317
 tp61
 tp62
-s(S'|Where did bocci ori'
+s(S'|Where is the Danube'
 p63
-S'|<p> The massive par'
+S'|SLOVAKIA began damm'
 p64
 tp65
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x006@'
 p66
 tp67
 Rp68
-S'ere did bocci o'
+S' the Danube'
 p69
-S'ery big so|ci|o'
+S' the Danube'
 p70
-(I2
-I304
+(I8
+I1302
 tp71
-(I17
-I317
+(I19
+I1313
 tp72
 tp73
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p74
-S'|Space shuttle Atlan'
+S'|BFN   <f p= "106 ">'
 p75
 tp76
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80C@'
+S'\x00\x00\x00\x00\x00\x002@'
 p77
 tp78
 Rp79
-S'hat wa|s|| the ||||||name|| of the f|irst |Russian '
+S' Belize loca'
 p80
-S'hat caused the postponement of the flight Thursday '
+S' Belize toda'
 p81
-(I1
-I780
+(I8
+I93
 tp82
-(I39
-I831
+(I20
+I105
 tp83
 tp84
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p85
-S'|VISITORS arriving a'
+S'|Police stood by pea'
 p86
 tp87
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x006@'
 p88
 tp89
 Rp90
-S'he|r||e ||i|s Belize loca'
+S' the Danube'
 p91
-S'he role which Belize ||ca'
+S' the Danube'
 p92
-(I1
-I2893
+(I8
+I1033
 tp93
-(I20
-I2916
+(I19
+I1044
 tp94
 tp95
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p96
-S'|WHILE civil war rav'
+S'|BFN     [Summary] U'
 p97
 tp98
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x008@'
 p99
 tp100
 Rp101
-S'ere|||| is Belize '
+S'e is the Danube'
 p102
-S'erendum in Belize '
+S'e of the Danube'
 p103
-(I2
-I2053
+(I4
+I882
 tp104
-(I16
-I2071
+(I19
+I897
 tp105
 tp106
-s(S'|What is the wingspa'
+s(S'|What was the name o'
 p107
-S'|<p> Wildlife offici'
+S'| "I hope you don\'t '
 p108
 tp109
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p110
 tp111
 Rp112
-S't |is the wings||pa|n of a condor'
+S'of the first Russi|an as'
 p113
-S't was the fi|rst laid by a condor'
+S'ok the first American |s'
 p114
-(I3
-I193
+(I18
+I1239
 tp115
-(I32
-I225
+(I41
+I1262
 tp116
 tp117
-s(S'|albacore'
+s(S'|Where did bocci ori'
 p118
-S'|bacon'
+S'|BFN     [Text] Let '
 p119
 tp120
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00 @'
+S'\x00\x00\x00\x00\x00\x00*@'
 p121
 tp122
 Rp123
-S'baco'
+S'i |or|ig|||in|ate'
 p124
-S'baco'
+S'i Foreign Ministe'
 p125
-(I2
-I0
+(I14
+I470
 tp126
-(I6
-I4
+(I25
+I487
 tp127
 tp128
-s(S'|albacore'
+s(S'|What is the wingspa'
 p129
-S'|baecon'
+S'|Four young Andean c'
 p130
 tp131
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00\x1c@'
+S'\x00\x00\x00\x00\x00\x004@'
 p132
 tp133
 Rp134
-S'ba|co'
+S' the wingspan of a condor'
 p135
-S'baeco'
+S' the |An|dean||||| condor'
 p136
-(I2
-I0
+(I7
+I287
 tp137
-(I6
-I5
+(I32
+I305
 tp138
 tp139
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p140
-S'|At the same time , '
+S'|A student rediscove'
 p141
 tp142
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00I@'
 p143
 tp144
 Rp145
-S' o|ld is the '
+S' is the Valley| of the Kings'
 p146
-S' only in the '
+S' in the Valleys of the Kings'
 p147
-(I3
-I5940
+(I5
+I1157
 tp148
-(I15
-I5953
+(I32
+I1185
 tp149
 tp150
 s(S'|Where did bocci ori'
 p151
-S'|Italian voters deal'
+S'|BFN     [Text] The '
 p152
 tp153
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p154
 tp155
 Rp156
-S'e did bocci |originate'
+S'here di|d b'
 p157
-S'e led |o||r do||minate'
+S'here will b'
 p158
-(I4
-I836
+(I1
+I485
 tp159
-(I25
-I853
+(I11
+I496
 tp160
 tp161
 s(S'|Where is Belize loc'
 p162
-S"|GUATEMALA'S Congres"
+S'|MR George Price , p'
 p163
 tp164
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x003@'
 p165
 tp166
 Rp167
-S'here is Belize '
+S'ere is Belize '
 p168
-S'held in Belize '
+S'er| of Belize '
 p169
-(I1
-I566
+(I2
+I30
 tp170
 (I16
-I581
+I43
 tp171
 tp172
-s(S'|What is the wingspa'
+s(S"|Where's Montenegro?"
 p173
-S'|Stress is believed '
+S'|BFN     [Text] Tira'
 p174
 tp175
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x009@'
 p176
 tp177
 Rp178
-S' |the| |wingsp|an||| |of a| condor'
+S"er|e's Montenegro"
 p179
-S' other tran|splanted Andean condor'
+S'ercept Montenegro'
 p180
-(I7
-I191
+(I2
+I259
 tp181
-(I32
-I224
+(I18
+I276
 tp182
 tp183
-s(S'|What was the name o'
+s(S'|Where does dew come'
 p184
-S'| "I hope you don\'t '
+S'|Pernod-Ricard and A'
 p185
 tp186
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x00&@'
 p187
 tp188
 Rp189
-S'of the first Russi|an as'
+S'ere d||||oes dew come '
 p190
-S'ok the first American |s'
+S'ere disclo|sed . |The '
 p191
-(I18
-I1239
+(I2
+I135
 tp192
-(I41
-I1262
+(I20
+I155
 tp193
 tp194
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p195
-S'|The first egg produ'
+S'|The other new subsi'
 p196
 tp197
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p198
 tp199
 Rp200
-S' th||e|| wingspan of a'
+S'ld is the sun'
 p201
-S' |have a wingspan of a'
+S'll be the |un'
 p202
-(I7
-I1269
+(I5
+I266
 tp203
-(I25
-I1290
+(I18
+I278
 tp204
 tp205
-s(S'|Where is Belize loc'
+s(S'|How old is the sun?'
 p206
-S'|Prime Minister Manu'
+S'|Matsushita Electric'
 p207
 tp208
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p209
 tp210
 Rp211
-S'ere is Belize '
+S'ow |old is the '
 p212
-S'ery to Belize '
+S'on sale in the '
 p213
-(I2
-I624
+(I1
+I1582
 tp214
-(I16
-I638
+(I15
+I1597
 tp215
 tp216
-s(S'|How old is the sun?'
+s(S'|Where does dew come'
 p217
-S'|Nevertheless ,  "Th'
+S'|<p> You can enjoy a'
 p218
 tp219
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x000@'
 p220
 tp221
 Rp222
-S' is the '
+S'here does |dew co'
 p223
-S' in the '
+S'here |has been co'
 p224
-(I7
-I624
+(I1
+I4768
 tp225
-(I15
-I632
+(I17
+I4784
 tp226
 tp227
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p228
-S'|Wildlife officials '
+S'|Belize says neighbo'
 p229
 tp230
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x005@'
 p231
 tp232
 Rp233
-S' |i||s ||the wingspan| '
+S'e| is Belize lo'
 p234
-S' birds with| wingspans '
+S'ed in Belize to'
 p235
 (I4
-I698
+I606
 tp236
-(I21
-I720
+(I18
+I621
 tp237
 tp238
-s(S'|What is the wingspa'
+s(S'|Where did the ukule'
 p239
-S'|Four young Andean c'
+S'|<p> Along with the '
 p240
 tp241
 (g4
@@ -489,438 +489,438 @@ S'\x00\x00\x00\x00\x00\x004@'
 p242
 tp243
 Rp244
-S' the wingspan of a condor'
+S' originate'
 p245
-S' the |An|dean||||| condor'
+S' originate'
 p246
-(I7
-I287
+(I21
+I1019
 tp247
-(I32
-I305
+(I31
+I1029
 tp248
 tp249
-s(S'|Where did bocci ori'
+s(S'|How old is the sun?'
 p250
-S'|Language : <f p= "1'
+S'|The upstart company'
 p251
 tp252
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x000@'
 p253
 tp254
 Rp255
-S'here did bo|c'
+S' |old |i||s the s'
 p256
-S'here |is no c'
+S' four times the s'
 p257
-(I1
-I3313
+(I3
+I2659
 tp258
-(I13
-I3325
+(I16
+I2676
 tp259
 tp260
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p261
-S'|BFN     [Text] The '
+S'|The solar panels on'
 p262
 tp263
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x80A@'
 p264
 tp265
 Rp266
-S'here di|d b'
+S' astronau||||t||||||||| to ||do a spacewalk'
 p267
-S'here will b'
+S' astronauts standing by to take a spacewalk'
 p268
-(I1
-I485
+(I38
+I265
 tp269
-(I11
-I496
+(I66
+I308
 tp270
 tp271
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p272
-S'|Two cosmonauts left'
+S'|Looking like a huge'
 p273
 tp274
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x005@'
 p275
 tp276
 Rp277
-S't was the name| o|||f the first Russia||n|| astrona|ut|| t||||||||||o do a||| space|walk'
+S' did th|e ukulele '
 p278
-S"t |to the telescope , the |Tass news agency |said at the time .    In today's space walk"
+S' wi||th a ukulele '
 p279
-(I3
-I698
+(I5
+I5312
 tp280
-(I66
-I783
+(I22
+I5328
 tp281
 tp282
-s(S'|Where is Belize loc'
+s(S'|Where did the ukule'
 p283
-S'|MR George Price , p'
+S'| "It\'s part of our '
 p284
 tp285
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x001@'
 p286
 tp287
 Rp288
-S'ere is Belize '
+S'here did the ukule|le originate'
 p289
-S'er| of Belize '
+S'her| |-- the |||real| ||||in|te'
 p290
-(I2
-I30
+(I1
+I2536
 tp291
-(I16
-I43
+(I31
+I2556
 tp292
 tp293
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p294
-S'|A tiny , pale aqua '
+S'|The first of a stri'
 p295
 tp296
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x003@'
 p297
 tp298
 Rp299
-S' is the win|gspa|n o|f a condor'
+S'ere is Belize '
 p300
-S' is the |only California condor'
+S'er| of Belize '
 p301
-(I4
-I1162
+(I2
+I720
 tp302
-(I32
-I1192
+(I16
+I733
 tp303
 tp304
-s(S"|Where's Montenegro?"
+s(S'|What was the name o'
 p305
-S'|BFN     [Text] Tira'
+S'|A new space race is'
 p306
 tp307
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00B@'
 p308
 tp309
 Rp310
-S"er|e's Montenegro"
+S'an| astronaut ||||||to do a||||| spacewalk'
 p311
-S'ercept Montenegro'
+S'and astronaut Spring , in a 1985 spacewalk'
 p312
-(I2
-I259
+(I36
+I5601
 tp313
-(I18
-I276
+(I66
+I5643
 tp314
 tp315
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p316
-S'|THE HISTORY of La B'
+S"|In ``hush-hush'' su"
 p317
 tp318
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p319
 tp320
 Rp321
-S'ere did boc'
+S' astronaut| ||to ||do a spacewal'
 p322
-S'ere had bec'
+S' astronauts will test a spec|ial'
 p323
-(I2
-I1288
+(I38
+I3641
 tp324
-(I13
-I1299
+(I65
+I3672
 tp325
 tp326
 s(S'|Where did bocci ori'
 p327
-S'|On the other , ther'
+S'|The finances have h'
 p328
 tp329
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x000@'
 p330
 tp331
 Rp332
-S'Where '
+S' origina'
 p333
-S'Where '
+S' origina'
 p334
-(I0
-I3704
+(I15
+I2158
 tp335
-(I6
-I3710
+(I23
+I2166
 tp336
 tp337
-s(S'|Where is Belize loc'
+s(S'|What was the name o'
 p338
-S'|BFN     [Text] Yest'
+S'|Here are brief sket'
 p339
 tp340
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p341
 tp342
 Rp343
-S'ere |is Belize lo'
+S' astronaut ||||to ||do |||a spacewa'
 p344
-S'er| the Belize Co'
+S' astronaut first| flew into space a'
 p345
-(I2
-I672
+(I38
+I665
 tp346
-(I18
-I688
+(I64
+I699
 tp347
 tp348
-s(S'|What is the wingspa'
+s(S'|Where does dew come'
 p349
-S"|It's a big bird . A"
+S'|President Bush brok'
 p350
 tp351
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p352
 tp353
 Rp354
-S'hat| is the wingspan of a '
+S' does| dew co||me '
 p355
-S'h|ts on the wings||| |, a '
+S' d|eserted course '
 p356
-(I1
-I216
+(I5
+I560
 tp357
-(I26
-I237
+(I20
+I577
 tp358
 tp359
-s(S'|What was the name o'
+s(S'|Where can you find '
 p360
-S'|A still-unexplained'
+S"|Magellan's mission "
 p361
 tp362
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x001@'
 p363
 tp364
 Rp365
-S' the first Russian as'
+S'ere can ||||||you| find the '
 p366
-S' the first mission |s'
+S'ers can figure out |why the '
 p367
-(I20
-I3407
+(I2
+I96
 tp368
-(I41
-I3427
+(I23
+I123
 tp369
 tp370
-s(S"|Where's Montenegro?"
+s(S'|Where does dew come'
 p371
-S'|BFN     [Excerpts] '
+S'|<p> The philosopher'
 p372
 tp373
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x000@'
 p374
 tp375
 Rp376
-S"ere's|| Montenegro"
+S'er|||e |do|||es |dew com||e from'
 p377
-S'er||s . Montenegro'
+S'eryone who ever knew him ,  from'
 p378
 (I2
-I2038
+I592
 tp379
-(I18
-I2054
+(I24
+I624
 tp380
 tp381
-s(S'|Where is Belize loc'
+s(S"|Where's Montenegro?"
 p382
-S'|BFN   <f p= "106 ">'
+S'|BFN     [Excerpts] '
 p383
 tp384
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x008@'
 p385
 tp386
 Rp387
-S' Belize loca'
+S"ere's|| Montenegro"
 p388
-S' Belize toda'
+S'er||s . Montenegro'
 p389
-(I8
-I93
+(I2
+I2038
 tp390
-(I20
-I105
+(I18
+I2054
 tp391
 tp392
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p393
-S'|The other new subsi'
+S'|After he came to Am'
 p394
 tp395
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x00&@'
 p396
 tp397
 Rp398
-S'ld is the sun'
+S'here |di|d bo'
 p399
-S'll be the |un'
+S'her| tried to'
 p400
-(I5
-I266
+(I1
+I858
 tp401
-(I18
-I278
+(I12
+I870
 tp402
 tp403
-s(S'|What is the wingspa'
+s(S'|Where did the ukule'
 p404
-S'|A hungry bundle of '
+S"|It's also the kind "
 p405
 tp406
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x004@'
 p407
 tp408
 Rp409
-S'hat is the wingspan of |a co'
+S'here |did the ukule||l||||||e origina'
 p410
-S'ha|||s ||a wingspan of up to'
+S'here also are |several of the origina'
 p411
 (I1
-I3113
+I3488
 tp412
-(I28
-I3136
+(I29
+I3524
 tp413
 tp414
-s(S'|Where is Belize loc'
+s(S'|How old is the sun?'
 p415
-S'|PORING OVER the pag'
+S'|Sun is fortunate Mr'
 p416
 tp417
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x003@'
 p418
 tp419
 Rp420
-S'r|e| is Belize '
+S' |old |is the '
 p421
-S'rced in Belize '
+S' told him the '
 p422
 (I3
-I2818
+I4038
 tp423
-(I16
-I2833
+(I15
+I4052
 tp424
 tp425
-s(S'|Where did bocci ori'
+s(S'|Where did the ukule'
 p426
-S'|If the New York Cit'
+S'|Bob Geldof , musici'
 p427
 tp428
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x002@'
 p429
 tp430
 Rp431
-S'here |did bocci originate'
+S' ukulele '
 p432
-S'her| hand ||||, originate'
+S' ukulele '
 p433
-(I1
-I1165
+(I13
+I827
 tp434
-(I25
-I1185
+(I22
+I836
 tp435
 tp436
-s(S'|Where is Belize loc'
+s(S'|Where is the Valley'
 p437
-S'|BFN     [Text] Pres'
+S'|<p> Two teams that '
 p438
 tp439
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x007@'
 p440
 tp441
 Rp442
-S' is Belize||| located'
+S' is the| ||||||Valley of the Ki'
 p443
-S' in Pe||ten , located'
+S' in the  semifina|l|s of the Ci'
 p444
 (I5
-I1417
+I72
 tp445
-(I23
-I1436
+(I29
+I101
 tp446
 tp447
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p448
-S'|Chunks of shrapnel '
+S'|A University of Ore'
 p449
 tp450
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p451
 tp452
 Rp453
-S't was the |name of the |first Rus|sian astronaut| to do |a'
+S'e di|d |bocci ||originate'
 p454
-S't was ||a flake of the pai|nt |used on |||rockets |and| pa'
+S'e city should coor|dinate'
 p455
-(I3
-I3121
+(I4
+I374
 tp456
-(I56
-I3170
+(I25
+I398
 tp457
 tp458
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p459
-S'|The British governm'
+S'|BFN     [Text] Buda'
 p460
 tp461
 (g4
@@ -929,42 +929,42 @@ S'\x00\x00\x00\x00\x00\x007@'
 p462
 tp463
 Rp464
-S'e| is Belize lo|c||ate'
+S'e |is the Danube'
 p465
-S'ed in Belize to counte'
+S'e for the Danube'
 p466
 (I4
-I526
+I90
 tp467
-(I22
-I548
+(I19
+I106
 tp468
 tp469
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p470
-S'|Up to 10 spacewalks'
+S"|GUATEMALA'S Congres"
 p471
 tp472
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80E@'
+S'\x00\x00\x00\x00\x00\x005@'
 p473
 tp474
 Rp475
-S'hat ||||was the name of |the first Russian astronaut| to| do a'
+S'here is Belize '
 p476
-S'hat much of the time of at|| least ||||two astronauts |on bo|a'
+S'held in Belize '
 p477
 (I1
-I1305
+I566
 tp478
-(I56
-I1359
+(I16
+I581
 tp479
 tp480
 s(S'|How old is the sun?'
 p481
-S'|Matsushita Electric'
+S'| "This makes it dif'
 p482
 tp483
 (g4
@@ -973,262 +973,262 @@ S'\x00\x00\x00\x00\x00\x00.@'
 p484
 tp485
 Rp486
-S'ow |old is the '
+S' |old|| is||| the '
 p487
-S'on sale in the '
+S' to|day is on the '
 p488
-(I1
-I1582
+(I3
+I788
 tp489
 (I15
-I1597
+I805
 tp490
 tp491
-s(S"|Where's Montenegro?"
+s(S'|Where did the ukule'
 p492
-S'|CSO       [Editoria'
+S'|<p> The search cont'
 p493
 tp494
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x005@'
 p495
 tp496
 Rp497
-S' Montenegro'
+S'ere did the ukule|le |or'
 p498
-S' Montenegro'
+S'ere |in the |||Real| Wor'
 p499
-(I7
-I257
+(I2
+I3349
 tp500
-(I18
-I268
+(I24
+I3368
 tp501
 tp502
-s(S'|Where is Belize loc'
+s(S'|Where can you find '
 p503
-S'|CONSERVATION and to'
+S'|A runaway ``greenho'
 p504
 tp505
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x008@'
 p506
 tp507
 Rp508
-S' is Belize '
+S'e|re ||can| you find the Venus'
 p509
-S' in Belize '
+S'earn if any |o||f||| the Venus'
 p510
-(I5
-I54
+(I2
+I3874
 tp511
-(I16
-I65
+(I28
+I3898
 tp512
 tp513
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p514
-S'|The Ventura agreeme'
+S'|An excited young An'
 p515
 tp516
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x007@'
 p517
 tp518
 Rp519
-S'ow ||old is the |s'
+S' the| wingspan| ||of ||a con'
 p520
-S'o| broad|en the us'
+S' |her wings and took off |on'
 p521
-(I1
-I59
+(I7
+I38
 tp522
-(I16
-I75
+(I29
+I64
 tp523
 tp524
-s(S'|Where is Belize loc'
+s(S'|Where can you find '
 p525
-S'|THE opposition in B'
+S'|<p> The Magellan sp'
 p526
 tp527
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x004@'
 p528
 tp529
 Rp530
-S'ere is Belize '
+S' the Venus'
 p531
-S'ers in Belize '
+S' the Venus'
 p532
-(I2
-I647
+(I18
+I2002
 tp533
-(I16
-I661
+(I28
+I2012
 tp534
 tp535
-s(S'|What is the wingspa'
+s(S'|What was the name o'
 p536
-S'|<p> An egg laid Sun'
+S'|Astronauts Jerry L '
 p537
 tp538
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p539
 tp540
 Rp541
-S'at| is the wingspa||n|| |of a condor'
+S' was the |name o|f the first Russian astronaut to'
 p542
-S'ate in the ||||season , so|me condor'
+S' was ||a pla|tform th|||||at ||||the astronaut ho'
 p543
-(I2
-I1446
+(I4
+I1089
 tp544
-(I32
-I1477
+(I51
+I1126
 tp545
 tp546
-s(S'|Where did bocci ori'
+s(S'|Where is the Danube'
 p547
-S"|<p> There's a littl"
+S'|BFN     [Text] Brat'
 p548
 tp549
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x005@'
 p550
 tp551
 Rp552
-S'e| |did bocci '
+S' is the|||| Danube'
 p553
-S'el hair bocca '
+S' in the old Danube'
 p554
-(I4
-I1045
+(I5
+I865
 tp555
-(I16
-I1059
+(I19
+I883
 tp556
 tp557
-s(S'|Where is Belize loc'
+s(S'|Where does dew come'
 p558
-S'|Belize says neighbo'
+S'|Pernod Ricard , the'
 p559
 tp560
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p561
 tp562
 Rp563
-S'e| is Belize lo'
+S'er||e does '
 p564
-S'ed in Belize to'
+S'er it does '
 p565
-(I4
-I606
+(I2
+I429
 tp566
-(I18
-I621
+(I11
+I440
 tp567
 tp568
-s(S'|What is the wingspa'
+s(S'|What was the name o'
 p569
-S'|Removing the egg fr'
+S"|Mission Control's B"
 p570
 tp571
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x00?@'
 p572
 tp573
 Rp574
-S' the wingspan of a condor'
+S'me of the fi|rs|||t Russi||||||||a|n astronaut '
 p575
-S' the wi||||ld |, a condor'
+S'me of the views are amazing , " said astronaut '
 p576
-(I7
-I118
+(I15
+I2580
 tp577
-(I32
-I138
+(I49
+I2627
 tp578
 tp579
-s(S'|Where is Belize loc'
+s(S'|Where did bocci ori'
 p580
-S"|BELIZE'S new govern"
+S'|About 30 food booth'
 p581
 tp582
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x00$@'
 p583
 tp584
 Rp585
-S'ere| is Belize |locate'
+S' bocc'
 p586
-S'ered by Belize , Guate'
+S' bocc'
 p587
-(I2
-I1276
+(I9
+I96
 tp588
-(I22
-I1298
+(I14
+I101
 tp589
 tp590
-s(S'|How old is the sun?'
+s(S'|Where is the Danube'
 p591
-S'|The upstart company'
+S'|THE European Commun'
 p592
 tp593
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x006@'
 p594
 tp595
 Rp596
-S' |old |i||s the s'
+S' the Danube'
 p597
-S' four times the s'
+S' the Danube'
 p598
-(I3
-I2659
+(I8
+I200
 tp599
-(I16
-I2676
+(I19
+I211
 tp600
 tp601
-s(S'|How old is the sun?'
+s(S'|Where did the ukule'
 p602
-S'|COMPUTER workstatio'
+S'|<p> It had been a b'
 p603
 tp604
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x005@'
 p605
 tp606
 Rp607
-S' is the '
+S'here did th||e ukulele| '
 p608
-S' is the '
+S'he|n you |have ukuleles '
 p609
-(I7
-I1957
+(I1
+I1180
 tp610
-(I15
-I1965
+(I22
+I1202
 tp611
 tp612
-s(S'|Where did bocci ori'
+s(S'|How old is the sun?'
 p613
-S'|Brant unveils tonig'
+S'|Revenue for the fou'
 p614
 tp615
 (g4
@@ -1237,108 +1237,108 @@ S'\x00\x00\x00\x00\x00\x00,@'
 p616
 tp617
 Rp618
-S' bocci '
+S' |old i|s '
 p619
-S' bocci '
+S' sold its '
 p620
-(I9
-I3574
+(I3
+I653
 tp621
-(I16
-I3581
+(I11
+I663
 tp622
 tp623
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p624
-S'|The Gamma Ray Obser'
+S'|BFN   <f p= "106 ">'
 p625
 tp626
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p627
 tp628
 Rp629
-S't wa|s the |name of the first|| Russia||n astronaut| '
+S'ere did bo'
 p630
-S't have t|o leave||| the shuttle ||today , astronauts '
+S'ers did so'
 p631
-(I3
-I835
+(I2
+I2831
 tp632
-(I49
-I882
+(I12
+I2841
 tp633
 tp634
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p635
-S'|<p> At the unpreced'
+S'|The first of two he'
 p636
 tp637
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x004@'
 p638
 tp639
 Rp640
-S'd bocci orig||inat'
+S' the wingspa|n of ||a| |c'
 p641
-S'd local or|ganizat'
+S' the vang|uard of what sc'
 p642
-(I8
-I8374
+(I7
+I1139
 tp643
-(I24
-I8391
+(I27
+I1163
 tp644
 tp645
-s(S'|What is the wingspa'
+s(S'|Where does dew come'
 p646
-S'|One zoo-hatched And'
+S'|<p> University of M'
 p647
 tp648
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x00$@'
 p649
 tp650
 Rp651
-S' the wingspan of a condor'
+S'es |dew com'
 p652
-S' the |An|dean||||| condor'
+S'ed the| com'
 p653
-(I7
-I1188
+(I8
+I516
 tp654
-(I32
-I1206
+(I18
+I526
 tp655
 tp656
-s(S'|What was the name o'
+s(S'|Where does dew come'
 p657
-S'|The solar panels on'
+S'|<p> Dew glittered o'
 p658
 tp659
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p660
 tp661
 Rp662
-S' astronau||||t||||||||| to ||do a spacewalk'
+S're does |dew com'
 p663
-S' astronauts standing by to take a spacewalk'
+S'r| do|| they com'
 p664
-(I38
-I265
+(I3
+I5074
 tp665
-(I66
-I308
+(I18
+I5087
 tp666
 tp667
 s(S'|Where did bocci ori'
 p668
-S'|<p> As result of in'
+S'|Festivals and fairs'
 p669
 tp670
 (g4
@@ -1352,851 +1352,851 @@ p674
 S' origina'
 p675
 (I15
-I75
+I37
 tp676
 (I23
-I83
+I45
 tp677
 tp678
-s(S'|What is the wingspa'
+s(S'|Where did the ukule'
 p679
-S'|Four Andean condors'
+S'|<p> Bob Geldof , mu'
 p680
 tp681
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x002@'
 p682
 tp683
 Rp684
-S'at|| |is th|e wingspan '
+S' ukulele '
 p685
-S'ater wi||th a wingspan '
+S' ukulele '
 p686
-(I2
-I512
+(I13
+I859
 tp687
-(I21
-I533
+(I22
+I868
 tp688
 tp689
 s(S'|What is the wingspa'
 p690
-S'|One of four Andean '
+S'|A Boy Scout who cra'
 p691
 tp692
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x008@'
 p693
 tp694
 Rp695
-S'at||| is the wingspa|n o|f a condor'
+S'ingspan of|| ||a| condor'
 p696
-S'ative to the |||||California condor'
+S'ings||| of a real condor'
 p697
-(I2
-I788
+(I13
+I2584
 tp698
 (I32
-I818
+I2605
 tp699
 tp700
-s(S'|Where is Belize loc'
+s(S'|Where does dew come'
 p701
-S'|The first of a stri'
+S'|An FBI agent shot a'
 p702
 tp703
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p704
 tp705
 Rp706
-S'ere is Belize '
+S'e does |dew come fro'
 p707
-S'er| of Belize '
+S'e fo|r the| co||nfro'
 p708
-(I2
-I720
+(I4
+I1040
 tp709
-(I16
-I733
+(I23
+I1056
 tp710
 tp711
-s(S'|Where did bocci ori'
+s(S'|Where is Belize loc'
 p712
-S'|They do these thing'
+S'|FOR MORE than 40 ye'
 p713
 tp714
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x001@'
 p715
 tp716
 Rp717
-S'e did bocc||i o'
+S' Belize lo'
 p718
-S'endid |occasi|o'
+S' Belize wo'
 p719
-(I4
-I607
+(I8
+I412
 tp720
-(I17
-I620
+(I18
+I422
 tp721
 tp722
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p723
-S'|Two cosmonauts whos'
+S'|THE Guatemalan gove'
 p724
 tp725
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00B@'
+S'\x00\x00\x00\x00\x00\x000@'
 p726
 tp727
 Rp728
-S'hat was the name| of the first Russia|n|| |astronaut t'
+S' Belize '
 p729
-S'hat was trumpeted as the first ||||manned mission in t'
+S' Belize '
 p730
-(I1
-I956
+(I8
+I2705
 tp731
-(I50
-I1006
+(I16
+I2713
 tp732
 tp733
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p734
-S"|In ``hush-hush'' su"
+S"|EDITOR'S NOTE _ Do "
 p735
 tp736
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p737
 tp738
 Rp739
-S' astronaut| ||to ||do a spacewal'
+S' did the ukulele o'
 p740
-S' astronauts will test a spec|ial'
+S' |in the ||field o'
 p741
-(I38
-I3641
+(I5
+I281
 tp742
-(I65
-I3672
+(I23
+I296
 tp743
 tp744
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p745
-S'|An internal NASA st'
+S"|While Sun's new wor"
 p746
 tp747
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p748
 tp749
 Rp750
-S' the name of the first Russian |astronau|t to d'
+S' |o|ld is|||| the '
 p751
-S' th|||a|t if the si||t||uation cont|in|ues to d'
+S' could |stall the '
 p752
-(I8
-I1432
+(I3
+I3038
 tp753
-(I53
-I1469
+(I15
+I3055
 tp754
 tp755
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p756
-S"|Discovery's astrona"
+S'|BELIZE holds a gene'
 p757
 tp758
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00G@'
+S'\x00\x00\x00\x00\x00\x001@'
 p759
 tp760
 Rp761
-S' the ||name |of the fir|st Russian astronaut |to|||| ||||do a spacewalk'
+S're is Belize '
 p762
-S' the repair was |performed ||by an astronaut who was taking a spacewalk'
+S'r| to Belize '
 p763
-(I8
-I1228
+(I3
+I645
 tp764
-(I66
-I1296
+(I16
+I657
 tp765
 tp766
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p767
-S'|Sun is fortunate Mr'
+S"|A dancer's life is "
 p768
 tp769
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p770
 tp771
 Rp772
-S' |old |is the '
+S'e did bo'
 p773
-S' told him the '
+S'e did no'
 p774
-(I3
-I4038
+(I4
+I1829
 tp775
-(I15
-I4052
+(I12
+I1837
 tp776
 tp777
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p778
-S'|A jury has conclude'
+S'|Magellan will resum'
 p779
 tp780
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x003@'
 p781
 tp782
 Rp783
-S'he|re|| did '
+S're can you find the '
 p784
-S'helmets did '
+S're was cau|sing the '
 p785
-(I1
-I1743
+(I3
+I1068
 tp786
-(I10
-I1755
+(I23
+I1087
 tp787
 tp788
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p789
-S'|The finances have h'
+S'|NASA scientists who'
 p790
 tp791
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x002@'
 p792
 tp793
 Rp794
-S' origina'
+S' yo|u |fi||n|d th|e Venus| '
 p795
-S' origina'
+S" more evidence that Venus' "
 p796
-(I15
-I2158
+(I9
+I245
 tp797
-(I23
-I2166
+(I29
+I272
 tp798
 tp799
-s(S'|How old is the sun?'
+s(S'|Where does dew come'
 p800
-S"|Lockheed Corp .'s C"
+S'|FOR somewhat more d'
 p801
 tp802
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p803
 tp804
 Rp805
-S' old i|s the su'
+S'here does |dew '
 p806
-S' o|f its two su'
+S'here ||is the| '
 p807
-(I3
-I794
+(I1
+I63
 tp808
-(I17
-I808
+(I15
+I75
 tp809
 tp810
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p811
-S'|And speaking of SJC'
+S'| "Very nice braking'
 p812
 tp813
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00D@'
 p814
 tp815
 Rp816
-S' origina'
+S' the |||||na||||me of the| first Russian |a||||st|r||onaut to do a||| space|walk'
 p817
-S' origina'
+S" the antenna loose |, then ||got |||||an early start on||| to|d||ay's space-walk"
 p818
-(I15
-I397
+(I8
+I815
 tp819
-(I23
-I405
+(I66
+I881
 tp820
 tp821
-s(S"|Where's Montenegro?"
+s(S'|Where can you find '
 p822
-S'|BFN   <f p= "106 ">'
+S'|NASA engineers succ'
 p823
 tp824
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x001@'
 p825
 tp826
 Rp827
-S"ere's Montenegro"
+S'ere ca|n you |find th||||||e Venus'
 p828
-S'e|e . Montenegro'
+S'er||tainly|| mean| there are Venus'
 p829
 (I2
-I2250
+I3048
 tp830
-(I18
-I2265
+(I28
+I3077
 tp831
 tp832
 s(S'|What is the wingspa'
 p833
-S'|An egg laid in capt'
+S'|<p> A California co'
 p834
 tp835
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x008@'
 p836
 tp837
 Rp838
-S' the wingspan of ||a| condor'
+S'at is| ||t|he wing||s|pa|n of a c'
 p839
-S" the |||||park's lead condor"
+S'at|est hatch|||ing is part of a c'
 p840
-(I7
-I196
+(I2
+I524
 tp841
-(I32
-I219
+(I27
+I553
 tp842
 tp843
-s(S'|What is the wingspa'
+s(S'|Where can you find '
 p844
-S'| "Next year we\'re h'
+S'|NASA armed Magellan'
 p845
 tp846
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x003@'
 p847
 tp848
 Rp849
-S' the wi||||ngspan of|||| ||||a condor'
+S'e can you find the| '
 p850
-S' the wildernes||s of the Sespe Condor'
+S'e can go| ei|||ther '
 p851
-(I7
-I1358
+(I4
+I1009
 tp852
-(I32
-I1393
+(I23
+I1025
 tp853
 tp854
-s(S'|What was the name o'
+s(S'|Where is the Danube'
 p855
-S'|The sky was cloudy '
+S'|THE Slovak governme'
 p856
 tp857
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x006@'
 p858
 tp859
 Rp860
-S's the |||name of the '
+S' the Danube'
 p861
-S's the release of the '
+S' the Danube'
 p862
-(I7
-I951
+(I8
+I82
 tp863
-(I25
-I972
+(I19
+I93
 tp864
 tp865
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p866
-S'|After he came to Am'
+S'|The first Californi'
 p867
 tp868
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00&@'
+S'\x00\x00\x00\x00\x00\x00>@'
 p869
 tp870
 Rp871
-S'here |di|d bo'
+S't i|s the ||wingspan of a c'
 p872
-S'her| tried to'
+S'tains the makings||| of a c'
 p873
-(I1
-I858
+(I3
+I79
 tp874
-(I12
-I870
+(I27
+I103
 tp875
 tp876
-s(S'|Where did bocci ori'
+s(S'|Where is the Danube'
 p877
-S'|<p> In San Francisc'
+S'|GERMANY weighed in '
 p878
 tp879
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x006@'
 p880
 tp881
 Rp882
-S' origin'
+S' the Danube'
 p883
-S' origin'
+S' the Danube'
 p884
-(I15
-I6754
+(I8
+I373
 tp885
-(I22
-I6761
+(I19
+I384
 tp886
 tp887
-s(S'|What was the name o'
+s(S'|Where can you find '
 p888
-S'|Five astronauts boa'
+S'|Magellan is the lat'
 p889
 tp890
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x003@'
 p891
 tp892
 Rp893
-S't| wa|s th||e name| o|||||||f the first Russian '
+S' can you find|| the Venus '
 p894
-S'th pads |have |been occupied; the first was i|n '
+S' carry|| |radar t|o Venus '
 p895
-(I3
-I1508
+(I5
+I1898
 tp896
-(I39
-I1553
+(I29
+I1920
 tp897
 tp898
 s(S'|What is the wingspa'
 p899
-S'|Condor keepers hobb'
+S'|<p> Biologists tryi'
 p900
 tp901
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x003@'
 p902
 tp903
 Rp904
-S'is|| the |||wingspa|n o|f a condor'
+S' wingspan| '
 p905
-S'ised the know|n| California condor'
+S' wingspans '
 p906
-(I5
-I1974
+(I11
+I318
 tp907
-(I32
-I2006
+(I21
+I329
 tp908
 tp909
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p910
-S'|BELIZE holds a gene'
+S'|Now that Mikhail Go'
 p911
 tp912
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x007@'
 p913
 tp914
 Rp915
-S're is Belize '
+S'e| is the Danube'
 p916
-S'r| to Belize '
+S'es of the Danube'
 p917
-(I3
-I645
+(I4
+I3024
 tp918
-(I16
-I657
+(I19
+I3040
 tp919
 tp920
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p921
-S'|The gala celebratin'
+S'|A ground control co'
 p922
 tp923
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p924
 tp925
 Rp926
-S'here did '
+S'i|nd the Venus '
 p927
-S'here |in '
+S'ion| |of Venus '
 p928
-(I1
-I88
+(I15
+I100
 tp929
-(I10
-I96
+(I29
+I113
 tp930
 tp931
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p932
-S'|Apollo Computer Inc'
+S'|To this end , they '
 p933
 tp934
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p935
 tp936
 Rp937
-S'o|l|d |is the '
+S'ere d||i||d b'
 p938
-S'ollo  "is the '
+S'ere devised b'
 p939
-(I4
-I667
+(I2
+I661
 tp940
-(I15
-I681
+(I11
+I674
 tp941
 tp942
-s(S'|Where did bocci ori'
+s(S'|Where is Belize loc'
 p943
-S'|A University of Ore'
+S'|TWO important devel'
 p944
 tp945
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x003@'
 p946
 tp947
 Rp948
-S'e di|d |bocci ||originate'
+S' is Belize|| ||locat'
 p949
-S'e city should coor|dinate'
+S" as Belize's rel||at"
 p950
-(I4
-I374
+(I5
+I1922
 tp951
-(I25
-I398
+(I21
+I1940
 tp952
 tp953
-s(S'|What is the wingspa'
+s(S'|Where did bocci ori'
 p954
-S'|<p> Zookeepers kept'
+S'|In none of their in'
 p955
 tp956
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p957
 tp958
 Rp959
-S' is the wingspan ||of a condor'
+S'here did bo|c'
 p960
-S' is the fi|rs||t time a condor'
+S'here |is no c'
 p961
-(I4
-I750
+(I1
+I4261
 tp962
-(I32
-I777
+(I13
+I4273
 tp963
 tp964
 s(S'|Where did bocci ori'
 p965
-S'|American Ballet The'
+S'|<p> Her extension s'
 p966
 tp967
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p968
 tp969
 Rp970
-S'here '
+S'here did bo'
 p971
-S'here '
+S'here |it co'
 p972
 (I1
-I2486
+I99
 tp973
-(I6
-I2491
+(I12
+I109
 tp974
 tp975
-s(S'|How old is the sun?'
+s(S'|Where does dew come'
 p976
-S'|Analysts said Apple'
+S'|ON TUESDAY February'
 p977
 tp978
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p979
 tp980
 Rp981
-S'd is the s'
+S'e doe|s de|w ||co|me|| from'
 p982
-S'd in the s'
+S'e d|ependent on orders from'
 p983
-(I6
-I1112
+(I4
+I1881
 tp984
-(I16
-I1122
+(I24
+I1907
 tp985
 tp986
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p987
-S'| "This makes it dif'
+S'|This quiet , bone-d'
 p988
 tp989
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x80I@'
 p990
 tp991
 Rp992
-S' |old|| is||| the '
+S' is the Valley of the Kings'
 p993
-S' to|day is on the '
+S' in the Valley of the Kings'
 p994
-(I3
-I788
+(I5
+I2154
 tp995
-(I15
-I805
+(I32
+I2181
 tp996
 tp997
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p998
-S'|A Sun spokeswoman a'
+S'|Six Andean condors '
 p999
 tp1000
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1001
 tp1002
 Rp1003
-S' is the '
+S'hat is the '
 p1004
-S' as the '
+S'hat is the '
 p1005
-(I7
-I2006
+(I1
+I3264
 tp1006
-(I15
-I2014
+(I12
+I3275
 tp1007
 tp1008
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p1009
-S'|All but one of this'
+S'|NASA , in a rare mo'
 p1010
 tp1011
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x80A@'
 p1012
 tp1013
 Rp1014
-S'e| did bocci| origina'
+S' name| |of the first| Russi|an astron'
 p1015
-S'ed |in |their origina'
+S' named for the ||late American astron'
 p1016
-(I4
-I582
+(I12
+I2807
 tp1017
-(I23
-I601
+(I45
+I2842
 tp1018
 tp1019
 s(S'|What was the name o'
 p1020
-S'|Astronaut Donald E '
+S'|After seven years o'
 p1021
 tp1022
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x00@@'
 p1023
 tp1024
 Rp1025
-S'an astronaut to| do ||a s'
+S' the ||||n|||ame of the fi|||rst Russian|| astronaut| to d'
 p1026
-S'an astronaut for 11 years'
+S' the second da|y of the five-day mission . NASA wants to d'
 p1027
-(I36
-I203
+(I8
+I4274
 tp1028
-(I58
-I228
+(I53
+I4331
 tp1029
 tp1030
-s(S'|Where is Belize loc'
+s(S'|Where does dew come'
 p1031
-S'|BFN     [Text] Afte'
+S'|But two other legis'
 p1032
 tp1033
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p1034
 tp1035
 Rp1036
-S'e| is Belize '
+S'e does d|ew come| f|r'
 p1037
-S'ed to Belize '
+S'e |per diem money for'
 p1038
 (I4
-I1670
+I825
 tp1039
-(I16
-I1683
+(I22
+I845
 tp1040
 tp1041
-s(S'|Where did bocci ori'
+s(S'|Where is the Valley'
 p1042
-S'| "Everyone from the'
+S'|<p> Top teams : (Li'
 p1043
 tp1044
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00&@'
+S'\x00\x00\x00\x00\x00\x003@'
 p1045
 tp1046
 Rp1047
-S' bocci '
+S'e is the Valley of th||e King'
 p1048
-S' bocce '
+S'e of the ||||||top three sing'
 p1049
-(I9
-I1286
+(I4
+I1147
 tp1050
-(I16
-I1293
+(I31
+I1170
 tp1051
 tp1052
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p1053
-S'|San Francisco Beat '
+S"|NASA says Magellan'"
 p1054
 tp1055
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1056
 tp1057
 Rp1058
-S'here d'
+S'e ||can you find th||||e Venus| '
 p1059
-S'here d'
+S"e radar to| peer through Venus' "
 p1060
-(I1
-I453
+(I4
+I947
 tp1061
-(I7
-I459
+(I29
+I978
 tp1062
 tp1063
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p1064
-S"|Czechoslovakia's tr"
+S'|With the Broadway t'
 p1065
 tp1066
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00F@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1067
 tp1068
 Rp1069
-S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
+S'ere did the |ukule|le '
 p1070
-S' to| the telescope ||so two astronauts could perform a spacewalk'
+S'ere |in the au|dience '
 p1071
-(I17
-I3320
+(I2
+I1158
 tp1072
-(I66
-I3381
+(I22
+I1178
 tp1073
 tp1074
-s(S'|Where is Belize loc'
+s(S'|How old is the sun?'
 p1075
-S'|BFN     [Excerpt] G'
+S'|Says executive vice'
 p1076
 tp1077
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1078
 tp1079
 Rp1080
-S'e is |Belize lo'
+S' |old is the '
 p1081
-S'e || "Belize Co'
+S' no|w is the '
 p1082
-(I4
-I1007
+(I3
+I4563
 tp1083
-(I18
-I1020
+(I15
+I4575
 tp1084
 tp1085
 s(S'|What was the name o'
 p1086
-S'|Astronauts Jerry L '
+S'|Bagian had left an '
 p1087
 tp1088
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x00D@'
 p1089
 tp1090
 Rp1091
-S' was the |name o|f the first Russian astronaut to'
+S'hat w|as the name of the first Russian ||ast||ron||au|||t to |do a| '
 p1092
-S' was ||a pla|tform th|||||at ||||the astronaut ho'
+S'hat when |we came on th|||i|s| mission tha|t when you get to fly at '
 p1093
-(I4
-I1089
+(I1
+I376
 tp1094
-(I51
-I1126
+(I57
+I437
 tp1095
 tp1096
 s(S'|Where did bocci ori'
 p1097
-S'|Except in her exqui'
+S'|New York City Balle'
 p1098
 tp1099
 (g4
@@ -2210,235 +2210,235 @@ p1103
 S' origina'
 p1104
 (I15
-I3462
+I2584
 tp1105
 (I23
-I3470
+I2592
 tp1106
 tp1107
-s(S"|Where's Montenegro?"
+s(S'|Where did bocci ori'
 p1108
-S'|Article   Type :CSO'
+S'|Federal prosecutors'
 p1109
 tp1110
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00$@'
 p1111
 tp1112
 Rp1113
-S' Montenegro'
+S'ere d||i|d boc'
 p1114
-S' Montenegro'
+S'ers dating bac'
 p1115
-(I7
-I165
+(I2
+I660
 tp1116
-(I18
-I176
+(I13
+I674
 tp1117
 tp1118
 s(S'|What is the wingspa'
 p1119
-S'|A California condor'
+S'|A newborn Californi'
 p1120
 tp1121
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x00A@'
 p1122
 tp1123
 Rp1124
-S' the w||ings|pa|n o|f a condor'
+S't is the wingsp|an| of|||| |a|| condor'
 p1125
-S" the world's California condor"
+S't is the |offspring of the same condor'
 p1126
-(I7
-I1344
+(I3
+I1004
 tp1127
 (I32
-I1374
+I1041
 tp1128
 tp1129
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p1130
-S'|Price cuts on older'
+S'|The Philadelphia Zo'
 p1131
 tp1132
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p1133
 tp1134
 Rp1135
-S'ow |old is the '
+S'hat is the wingspan of |a co'
 p1136
-S'o| follows the '
+S'ha|||s ||a wingspan of up to'
 p1137
 (I1
-I462
+I2115
 tp1138
-(I15
-I476
+(I28
+I2138
 tp1139
 tp1140
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p1141
-S'|Twenty high schools'
+S'|<p> The launch of t'
 p1142
 tp1143
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x80E@'
 p1144
 tp1145
 Rp1146
-S'ere did bocci '
+S' the ||name of the first Russian|||||| astronaut| '
 p1147
-S'er| ||, bocce '
+S' the course of the||ir|| mission , the astronauts '
 p1148
-(I2
-I2469
+(I8
+I2040
 tp1149
-(I16
-I2480
+(I49
+I2086
 tp1150
 tp1151
 s(S'|What was the name o'
 p1152
-S'| "If we can\'t , the'
+S'|NASA launched the s'
 p1153
 tp1154
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80D@'
+S'\x00\x00\x00\x00\x00\x80F@'
 p1155
 tp1156
 Rp1157
-S' was the |name of the firs||||||||t ||Russia|n astronaut| '
+S' the first Russian astronaut| to ||do a space'
 p1158
-S" |at the en||d of the mission .;    Columbia's astronauts "
+S' The first ||||non-astronauts go into|| space'
 p1159
-(I4
-I847
+(I20
+I938
 tp1160
-(I49
-I902
+(I62
+I977
 tp1161
 tp1162
-s(S'|What is the wingspa'
+s(S'|What was the name o'
 p1163
-S'|<p> Three Californi'
+S'|Mission specialist '
 p1164
 tp1165
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x80B@'
 p1166
 tp1167
 Rp1168
-S'pa|n of a condor'
+S'hat was t||he|| |||name of the |fir||||s||||t||||| Russian a|||||s|tr|onaut to |||do|| a spacewalk'
 p1169
-S'pair of|| condor'
+S'h|t |is to help operate||| the Astro observatory , Hoffman also is train|ed to perform a spacewalk'
 p1170
-(I17
-I1046
+(I1
+I495
 tp1171
-(I32
-I1060
+(I66
+I587
 tp1172
 tp1173
-s(S'|What was the name o'
+s(S'|Where is the Valley'
 p1174
-S'|Navy Capt . Dick Ri'
+S'|<p> When the Roman '
 p1175
 tp1176
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1177
 tp1178
 Rp1179
-S' w|as the |na|me| of th|||||e| |first|| Russian astronaut '
+S'e|re i||s|| the Valley '
 p1180
-S' when |he learned he |had been selected ||as an astronaut '
+S'e regions , the valley '
 p1181
-(I4
-I1501
+(I2
+I804
 tp1182
-(I49
-I1555
+(I20
+I827
 tp1183
 tp1184
-s(S'|What is the wingspa'
+s(S'|Where is the Valley'
 p1185
-S'|A fist-sized bundle'
+S'|Treasures even grea'
 p1186
 tp1187
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x80E@'
 p1188
 tp1189
 Rp1190
-S'hat is the wingspan of |a co'
+S'here |is the Valley of the Kings'
 p1191
-S'ha|||s ||a wingspan of up to'
+S"hern Egypt's Valley of the Kings"
 p1192
 (I1
-I1758
+I821
 tp1193
-(I28
-I1781
+(I32
+I853
 tp1194
 tp1195
-s(S'|What is the wingspa'
+s(S'|What was the name o'
 p1196
-S'|A decision on the h'
+S'|Space shuttle Atlan'
 p1197
 tp1198
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x80C@'
 p1199
 tp1200
 Rp1201
-S'hat is the|| wing||s|pa'
+S'hat wa|s|| the ||||||name|| of the f|irst |Russian '
 p1202
-S'h|t |, their wings sepa'
+S'hat caused the postponement of the flight Thursday '
 p1203
 (I1
-I3108
+I780
 tp1204
-(I19
-I3129
+(I39
+I831
 tp1205
 tp1206
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p1207
-S'|Briggs would rather'
+S'|Magellan engineers '
 p1208
 tp1209
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x002@'
 p1210
 tp1211
 Rp1212
-S'here '
+S'ere can you find the '
 p1213
-S'here '
+S'ere con|sidering the '
 p1214
-(I1
-I947
+(I2
+I3225
 tp1215
-(I6
-I952
+(I23
+I3245
 tp1216
 tp1217
-s(S'|Where is Belize loc'
+s(S'|Where did the ukule'
 p1218
-S'|BFN     [Text] The '
+S'|IS THERE no such wo'
 p1219
 tp1220
 (g4
@@ -2447,1868 +2447,1868 @@ S'\x00\x00\x00\x00\x00\x004@'
 p1221
 tp1222
 Rp1223
-S'er|||e |i|s Belize '
+S'e did the ukulele ori||ginat'
 p1224
-S'erence with Belize '
+S'e |in the western ||imaginat'
 p1225
-(I2
-I815
+(I4
+I5570
 tp1226
-(I16
-I834
+(I30
+I5595
 tp1227
 tp1228
-s(S'|Where did bocci ori'
+s(S'|Where does dew come'
 p1229
-S'|The first Hans Chri'
+S'|THE RUHR region boa'
 p1230
 tp1231
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1232
 tp1233
 Rp1234
-S'ere ||d||||id bocci o'
+S'here does dew com|e'
 p1235
-S'er| and Julio Bocca o'
+S'here |was |no compe'
 p1236
-(I2
-I1331
+(I1
+I5313
 tp1237
-(I17
-I1351
+(I19
+I5330
 tp1238
 tp1239
-s(S'|Where did bocci ori'
+s(S'|Where does dew come'
 p1240
-S'|BFN     [Text] Let '
+S'|It must have seemed'
 p1241
 tp1242
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1243
 tp1244
 Rp1245
-S'i |or|ig|||in|ate'
+S'do|e|s dew com|e| from'
 p1246
-S'i Foreign Ministe'
+S'doners re||member from'
 p1247
-(I14
-I470
+(I6
+I1291
 tp1248
-(I25
-I487
+(I24
+I1311
 tp1249
 tp1250
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p1251
-S'|Hewlett-Packard , S'
+S'|<p> An egg laid Sun'
 p1252
 tp1253
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p1254
 tp1255
 Rp1256
-S' |old is ||the |s'
+S'at| is the wingspa||n|| |of a condor'
 p1257
-S' hold as much| as'
+S'ate in the ||||season , so|me condor'
 p1258
-(I3
-I1153
+(I2
+I1446
 tp1259
-(I16
-I1169
+(I32
+I1477
 tp1260
 tp1261
-s(S'|Where did bocci ori'
+s(S'|albacore'
 p1262
-S'|Prospective jurors '
+S'|bacon'
 p1263
 tp1264
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00 @'
 p1265
 tp1266
 Rp1267
-S'he|re| did bocci o'
+S'baco'
 p1268
-S'he reputed bo|ss o'
+S'baco'
 p1269
-(I1
-I571
+(I2
+I0
 tp1270
-(I17
-I588
+(I6
+I4
 tp1271
 tp1272
-s(S'|Where did bocci ori'
+s(S'|Where did the ukule'
 p1273
-S"|Let's hope that the"
+S'|The King of the Wor'
 p1274
 tp1275
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1276
 tp1277
 Rp1278
-S' origina'
+S'here did the '
 p1279
-S' origina'
+S'here was the '
 p1280
-(I15
-I507
+(I1
+I3311
 tp1281
-(I23
-I515
+(I14
+I3324
 tp1282
 tp1283
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p1284
-S'|DIGITAL Equipment ('
+S'|<p> This quiet , bo'
 p1285
 tp1286
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x80I@'
 p1287
 tp1288
 Rp1289
-S' is |the '
+S' is the Valley of the Kings'
 p1290
-S" is 'the "
+S' in the Valley of the Kings'
 p1291
-(I7
-I2467
+(I5
+I2327
 tp1292
-(I15
-I2476
+(I32
+I2354
 tp1293
 tp1294
-s(S'|What was the name o'
+s(S'|Where is the Valley'
 p1295
-S'| "Very nice braking'
+S'|<p> Corona del Mar '
 p1296
 tp1297
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00D@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1298
 tp1299
 Rp1300
-S' the |||||na||||me of the| first Russian |a||||st|r||onaut to do a||| space|walk'
+S'is t||he Valley of the '
 p1301
-S" the antenna loose |, then ||got |||||an early start on||| to|d||ay's space-walk"
+S'is|trano Valley |, the '
 p1302
-(I8
-I815
+(I6
+I139
 tp1303
-(I66
-I881
+(I27
+I160
 tp1304
 tp1305
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p1306
-S'|About 30 food booth'
+S'|Geologists may get '
 p1307
 tp1308
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x005@'
 p1309
 tp1310
 Rp1311
-S' bocc'
+S' find the Venus'
 p1312
-S' bocc'
+S' |i|f the Venus'
 p1313
-(I9
-I96
+(I13
+I3881
 tp1314
-(I14
-I101
+(I28
+I3894
 tp1315
 tp1316
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p1317
-S'|SUN Microsystems ai'
+S'|<p> Monday marks th'
 p1318
 tp1319
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1320
 tp1321
 Rp1322
-S'd is the '
+S' the Valley of| the '
 p1323
-S'd in the '
+S' the |site| of  the '
 p1324
-(I6
-I667
+(I8
+I1196
 tp1325
-(I15
-I676
+(I27
+I1214
 tp1326
 tp1327
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p1328
-S'|Farce , rather than'
+S'|HUNGARY and Czechos'
 p1329
 tp1330
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1331
 tp1332
 Rp1333
-S' Belize '
+S'e| is the Danube'
 p1334
-S' Belize '
+S'el of the Danube'
 p1335
-(I8
-I619
+(I4
+I485
 tp1336
-(I16
-I627
+(I19
+I501
 tp1337
 tp1338
-s(S'|How old is the sun?'
+s(S'|Where does dew come'
 p1339
-S'|Silicon Graphics Co'
+S'|Nintendo of America'
 p1340
 tp1341
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1342
 tp1343
 Rp1344
-S' |ol|d i||||s||| the s'
+S'ere| do|||||es |dew come from'
 p1345
-S' color images on the s'
+S'e|en dominates the| home|-com'
 p1346
-(I3
-I475
+(I2
+I1541
 tp1347
-(I16
-I497
+(I24
+I1567
 tp1348
 tp1349
-s(S'|How old is the sun?'
+s(S'|Where does dew come'
 p1350
-S'|In early June , Sun'
+S'|<p> Now that Camari'
 p1351
 tp1352
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p1353
 tp1354
 Rp1355
-S'w| |old is the s'
+S'here does dew come fro'
 p1356
-S'we told||| the s'
+S'hers |mis|sed |the fro'
 p1357
-(I2
-I2451
+(I1
+I2508
 tp1358
-(I16
-I2464
+(I23
+I2527
 tp1359
 tp1360
-s(S"|Where's Montenegro?"
+s(S'|Where did bocci ori'
 p1361
-S'|BFN     [Text] Ceti'
+S'|THE HISTORY of La B'
 p1362
 tp1363
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1364
 tp1365
 Rp1366
-S' Montenegro'
+S'ere did boc'
 p1367
-S' Montenegro'
+S'ere had bec'
 p1368
-(I7
-I84
+(I2
+I1288
 tp1369
-(I18
-I95
+(I13
+I1299
 tp1370
 tp1371
-s(S'|How old is the sun?'
+s(S'|Where can you find '
 p1372
-S'|Revenue for the fou'
+S"|``Hiccups'' keep pl"
 p1373
 tp1374
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x002@'
 p1375
 tp1376
 Rp1377
-S' |old i|s '
+S' the Venus |flyt|r'
 p1378
-S' sold its '
+S' t|o Venus af||ter'
 p1379
-(I3
-I653
+(I18
+I1678
 tp1380
-(I11
-I663
+(I34
+I1693
 tp1381
 tp1382
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p1383
-S'|If it succeeds , th'
+S'|If the New York Cit'
 p1384
 tp1385
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1386
 tp1387
 Rp1388
-S' is the '
+S'here |did bocci originate'
 p1389
-S' is the '
+S'her| hand ||||, originate'
 p1390
-(I7
-I1217
+(I1
+I1165
 tp1391
-(I15
-I1225
+(I25
+I1185
 tp1392
 tp1393
-s(S'|What is the wingspa'
+s(S'|Where did the ukule'
 p1394
-S'|Love is in the air '
+S"|<p> Children's reco"
 p1395
 tp1396
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x002@'
 p1397
 tp1398
 Rp1399
-S' wingspan|||||| |of ||||a| condor'
+S' ukulele '
 p1400
-S' wingspans .    The Andean condor'
+S' ukulele '
 p1401
-(I11
-I2679
+(I13
+I1560
 tp1402
-(I32
-I2712
+(I22
+I1569
 tp1403
 tp1404
-s(S'|What is the wingspa'
+s(S'|Where is the Valley'
 p1405
-S'| "You could tell ou'
+S'|<p> Behind Susie Sm'
 p1406
 tp1407
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1408
 tp1409
 Rp1410
-S' wingspan '
+S' Valley of the Kings'
 p1411
-S' wingspan '
+S' Valley |3 ||, Kings'
 p1412
-(I11
-I1406
+(I12
+I3903
 tp1413
-(I21
-I1416
+(I32
+I3920
 tp1414
 tp1415
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p1416
-S'|The long-delayed Co'
+S'|Analysts said Apple'
 p1417
 tp1418
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80@@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1419
 tp1420
 Rp1421
-S' was ||the name of th||e |||fi|rst Russi||||an||||| |||ast|||r|onaut to |do |a space'
+S'd is the s'
 p1422
-S' |a| vet|e|ra|n of three previous| missions and the oldest person||| to fly in space'
+S'd in the s'
 p1423
-(I4
-I62
+(I6
+I1112
 tp1424
-(I62
-I137
+(I16
+I1122
 tp1425
 tp1426
-s(S"|Where's Montenegro?"
+s(S'|Where can you find '
 p1427
-S'|BFN     [Text] Podg'
+S'|NASA engineers toda'
 p1428
 tp1429
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1430
 tp1431
 Rp1432
-S"here's Montenegro"
+S'ere ||can| you|| find the Venus'
 p1433
-S'her||  Montenegro'
+S'er| losing touch with the Venus'
 p1434
-(I1
-I429
+(I2
+I73
 tp1435
-(I18
-I444
+(I28
+I103
 tp1436
 tp1437
-s(S'|What is the wingspa'
+s(S'|Where is the Danube'
 p1438
-S'|The first of two he'
+S'|HUNGARY said yester'
 p1439
 tp1440
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1441
 tp1442
 Rp1443
-S' the wingspa|n of ||a| |c'
+S'here is '
 p1444
-S' the vang|uard of what sc'
+S'here is '
 p1445
-(I7
-I1139
+(I1
+I1089
 tp1446
-(I27
-I1163
+(I9
+I1097
 tp1447
 tp1448
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p1449
-S'|IBM unveiled a line'
+S'|Brant unveils tonig'
 p1450
 tp1451
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p1452
 tp1453
 Rp1454
-S' is the su'
+S' bocci '
 p1455
-S' in the su'
+S' bocci '
 p1456
-(I7
-I2407
+(I9
+I3574
 tp1457
-(I17
-I2417
+(I16
+I3581
 tp1458
 tp1459
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p1460
-S'|Compaq Computer Cor'
+S'|The Gamma Ray Obser'
 p1461
 tp1462
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00<@'
 p1463
 tp1464
 Rp1465
-S' is the '
+S't wa|s the |name of the first|| Russia||n astronaut| '
 p1466
-S' is the '
+S't have t|o leave||| the shuttle ||today , astronauts '
 p1467
-(I7
-I1351
+(I3
+I835
 tp1468
-(I15
-I1359
+(I49
+I882
 tp1469
 tp1470
-s(S'|How old is the sun?'
+s(S'|What is the wingspa'
 p1471
-S'|The competition amo'
+S'|One zoo-hatched And'
 p1472
 tp1473
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1474
 tp1475
 Rp1476
-S'd is the '
+S' the wingspan of a condor'
 p1477
-S'd is the '
+S' the |An|dean||||| condor'
 p1478
-(I6
-I2883
+(I7
+I1188
 tp1479
-(I15
-I2892
+(I32
+I1206
 tp1480
 tp1481
-s(S'|Where is Belize loc'
+s(S'|Where did the ukule'
 p1482
-S"|<p> It's not exactl"
+S'|Tonight Kane and Ku'
 p1483
 tp1484
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x002@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1485
 tp1486
 Rp1487
-S'ere |is Belize '
+S'e did the |uku'
 p1488
-S'er| the Belize '
+S'e |at the Ku|u'
 p1489
-(I2
-I888
+(I4
+I177
 tp1490
-(I16
-I902
+(I17
+I189
 tp1491
 tp1492
-s(S'|Where did bocci ori'
+s(S'|What is the wingspa'
 p1493
-S"|<p> Star-cross'd ca"
+S'|Four Andean condors'
 p1494
 tp1495
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1496
 tp1497
 Rp1498
-S' origina'
+S'at|| |is th|e wingspan '
 p1499
-S' origina'
+S'ater wi||th a wingspan '
 p1500
-(I15
-I1042
+(I2
+I512
 tp1501
-(I23
-I1050
+(I21
+I533
 tp1502
 tp1503
-s(S'|Where is Belize loc'
+s(S'|What was the name o'
 p1504
-S"|CENTRAL AMERICA's d"
+S'|Two cosmonauts whos'
 p1505
 tp1506
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x00B@'
 p1507
 tp1508
 Rp1509
-S're is Belize '
+S'hat was the name| of the first Russia|n|| |astronaut t'
 p1510
-S're in Belize '
+S'hat was trumpeted as the first ||||manned mission in t'
 p1511
-(I3
-I961
+(I1
+I956
 tp1512
-(I16
-I974
+(I50
+I1006
 tp1513
 tp1514
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p1515
-S'|The Discovery astro'
+S'|Neil Young had just'
 p1516
 tp1517
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x005@'
 p1518
 tp1519
 Rp1520
-S' astronaut| ||to do a space|walk'
+S're di||d the ukulele '
 p1521
-S' astronauts alread||y |have walk'
+S'received ||a ukulele '
 p1522
-(I38
-I1977
+(I3
+I4228
 tp1523
-(I66
-I2006
+(I22
+I4247
 tp1524
 tp1525
-s(S'|What was the name o'
+s(S'|Where is the Danube'
 p1526
-S'|Here are brief sket'
+S'|SINCE last weekend '
 p1527
 tp1528
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1529
 tp1530
 Rp1531
-S' astronaut ||||to ||do |||a spacewa'
+S's the Danube'
 p1532
-S' astronaut first| flew into space a'
+S's the Danube'
 p1533
-(I38
-I665
+(I7
+I98
 tp1534
-(I64
-I699
+(I19
+I110
 tp1535
 tp1536
-s(S'|What was the name o'
+s(S'|Where can you find '
 p1537
-S'|US astronauts succe'
+S'|Officials in North '
 p1538
 tp1539
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00:@'
+S'\x00\x00\x00\x00\x00\x00?@'
 p1540
 tp1541
 Rp1542
-S' astronaut| |to do '
+S'e|re ca|n ||||you find th|||e Venus| flytrap'
 p1543
-S' astronauts can do '
+S"ears |ago every|| ki|d |had a Venus' flytrap"
 p1544
-(I38
-I238
+(I2
+I1517
 tp1545
-(I55
-I257
+(I36
+I1556
 tp1546
 tp1547
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p1548
-S'|THE award this mont'
+S'|Slovakia began damm'
 p1549
 tp1550
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1551
 tp1552
 Rp1553
-S'is| Belize '
+S' the Danube'
 p1554
-S'ise Belize '
+S' the Danube'
 p1555
-(I6
-I1457
+(I8
+I22
 tp1556
-(I16
-I1468
+(I19
+I33
 tp1557
 tp1558
-s(S'|What is the wingspa'
+s(S'|Where is the Danube'
 p1559
-S'|The release of Hoin'
+S'|BFN     [Text] Ivo '
 p1560
 tp1561
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1562
 tp1563
 Rp1564
-S's| the wingspa|n o|f a condor'
+S'e is the Danube'
 p1565
-S'se the |||||California condor'
+S'e on the Danube'
 p1566
-(I6
-I789
+(I4
+I332
 tp1567
-(I32
-I813
+(I19
+I347
 tp1568
 tp1569
-s(S'|What was the name o'
+s(S"|Where's Montenegro?"
 p1570
-S'|A new NASA report c'
+S'|BFN   <f p= "106 ">'
 p1571
 tp1572
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1573
 tp1574
 Rp1575
-S' of the ||fir|||st|| |Rus|||sia|||n| astronaut| '
+S"ere's Montenegro"
 p1576
-S' of the solar system by spacewalking astronauts '
+S'e|e . Montenegro'
 p1577
-(I17
-I466
+(I2
+I2250
 tp1578
-(I49
-I514
+(I18
+I2265
 tp1579
 tp1580
-s(S'|What is the wingspa'
+s(S'|Where does dew come'
 p1581
-S'|A Boy Scout who cra'
+S'|It has taken Britai'
 p1582
 tp1583
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p1584
 tp1585
 Rp1586
-S'ingspan of|| ||a| condor'
+S'e|r|e do|es dew come '
 p1587
-S'ings||| of a real condor'
+S'earch for a new name '
 p1588
-(I13
-I2584
+(I2
+I178
 tp1589
-(I32
-I2605
+(I20
+I199
 tp1590
 tp1591
-s(S'|Where did bocci ori'
+s(S'|Where is Belize loc'
 p1592
-S'|BFN   <f p= "106 ">'
+S'|A Guatemalan gunboa'
 p1593
 tp1594
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1595
 tp1596
 Rp1597
-S'ere did bo'
+S'e| is Belize '
 p1598
-S'ers did so'
+S'ed in Belize '
 p1599
-(I2
-I2831
+(I4
+I1111
 tp1600
-(I12
-I2841
+(I16
+I1124
 tp1601
 tp1602
-s(S'|Where is Belize loc'
+s(S'|Where did bocci ori'
 p1603
-S'|FOR MORE than 40 ye'
+S'|The gala celebratin'
 p1604
 tp1605
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p1606
 tp1607
 Rp1608
-S' Belize lo'
+S'here did '
 p1609
-S' Belize wo'
+S'here |in '
 p1610
-(I8
-I412
+(I1
+I88
 tp1611
-(I18
-I422
+(I10
+I96
 tp1612
 tp1613
-s(S'|How old is the sun?'
+s(S'|Where can you find '
 p1614
-S'|Sun Microsystems In'
+S'|Engineers turned on'
 p1615
 tp1616
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1617
 tp1618
 Rp1619
-S' |old i|s |the '
+S'er|e can you find t||he Venus| '
 p1620
-S' sold its line '
+S"eras can||'t pen|etrate Venus' "
 p1621
-(I3
-I41
+(I2
+I2602
 tp1622
-(I15
-I56
+(I29
+I2630
 tp1623
 tp1624
-s(S'|What was the name o'
+s(S'|Where can you find '
 p1625
-S'| "We\'re extremely p'
+S'|Magellan ended a tw'
 p1626
 tp1627
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1628
 tp1629
 Rp1630
-S' astronaut||||| t|o do|| a space'
+S'here ||ca|n |you fin||d| the '
 p1631
-S' astronauts saw the Soviet space'
+S'he|s upward from |inside the '
 p1632
-(I38
-I305
+(I1
+I1607
 tp1633
-(I62
-I337
+(I23
+I1634
 tp1634
 tp1635
-s(S'|Where is Belize loc'
+s(S'|How old is the sun?'
 p1636
-S'|THE Guatemalan gove'
+S'|A Sun spokeswoman a'
 p1637
 tp1638
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1639
 tp1640
 Rp1641
-S' Belize '
+S' is the '
 p1642
-S' Belize '
+S' as the '
 p1643
-(I8
-I2705
+(I7
+I2006
 tp1644
-(I16
-I2713
+(I15
+I2014
 tp1645
 tp1646
-s(S"|Where's Montenegro?"
+s(S'|Where did the ukule'
 p1647
-S'|BFN     [Text] Lond'
+S'|<p> We just got bac'
 p1648
 tp1649
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x002@'
 p1650
 tp1651
 Rp1652
-S' Montenegro'
+S' did the ukulele| '
 p1653
-S' Montenegro'
+S' |i||t|| ukuleles '
 p1654
-(I7
-I73
+(I5
+I3289
 tp1655
-(I18
-I84
+(I22
+I3302
 tp1656
 tp1657
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p1658
-S'|An emergency spacew'
+S'|<p> The walls of Be'
 p1659
 tp1660
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00<@'
+S'\x00\x00\x00\x00\x00\x002@'
 p1661
 tp1662
 Rp1663
-S'as the| |name o|||f |the|| first| Russian astronaut| '
+S'e| ukulele| '
 p1664
-S'as|t|ed in|to orbit June 5 wi||th ||seven astronauts '
+S'e  ukuleles '
 p1665
-(I6
-I381
+(I12
+I1255
 tp1666
-(I49
-I427
+(I22
+I1267
 tp1667
 tp1668
-s(S"|Where's Montenegro?"
+s(S'|Where is the Valley'
 p1669
-S'|CSO   <f p= "106 ">'
+S'|<p> The Ocean View '
 p1670
 tp1671
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x005@'
 p1672
 tp1673
 Rp1674
-S' Montenegro'
+S'e is the Valle|y of the '
 p1675
-S' Montenegro'
+S'e ||at|| College of the '
 p1676
-(I7
-I1326
+(I4
+I417
 tp1677
-(I18
-I1337
+(I27
+I437
 tp1678
 tp1679
-s(S'|What is the wingspa'
+s(S'|Where is Belize loc'
 p1680
-S'|A tiny California c'
+S'|BFN     [Text] Afte'
 p1681
 tp1682
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1683
 tp1684
 Rp1685
-S' |is th|e wing|span of |a co'
+S'e| is Belize '
 p1686
-S' wi||th a wing span of up to'
+S'ed to Belize '
 p1687
 (I4
-I1416
+I1670
 tp1688
-(I28
-I1442
+(I16
+I1683
 tp1689
 tp1690
-s(S'|Where did bocci ori'
+s(S'|Where is the Valley'
 p1691
-S'|Festivals and fairs'
+S"|EDITOR'S NOTE - It "
 p1692
 tp1693
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1694
 tp1695
 Rp1696
-S' origina'
+S' is the Valley of the '
 p1697
-S' origina'
+S' in the |crush of the '
 p1698
-(I15
-I37
+(I5
+I270
 tp1699
-(I23
-I45
+(I27
+I291
 tp1700
 tp1701
-s(S'|What is the wingspa'
+s(S'|Where did bocci ori'
 p1702
-S'|After weeks of amor'
+S'| "Everyone from the'
 p1703
 tp1704
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x00&@'
 p1705
 tp1706
 Rp1707
-S' wingspan| '
+S' bocci '
 p1708
-S' wingspans '
+S' bocce '
 p1709
-(I11
-I1262
+(I9
+I1286
 tp1710
-(I21
-I1273
+(I16
+I1293
 tp1711
 tp1712
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p1713
-S"|A dancer's life is "
+S"|Czechoslovakia's tr"
 p1714
 tp1715
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x00F@'
 p1716
 tp1717
 Rp1718
-S'e did bo'
+S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
 p1719
-S'e did no'
+S' to| the telescope ||so two astronauts could perform a spacewalk'
 p1720
-(I4
-I1829
+(I17
+I3320
 tp1721
-(I12
-I1837
+(I66
+I3381
 tp1722
 tp1723
-s(S'|Where did bocci ori'
+s(S'|Where can you find '
 p1724
-S'|<p> And you thought'
+S'|The Magellan spacec'
 p1725
 tp1726
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1727
 tp1728
 Rp1729
-S'e| |did bocci '
+S' can you fi||nd t|he|| Venus '
 p1730
-S'el hair bocca '
+S' |an|y|| given| time , Venus '
 p1731
-(I4
-I1360
+(I5
+I258
 tp1732
-(I16
-I1374
+(I29
+I282
 tp1733
 tp1734
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p1735
-S'|Digital Equipment C'
+S'|Greene King , the E'
 p1736
 tp1737
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1738
 tp1739
 Rp1740
-S'ow o|ld is the s'
+S'e is t||||h||e| Valley of |t'
 p1741
-S'owdowns in the s'
+S'e in the Thames Valley |. It'
 p1742
-(I1
-I3540
+(I4
+I762
 tp1743
-(I16
-I3556
+(I24
+I789
 tp1744
 tp1745
-s(S'|Where did bocci ori'
+s(S'|Where did the ukule'
 p1746
-S'|Joined by Councilma'
+S'|Twenty years ago , '
 p1747
 tp1748
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p1749
 tp1750
 Rp1751
-S'ere |did bocci ||originate'
+S'here di'
 p1752
-S'ere said to||| proliferate'
+S'here di'
 p1753
-(I2
-I1402
+(I1
+I3363
 tp1754
-(I25
-I1425
+(I8
+I3370
 tp1755
 tp1756
-s(S'|What is the wingspa'
+s(S'|Where is the Danube'
 p1757
-S'|An excited young An'
+S'|Tens of thousands o'
 p1758
 tp1759
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x007@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1760
 tp1761
 Rp1762
-S' the| wingspan| ||of ||a con'
+S'er|e |||is the Danube'
 p1763
-S' |her wings and took off |on'
+S'erve along the Danube'
 p1764
-(I7
-I38
+(I2
+I2025
 tp1765
-(I29
-I64
+(I19
+I2046
 tp1766
 tp1767
-s(S'|What was the name o'
+s(S'|Where does dew come'
 p1768
-S'|<p> The proposed U '
+S'|The weekend departu'
 p1769
 tp1770
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p1771
 tp1772
 Rp1773
-S's the nam|e| of ||the||||| f|||||||irst Russian astronaut| '
+S're does ||dew come| from'
 p1774
-S's|tic number of spacewalks for repairs| |before astronauts '
+S're |o|f Peter ||Dew from'
 p1775
-(I7
-I102
+(I3
+I19
 tp1776
-(I49
-I158
+(I24
+I39
 tp1777
 tp1778
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p1779
-S"|Mission Control's B"
+S'|Wildlife officials '
 p1780
 tp1781
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00?@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1782
 tp1783
 Rp1784
-S'me of the fi|rs|||t Russi||||||||a|n astronaut '
+S' |i||s ||the wingspan| '
 p1785
-S'me of the views are amazing , " said astronaut '
+S' birds with| wingspans '
 p1786
-(I15
-I2580
+(I4
+I698
 tp1787
-(I49
-I2627
+(I21
+I720
 tp1788
 tp1789
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p1790
-S'|Sun said its net in'
+S'| "If we can\'t , the'
 p1791
 tp1792
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x80D@'
 p1793
 tp1794
 Rp1795
-S' is the su'
+S' was the |name of the firs||||||||t ||Russia|n astronaut| '
 p1796
-S' in the qu'
+S" |at the en||d of the mission .;    Columbia's astronauts "
 p1797
-(I7
-I422
+(I4
+I847
 tp1798
-(I17
-I432
+(I49
+I902
 tp1799
 tp1800
-s(S'|What was the name o'
+s(S'|Where did the ukule'
 p1801
-S'|Air Force Lt . Col '
+S"|O'Connor's vocal fi"
 p1802
 tp1803
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1804
 tp1805
 Rp1806
-S' astronaut||||| to| ||||||d||o |a spacewalk'
+S'here did the '
 p1807
-S' astronauts had not planned to go spacewalk'
+S'here |-- the '
 p1808
-(I38
-I1607
+(I1
+I1187
 tp1809
-(I66
-I1650
+(I14
+I1199
 tp1810
 tp1811
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p1812
-S'|BELIZE faces an arr'
+S'|Parliament decided '
 p1813
 tp1814
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1815
 tp1816
 Rp1817
-S' is Belize '
+S'here is the Danube'
 p1818
-S' is Belize '
+S'he|s of the Danube'
 p1819
-(I5
-I191
+(I1
+I2151
 tp1820
-(I16
-I202
+(I19
+I2168
 tp1821
 tp1822
 s(S'|What is the wingspa'
 p1823
-S'|<p> A California co'
+S'|A decision on the h'
 p1824
 tp1825
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x006@'
 p1826
 tp1827
 Rp1828
-S'at is| ||t|he wing||s|pa|n of a c'
+S'hat is the|| wing||s|pa'
 p1829
-S'at|est hatch|||ing is part of a c'
+S'h|t |, their wings sepa'
 p1830
-(I2
-I524
+(I1
+I3108
 tp1831
-(I27
-I553
+(I19
+I3129
 tp1832
 tp1833
-s(S'|How old is the sun?'
+s(S'|Where did the ukule'
 p1834
-S'| "This is the first'
+S'|A dozen American fo'
 p1835
 tp1836
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x003@'
 p1837
 tp1838
 Rp1839
-S' is the '
+S'ere did the ukulele '
 p1840
-S' is the '
+S'er| and|||| ukulele '
 p1841
-(I7
-I6
+(I2
+I2861
 tp1842
-(I15
-I14
+(I22
+I2876
 tp1843
 tp1844
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p1845
-S'|Ground controllers '
+S'|Hewlett-Packard , S'
 p1846
 tp1847
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00F@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p1848
 tp1849
 Rp1850
-S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
+S' |old is ||the |s'
 p1851
-S' to| the telescope ||so two astronauts could perform a spacewalk'
+S' hold as much| as'
 p1852
-(I17
-I3905
+(I3
+I1153
 tp1853
-(I66
-I3966
+(I16
+I1169
 tp1854
 tp1855
-s(S'|How old is the sun?'
+s(S'|Where can you find '
 p1856
-S'|But now a new breed'
+S'|Pictures taken by t'
 p1857
 tp1858
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x004@'
 p1859
 tp1860
 Rp1861
-S' is th|e'
+S' the Venus'
 p1862
-S' is thre'
+S' the Venus'
 p1863
-(I7
-I33
+(I18
+I813
 tp1864
-(I14
-I41
+(I28
+I823
 tp1865
 tp1866
-s(S'|Where did bocci ori'
+s(S'|Where does dew come'
 p1867
-S'|<p> In a departure '
+S'|<p> Jeannette DeWyz'
 p1868
 tp1869
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x001@'
 p1870
 tp1871
 Rp1872
-S'here did bo'
+S'here do|e|||||s dew come '
 p1873
-S'here |is fo'
+S'here|fore , has be||come '
 p1874
 (I1
-I978
+I2698
 tp1875
-(I12
-I988
+(I20
+I2720
 tp1876
 tp1877
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p1878
-S'|<p> The laying of a'
+S'|DIGITAL Equipment ('
 p1879
 tp1880
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x009@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p1881
 tp1882
 Rp1883
-S' the ||||wing|spa||n|| ||||of a condor'
+S' is |the '
 p1884
-S' the breeding season , citing a condor'
+S" is 'the "
 p1885
 (I7
-I2534
+I2467
 tp1886
-(I32
-I2572
+(I15
+I2476
 tp1887
 tp1888
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p1889
-S'| "Congratulations o'
+S'|Removing the egg fr'
 p1890
 tp1891
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00B@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p1892
 tp1893
 Rp1894
-S' was the name of the first Russi||||||an astronaut '
+S' the wingspan of a condor'
 p1895
-S' was ||fin||e on the right |||side .;    Astronaut '
+S' the wi||||ld |, a condor'
 p1896
-(I4
-I819
+(I7
+I118
 tp1897
-(I49
-I863
+(I32
+I138
 tp1898
 tp1899
-s(S'|Where did bocci ori'
+s(S'|Where is the Valley'
 p1900
-S'|<p> A year go , Twy'
+S'|Texas Rangers -- Ag'
 p1901
 tp1902
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1903
 tp1904
 Rp1905
-S'ere did boc|ci |originate'
+S' |is t|he|| Valley of '
 p1906
-S'er| ||, become more in|te'
+S' visit West Valley on '
 p1907
-(I2
-I3066
+(I5
+I590
 tp1908
-(I25
-I3087
+(I23
+I612
 tp1909
 tp1910
-s(S'|What is the wingspa'
+s(S'|Where does dew come'
 p1911
-S'|The first Californi'
+S'|<p> In other Southe'
 p1912
 tp1913
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x00&@'
 p1914
 tp1915
 Rp1916
-S't i|s the ||wingspan of a c'
+S' do|es dew co'
 p1917
-S'tains the makings||| of a c'
+S' Jones led Po'
 p1918
-(I3
-I79
+(I5
+I450
 tp1919
-(I27
-I103
+(I17
+I463
 tp1920
 tp1921
 s(S'|How old is the sun?'
 p1922
-S"|Sun has the world's"
+S'|Silicon Graphics Co'
 p1923
 tp1924
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00,@'
 p1925
 tp1926
 Rp1927
-S' is the '
+S' |ol|d i||||s||| the s'
 p1928
-S' is the '
+S' color images on the s'
 p1929
-(I7
-I532
+(I3
+I475
 tp1930
-(I15
-I540
+(I16
+I497
 tp1931
 tp1932
-s(S'|How old is the sun?'
+s(S'|Where did the ukule'
 p1933
-S"|Sun's new decree , "
+S'|<p> In Honolulu the'
 p1934
 tp1935
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x003@'
 p1936
 tp1937
 Rp1938
-S' is the '
+S' did the ukulele '
 p1939
-S' as the '
+S' his ||| ukulele '
 p1940
-(I7
-I542
+(I5
+I2880
 tp1941
-(I15
-I550
+(I22
+I2894
 tp1942
 tp1943
 s(S'|What is the wingspa'
 p1944
-S'|<p> The California '
+S'|The release of Hoin'
 p1945
 tp1946
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x005@'
+S'\x00\x00\x00\x00\x00\x003@'
 p1947
 tp1948
 Rp1949
-S' the wings|||pa|n o|f a condor'
+S's| the wingspa|n o|f a condor'
 p1950
-S' the fi|rst  California condor'
+S'se the |||||California condor'
 p1951
-(I7
-I1291
+(I6
+I789
 tp1952
 (I32
-I1320
+I813
 tp1953
 tp1954
-s(S'|What is the wingspa'
+s(S'|Where did the ukule'
 p1955
-S'|<p> Biologists tryi'
+S'|<p> In switching fr'
 p1956
 tp1957
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x000@'
 p1958
 tp1959
 Rp1960
-S' wingspan| '
+S'ere di|d the |ukule|le '
 p1961
-S' wingspans '
+S'er| with the au|dience '
 p1962
-(I11
-I318
+(I2
+I3905
 tp1963
-(I21
-I329
+(I22
+I3926
 tp1964
 tp1965
-s(S'|What is the wingspa'
+s(S'|Where is the Danube'
 p1966
-S'|Molloko , the Calif'
+S'|A Hungarian energy '
 p1967
 tp1968
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x007@'
 p1969
 tp1970
 Rp1971
-S'is|| the wingspa|n o|f a condor'
+S'e| is the Danube'
 p1972
-S'ised the |||||California condor'
+S'es of the Danube'
 p1973
-(I5
-I911
+(I4
+I1366
 tp1974
-(I32
-I937
+(I19
+I1382
 tp1975
 tp1976
-s(S'|What was the name o'
+s(S"|Where's Montenegro?"
 p1977
-S'|A new space race is'
+S'|BFN     [Text] Podg'
 p1978
 tp1979
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00B@'
+S'\x00\x00\x00\x00\x00\x009@'
 p1980
 tp1981
 Rp1982
-S'an| astronaut ||||||to do a||||| spacewalk'
+S"here's Montenegro"
 p1983
-S'and astronaut Spring , in a 1985 spacewalk'
+S'her||  Montenegro'
 p1984
-(I36
-I5601
+(I1
+I429
 tp1985
-(I66
-I5643
+(I18
+I444
 tp1986
 tp1987
-s(S'|What was the name o'
+s(S'|Where is the Danube'
 p1988
-S'|<p> The Discovery a'
+S'|BFN   <f p= "106 ">'
 p1989
 tp1990
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00A@'
+S'\x00\x00\x00\x00\x00\x008@'
 p1991
 tp1992
 Rp1993
-S't was the||| |name| ||of |the fir|||st Russian| |astronaut to d|o a spacewalk'
+S' the Danube?'
 p1994
-S't was |being pulled from it|s ||reel . Mission  Contro|||l |ordered spacewalk'
+S' the Danube?'
 p1995
-(I3
-I923
+(I8
+I2690
 tp1996
-(I66
-I992
+(I20
+I2702
 tp1997
 tp1998
-s(S'|Where did bocci ori'
+s(S'|How old is the sun?'
 p1999
-S'|To this end , they '
+S'|IBM unveiled a line'
 p2000
 tp2001
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x001@'
 p2002
 tp2003
 Rp2004
-S'ere d||i||d b'
+S' is the su'
 p2005
-S'ere devised b'
+S' in the su'
 p2006
-(I2
-I661
+(I7
+I2407
 tp2007
-(I11
-I674
+(I17
+I2417
 tp2008
 tp2009
-s(S'|Where is Belize loc'
+s(S'|Where is the Danube'
 p2010
-S'|TWO important devel'
+S"|SLOVAKIA'S plan to "
 p2011
 tp2012
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x006@'
 p2013
 tp2014
 Rp2015
-S' is Belize|| ||locat'
+S' the Danube'
 p2016
-S" as Belize's rel||at"
+S' the Danube'
 p2017
-(I5
-I1922
+(I8
+I35
 tp2018
-(I21
-I1940
+(I19
+I46
 tp2019
 tp2020
-s(S'|Where did bocci ori'
+s(S'|How old is the sun?'
 p2021
-S'|In none of their in'
+S'|The competition amo'
 p2022
 tp2023
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00,@'
+S'\x00\x00\x00\x00\x00\x002@'
 p2024
 tp2025
 Rp2026
-S'here did bo|c'
+S'd is the '
 p2027
-S'here |is no c'
+S'd is the '
 p2028
-(I1
-I4261
+(I6
+I2883
 tp2029
-(I13
-I4273
+(I15
+I2892
 tp2030
 tp2031
 s(S'|Where is Belize loc'
 p2032
-S'|MR Manuel Esquivel '
+S"|CENTRAL AMERICA's d"
 p2033
 tp2034
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x003@'
+S'\x00\x00\x00\x00\x00\x007@'
 p2035
 tp2036
 Rp2037
-S'ere is Belize '
+S're is Belize '
 p2038
-S'er| of Belize '
+S're in Belize '
 p2039
-(I2
-I97
+(I3
+I961
 tp2040
 (I16
-I110
+I974
 tp2041
 tp2042
-s(S'|Where did bocci ori'
+s(S'|What was the name o'
 p2043
-S'|<p> Her extension s'
+S'|The Discovery astro'
 p2044
 tp2045
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x009@'
 p2046
 tp2047
 Rp2048
-S'here did bo'
+S' astronaut| ||to do a space|walk'
 p2049
-S'here |it co'
+S' astronauts alread||y |have walk'
 p2050
-(I1
-I99
+(I38
+I1977
 tp2051
-(I12
-I109
+(I66
+I2006
 tp2052
 tp2053
-s(S'|How old is the sun?'
+s(S'|What was the name o'
 p2054
-S'|Both companies see '
+S'|US astronauts succe'
 p2055
 tp2056
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2057
 tp2058
 Rp2059
-S' is the '
+S' astronaut| |to do '
 p2060
-S' is the '
+S' astronauts can do '
 p2061
-(I7
-I531
+(I38
+I238
 tp2062
-(I15
-I539
+(I55
+I257
 tp2063
 tp2064
-s(S'|Where did bocci ori'
+s(S'|Where does dew come'
 p2065
-S'|<p> A former high s'
+S'|Joe and Ben Francia'
 p2066
 tp2067
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00(@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p2068
 tp2069
 Rp2070
-S'here did '
+S'here do||e|s |de|w come '
 p2071
-S'here |is '
+S'he|d Moffett Field come '
 p2072
 (I1
-I1297
+I1904
 tp2073
-(I10
-I1305
+(I20
+I1927
 tp2074
 tp2075
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p2076
-S'|Computers , except '
+S'|<p> The Corona del '
 p2077
 tp2078
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2079
 tp2080
 Rp2081
-S'l|d is the '
+S'is t||he Valley of the Ki'
 p2082
-S'led as the '
+S'is|trano Valley in the ti'
 p2083
-(I5
-I1644
+(I6
+I1363
 tp2084
-(I15
-I1655
+(I29
+I1387
 tp2085
 tp2086
-s(S'|How old is the sun?'
+s(S'|Where is the Valley'
 p2087
-S"|Sun's machine , exp"
+S'|<p> Laguna Beach Hi'
 p2088
 tp2089
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x006@'
 p2090
 tp2091
 Rp2092
-S' |old is the '
+S'e is the ||||||Valley of the '
 p2093
-S' no|w is the '
+S'e to the semifina|l|s of the '
 p2094
-(I3
-I2615
+(I4
+I132
 tp2095
-(I15
-I2627
+(I27
+I159
 tp2096
 tp2097
-s(S'|How old is the sun?'
+s(S'|Where can you find '
 p2098
-S'|Sun also is expecte'
+S'|Venus has 600-mile-'
 p2099
 tp2100
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00.@'
+S'\x00\x00\x00\x00\x00\x006@'
 p2101
 tp2102
 Rp2103
-S' is the s'
+S'ere can you find the Venus fly|t'
 p2104
-S' in the s'
+S'ere|||| fou|||nd |on Venus |by t'
 p2105
-(I7
-I466
+(I2
+I1216
 tp2106
-(I16
-I475
+(I33
+I1239
 tp2107
 tp2108
-s(S'|What is the wingspa'
+s(S'|How old is the sun?'
 p2109
-S'|Six Andean condors '
+S'|In early June , Sun'
 p2110
 tp2111
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x001@'
 p2112
 tp2113
 Rp2114
-S'hat is the '
+S'w| |old is the s'
 p2115
-S'hat is the '
+S'we told||| the s'
 p2116
-(I1
-I3264
+(I2
+I2451
 tp2117
-(I12
-I3275
+(I16
+I2464
 tp2118
 tp2119
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p2120
-S'|NASA , in a rare mo'
+S"|<p> There's a littl"
 p2121
 tp2122
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80A@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p2123
 tp2124
 Rp2125
-S' name| |of the first| Russi|an astron'
+S'e| |did bocci '
 p2126
-S' named for the ||late American astron'
+S'el hair bocca '
 p2127
-(I12
-I2807
+(I4
+I1045
 tp2128
-(I45
-I2842
+(I16
+I1059
 tp2129
 tp2130
-s(S"|Where's Montenegro?"
+s(S'|Where did bocci ori'
 p2131
-S'|BFN     [Text] [Ann'
+S'|Joined by Councilma'
 p2132
 tp2133
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x006@'
+S'\x00\x00\x00\x00\x00\x000@'
 p2134
 tp2135
 Rp2136
-S' Montenegro'
+S'ere |did bocci ||originate'
 p2137
-S' Montenegro'
+S'ere said to||| proliferate'
 p2138
-(I7
-I1752
+(I2
+I1402
 tp2139
-(I18
-I1763
+(I25
+I1425
 tp2140
 tp2141
-s(S'|What was the name o'
+s(S'|Where can you find '
 p2142
-S'|After seven years o'
+S"|Magellan's latest p"
 p2143
 tp2144
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00@@'
+S'\x00\x00\x00\x00\x00\x005@'
 p2145
 tp2146
 Rp2147
-S' the ||||n|||ame of the fi|||rst Russian|| astronaut| to d'
+S' can| you fi|nd |the Venus |f||lytra'
 p2148
-S' the second da|y of the five-day mission . NASA wants to d'
+S' |and ||arrived at|| Venus after tra'
 p2149
-(I8
-I4274
+(I5
+I2319
 tp2150
-(I53
-I4331
+(I35
+I2350
 tp2151
 tp2152
 s(S'|Where is Belize loc'
 p2153
-S'|Language : <f p= "1'
+S'|BFN     [Excerpt] G'
 p2154
 tp2155
 (g4
@@ -4317,345 +4317,5185 @@ S'\x00\x00\x00\x00\x00\x002@'
 p2156
 tp2157
 Rp2158
-S'here |i|s Belize|| lo'
+S'e is |Belize lo'
 p2159
-S'he|s with Belizean so'
+S'e || "Belize Co'
 p2160
-(I1
-I1650
+(I4
+I1007
 tp2161
 (I18
-I1670
+I1020
 tp2162
 tp2163
-s(S'|How old is the sun?'
+s(S'|Where can you find '
 p2164
-S'|The software is par'
+S'|Magellan , a robot '
 p2165
 tp2166
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00*@'
+S'\x00\x00\x00\x00\x00\x007@'
 p2167
 tp2168
 Rp2169
-S' is the '
+S're ca|||n |you find| the Venus '
 p2170
-S' in the '
+S're carbon dio||xi|de ||. Venus '
 p2171
-(I7
-I983
+(I3
+I3025
 tp2172
-(I15
-I991
+(I29
+I3051
 tp2173
 tp2174
-s(S'|What is the wingspa'
+s(S'|What was the name o'
 p2175
-S'|The hatchings of tw'
+S'|Air Force Lt . Col '
 p2176
 tp2177
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00;@'
+S'\x00\x00\x00\x00\x00\x80A@'
 p2178
 tp2179
 Rp2180
-S' th||e|| wingspan of '
+S' astronaut||||| to| ||||||d||o |a spacewalk'
 p2181
-S' |have a wingspan of '
+S' astronauts had not planned to go spacewalk'
 p2182
-(I7
-I1176
+(I38
+I1607
 tp2183
-(I24
-I1196
+(I66
+I1650
 tp2184
 tp2185
-s(S'|What was the name o'
+s(S'|Where is the Valley'
 p2186
-S'|The 60-foot-long do'
+S'|<p> Korean dancers '
 p2187
 tp2188
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00A@'
+S'\x00\x00\x00\x00\x00\x00;@'
 p2189
 tp2190
 Rp2191
-S' of the first Russian astronaut| to| do a'
+S're| is the Valley '
 p2192
-S' of the|||||| ||seven astronauts |on bo|a'
+S'red by the Valley '
 p2193
-(I17
-I346
+(I3
+I276
 tp2194
-(I56
-I377
+(I20
+I294
 tp2195
 tp2196
-s(S'|Where did bocci ori'
+s(S'|Where does dew come'
 p2197
-S'|Irma Balderas will '
+S'|Few modern operas c'
 p2198
 tp2199
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x003@'
 p2200
 tp2201
 Rp2202
-S'here '
+S' come| from'
 p2203
-S'here '
+S' comes from'
 p2204
-(I1
-I564
+(I14
+I210
 tp2205
-(I6
-I569
+(I24
+I221
 tp2206
 tp2207
-s(S'|How old is the sun?'
+s(S'|Where did bocci ori'
 p2208
-S'|Says executive vice'
+S'|<p> In a departure '
 p2209
 tp2210
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x001@'
+S'\x00\x00\x00\x00\x00\x00*@'
 p2211
 tp2212
 Rp2213
-S' |old is the '
+S'here did bo'
 p2214
-S' no|w is the '
+S'here |is fo'
 p2215
-(I3
-I4563
+(I1
+I978
 tp2216
-(I15
-I4575
+(I12
+I988
 tp2217
 tp2218
-s(S'|What was the name o'
+s(S'|What is the wingspa'
 p2219
-S'|Installing a donut-'
+S'|<p> The laying of a'
 p2220
 tp2221
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00>@'
+S'\x00\x00\x00\x00\x00\x009@'
 p2222
 tp2223
 Rp2224
-S'hat was the n|ame |o||f the first||||| |Rus|||sia|||n| astronaut| to '
+S' the ||||wing|spa||n|| ||||of a condor'
 p2225
-S"hat |a| ``donut'' could |be |installed by spacewalking astronauts to "
+S' the breeding season , citing a condor'
 p2226
-(I1
-I207
+(I7
+I2534
 tp2227
-(I52
-I272
+(I32
+I2572
 tp2228
 tp2229
-s(S"|Where's Montenegro?"
+s(S'|Where did the ukule'
 p2230
-S'|Language : <f p= "1'
+S'|<p> To say that Jud'
 p2231
 tp2232
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x008@'
+S'\x00\x00\x00\x00\x00\x000@'
 p2233
 tp2234
 Rp2235
-S's Montenegro'
+S' did the| ukul|ele ori|gin'
 p2236
-S's Montenegro'
+S' |if they would be |willin'
 p2237
-(I6
-I4647
+(I5
+I5458
 tp2238
-(I18
-I4659
+(I28
+I5482
 tp2239
 tp2240
-s(S'|What was the name o'
+s(S'|How old is the sun?'
 p2241
-S'|Bagian had left an '
+S"|Sun has the world's"
 p2242
 tp2243
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00D@'
+S'\x00\x00\x00\x00\x00\x000@'
 p2244
 tp2245
 Rp2246
-S'hat w|as the name of the first Russian ||ast||ron||au|||t to |do a| '
+S' is the '
 p2247
-S'hat when |we came on th|||i|s| mission tha|t when you get to fly at '
+S' is the '
 p2248
-(I1
-I376
+(I7
+I532
 tp2249
-(I57
-I437
+(I15
+I540
 tp2250
 tp2251
-s(S'|Where did bocci ori'
+s(S'|Where does dew come'
 p2252
-S'|New York City Balle'
+S'|<p> Bye should not '
 p2253
 tp2254
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x000@'
+S'\x00\x00\x00\x00\x00\x00.@'
 p2255
 tp2256
 Rp2257
-S' origina'
+S'ere ||d|oes dew come '
 p2258
-S' origina'
+S'er| and has be||come '
 p2259
-(I15
-I2584
+(I2
+I2405
 tp2260
-(I23
-I2592
+(I20
+I2423
 tp2261
 tp2262
-s(S'|Where did bocci ori'
+s(S'|Where is the Valley'
 p2263
-S'|Federal prosecutors'
+S'|<p> Conejo Valley e'
 p2264
 tp2265
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00$@'
+S'\x00\x00\x00\x00\x00\x00:@'
 p2266
 tp2267
 Rp2268
-S'ere d||i|d boc'
+S'here is the Va|lley o|f the Kin'
 p2269
-S'ers dating bac'
+S'hard |, who had led off the nin'
 p2270
-(I2
-I660
+(I1
+I2162
 tp2271
-(I13
-I674
+(I30
+I2192
 tp2272
 tp2273
-s(S'|What is the wingspa'
+s(S'|Where did the ukule'
 p2274
-S'|A newborn Californi'
+S'|Among the the flowe'
 p2275
 tp2276
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00A@'
+S'\x00\x00\x00\x00\x00\x00=@'
 p2277
 tp2278
 Rp2279
-S't is the wingsp|an| of|||| |a|| condor'
+S'e did the ukulele|| |or|i'
 p2280
-S't is the |offspring of the same condor'
+S'e |of the ukulele _ for i'
 p2281
-(I3
-I1004
+(I4
+I143
 tp2282
-(I32
-I1041
+(I25
+I167
 tp2283
 tp2284
 s(S'|What is the wingspa'
 p2285
-S'|The Philadelphia Zo'
+S'|Molloko , the Calif'
 p2286
 tp2287
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x00=@'
+S'\x00\x00\x00\x00\x00\x004@'
 p2288
 tp2289
 Rp2290
-S'hat is the wingspan of |a co'
+S'is|| the wingspa|n o|f a condor'
 p2291
-S'ha|||s ||a wingspan of up to'
+S'ised the |||||California condor'
 p2292
-(I1
-I2115
+(I5
+I911
 tp2293
-(I28
-I2138
+(I32
+I937
 tp2294
 tp2295
-s(S'|Where is Belize loc'
+s(S'|Where is the Valley'
 p2296
-S'|A Guatemalan gunboa'
+S'|Sept . 14 -- at Mer'
 p2297
 tp2298
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x004@'
+S'\x00\x00\x00\x00\x00\x001@'
 p2299
 tp2300
 Rp2301
-S'e| is Belize '
+S's the Valley '
 p2302
-S'ed in Belize '
+S's|t|| Valley '
 p2303
-(I4
-I1111
+(I7
+I340
 tp2304
-(I16
-I1124
+(I20
+I350
 tp2305
 tp2306
-s(S'|What was the name o'
+s(S'|Where is Belize loc'
 p2307
-S'|<p> The launch of t'
+S'|MR Manuel Esquivel '
 p2308
 tp2309
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80E@'
+S'\x00\x00\x00\x00\x00\x003@'
 p2310
 tp2311
 Rp2312
-S' the ||name of the first Russian|||||| astronaut| '
+S'ere is Belize '
 p2313
-S' the course of the||ir|| mission , the astronauts '
+S'er| of Belize '
 p2314
-(I8
-I2040
+(I2
+I97
 tp2315
-(I49
-I2086
+(I16
+I110
 tp2316
 tp2317
-s(S'|What was the name o'
+s(S'|Where did bocci ori'
 p2318
-S'|NASA launched the s'
+S'|<p> A former high s'
 p2319
 tp2320
 (g4
 (g8
-S'\x00\x00\x00\x00\x00\x80F@'
+S'\x00\x00\x00\x00\x00\x00(@'
 p2321
 tp2322
 Rp2323
-S' the first Russian astronaut| to ||do a space'
+S'here did '
 p2324
-S' The first ||||non-astronauts go into|| space'
+S'here |is '
 p2325
-(I20
-I938
+(I1
+I1297
 tp2326
-(I62
-I977
+(I10
+I1305
 tp2327
 tp2328
+s(S'|How old is the sun?'
+p2329
+S'|Computers , except '
+p2330
+tp2331
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2332
+tp2333
+Rp2334
+S'l|d is the '
+p2335
+S'led as the '
+p2336
+(I5
+I1644
+tp2337
+(I15
+I1655
+tp2338
+tp2339
+s(S'|What is the wingspa'
+p2340
+S'|Condor keepers hobb'
+p2341
+tp2342
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2343
+tp2344
+Rp2345
+S'is|| the |||wingspa|n o|f a condor'
+p2346
+S'ised the know|n| California condor'
+p2347
+(I5
+I1974
+tp2348
+(I32
+I2006
+tp2349
+tp2350
+s(S'|Where does dew come'
+p2351
+S'|<p> At least 168 ga'
+p2352
+tp2353
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p2354
+tp2355
+Rp2356
+S'e does |dew come| from'
+p2357
+S'e |oil spew||||ed from'
+p2358
+(I4
+I695
+tp2359
+(I24
+I712
+tp2360
+tp2361
+s(S'|Where is Belize loc'
+p2362
+S'|Language : <f p= "1'
+p2363
+tp2364
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2365
+tp2366
+Rp2367
+S'here |i|s Belize|| lo'
+p2368
+S'he|s with Belizean so'
+p2369
+(I1
+I1650
+tp2370
+(I18
+I1670
+tp2371
+tp2372
+s(S'|Where is the Valley'
+p2373
+S'|<p> After guiding P'
+p2374
+tp2375
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p2376
+tp2377
+Rp2378
+S'r|e is the Valley '
+p2379
+S'roe in the Valley '
+p2380
+(I3
+I1803
+tp2381
+(I20
+I1821
+tp2382
+tp2383
+s(S'|What was the name o'
+p2384
+S'|An emergency spacew'
+p2385
+tp2386
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p2387
+tp2388
+Rp2389
+S'as the| |name o|||f |the|| first| Russian astronaut| '
+p2390
+S'as|t|ed in|to orbit June 5 wi||th ||seven astronauts '
+p2391
+(I6
+I381
+tp2392
+(I49
+I427
+tp2393
+tp2394
+s(S'|Where can you find '
+p2395
+S'|NASA decided to sus'
+p2396
+tp2397
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2398
+tp2399
+Rp2400
+S' the| Venus '
+p2401
+S' when Venus '
+p2402
+(I18
+I864
+tp2403
+(I29
+I876
+tp2404
+tp2405
+s(S'|Where does dew come'
+p2406
+S'|<p> Lisa Beaver sco'
+p2407
+tp2408
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p2409
+tp2410
+Rp2411
+S'e|re does dew|| come from'
+p2412
+S'erre|nce| Lewis , 16 from'
+p2413
+(I2
+I1667
+tp2414
+(I24
+I1690
+tp2415
+tp2416
+s(S"|Where's Montenegro?"
+p2417
+S'|Language : <f p= "1'
+p2418
+tp2419
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2420
+tp2421
+Rp2422
+S's Montenegro'
+p2423
+S's Montenegro'
+p2424
+(I6
+I4647
+tp2425
+(I18
+I4659
+tp2426
+tp2427
+s(S'|Where does dew come'
+p2428
+S'|Allied Partnership '
+p2429
+tp2430
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p2431
+tp2432
+Rp2433
+S'he|re does dew come fro'
+p2434
+S'he re||ce|iver to|| pro'
+p2435
+(I1
+I723
+tp2436
+(I23
+I741
+tp2437
+tp2438
+s(S'|Where is the Danube'
+p2439
+S'|Language : <f p= "1'
+p2440
+tp2441
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p2442
+tp2443
+Rp2444
+S'ere is the Danube'
+p2445
+S'ers of the Danube'
+p2446
+(I2
+I402
+tp2447
+(I19
+I419
+tp2448
+tp2449
+s(S'|Where is the Valley'
+p2450
+S'|Artisans are re-cre'
+p2451
+tp2452
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80I@'
+p2453
+tp2454
+Rp2455
+S' is the Valley of the Kings'
+p2456
+S' in the Valley of the Kings'
+p2457
+(I5
+I1501
+tp2458
+(I32
+I1528
+tp2459
+tp2460
+s(S'|What was the name o'
+p2461
+S'|Up to 10 spacewalks'
+p2462
+tp2463
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80E@'
+p2464
+tp2465
+Rp2466
+S'hat ||||was the name of |the first Russian astronaut| to| do a'
+p2467
+S'hat much of the time of at|| least ||||two astronauts |on bo|a'
+p2468
+(I1
+I1305
+tp2469
+(I56
+I1359
+tp2470
+tp2471
+s(S'|Where did the ukule'
+p2472
+S'|<p> Every vacation '
+p2473
+tp2474
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p2475
+tp2476
+Rp2477
+S'e di|d| the ukulele |ori|g'
+p2478
+S'e winds and ukulele string'
+p2479
+(I4
+I3958
+tp2480
+(I26
+I3984
+tp2481
+tp2482
+s(S'|What was the name o'
+p2483
+S'|Language : <f p= "1'
+p2484
+tp2485
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00G@'
+p2486
+tp2487
+Rp2488
+S' wa||s the |name of| the first |||Russi||||||an||||||| astronaut| to do a '
+p2489
+S' marks the en||d of  the first ever flight when U .S . astronauts |and| a '
+p2490
+(I4
+I302
+tp2491
+(I57
+I372
+tp2492
+tp2493
+s(S'|Where can you find '
+p2494
+S'|<p> Venus , a plane'
+p2495
+tp2496
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p2497
+tp2498
+Rp2499
+S'nd the Venus '
+p2500
+S'nd why Venus '
+p2501
+(I16
+I900
+tp2502
+(I29
+I913
+tp2503
+tp2504
+s(S'|Where does dew come'
+p2505
+S'|Dew Drop is owned b'
+p2506
+tp2507
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p2508
+tp2509
+Rp2510
+S' come| from'
+p2511
+S' comes from'
+p2512
+(I14
+I544
+tp2513
+(I24
+I555
+tp2514
+tp2515
+s(S'|Where is the Valley'
+p2516
+S'|Workmen cleaning th'
+p2517
+tp2518
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p2519
+tp2520
+Rp2521
+S'here |is the Valley of the '
+p2522
+S"hern Egypt's Valley of the "
+p2523
+(I1
+I1115
+tp2524
+(I27
+I1142
+tp2525
+tp2526
+s(S'|Where is the Danube'
+p2527
+S'|A government body v'
+p2528
+tp2529
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2530
+tp2531
+Rp2532
+S' the Danube'
+p2533
+S' the Danube'
+p2534
+(I8
+I1341
+tp2535
+(I19
+I1352
+tp2536
+tp2537
+s(S'|Where is the Valley'
+p2538
+S'|British brewers and'
+p2539
+tp2540
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00L@'
+p2541
+tp2542
+Rp2543
+S'ere| is the Valley of the Kings'
+p2544
+S'ered in the Valley of the Kings'
+p2545
+(I2
+I1745
+tp2546
+(I32
+I1776
+tp2547
+tp2548
+s(S'|Where does dew come'
+p2549
+S'|The advertising bli'
+p2550
+tp2551
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p2552
+tp2553
+Rp2554
+S'ere does'
+p2555
+S'er| does'
+p2556
+(I2
+I67
+tp2557
+(I10
+I74
+tp2558
+tp2559
+s(S"|Where's Montenegro?"
+p2560
+S'|CSO   <f p= "106 ">'
+p2561
+tp2562
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2563
+tp2564
+Rp2565
+S' Montenegro'
+p2566
+S' Montenegro'
+p2567
+(I7
+I1326
+tp2568
+(I18
+I1337
+tp2569
+tp2570
+s(S'|How old is the sun?'
+p2571
+S'|At the same time , '
+p2572
+tp2573
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p2574
+tp2575
+Rp2576
+S' o|ld is the '
+p2577
+S' only in the '
+p2578
+(I3
+I5940
+tp2579
+(I15
+I5953
+tp2580
+tp2581
+s(S'|Where is the Danube'
+p2582
+S'|BFN     [Text] Vien'
+p2583
+tp2584
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p2585
+tp2586
+Rp2587
+S're is the Danube'
+p2588
+S'rk in the Danube'
+p2589
+(I3
+I418
+tp2590
+(I19
+I434
+tp2591
+tp2592
+s(S'|Where did the ukule'
+p2593
+S"|There's Ranger Doug"
+p2594
+tp2595
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2596
+tp2597
+Rp2598
+S'here did the ukule'
+p2599
+S'here are the |||le'
+p2600
+(I1
+I2495
+tp2601
+(I19
+I2510
+tp2602
+tp2603
+s(S'|Where is the Danube'
+p2604
+S'|BFN     [Text] The '
+p2605
+tp2606
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2607
+tp2608
+Rp2609
+S' i|s the Danube'
+p2610
+S' in  the Danube'
+p2611
+(I5
+I444
+tp2612
+(I19
+I459
+tp2613
+tp2614
+s(S'|Where does dew come'
+p2615
+S'|Under a blazing Son'
+p2616
+tp2617
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2618
+tp2619
+Rp2620
+S'e does dew come from'
+p2621
+S'e do|| we| lose |som'
+p2622
+(I4
+I3985
+tp2623
+(I24
+I4001
+tp2624
+tp2625
+s(S'|Where does dew come'
+p2626
+S'|<p> It seems that n'
+p2627
+tp2628
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p2629
+tp2630
+Rp2631
+S' come from'
+p2632
+S' hole from'
+p2633
+(I14
+I2123
+tp2634
+(I24
+I2133
+tp2635
+tp2636
+s(S'|Where is the Valley'
+p2637
+S'|When the First Chri'
+p2638
+tp2639
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p2640
+tp2641
+Rp2642
+S' Valley of the '
+p2643
+S' Valley in the '
+p2644
+(I12
+I1174
+tp2645
+(I27
+I1189
+tp2646
+tp2647
+s(S'|Where did bocci ori'
+p2648
+S'|Language : <f p= "1'
+p2649
+tp2650
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p2651
+tp2652
+Rp2653
+S'here did bo|c'
+p2654
+S'here |is no c'
+p2655
+(I1
+I3313
+tp2656
+(I13
+I3325
+tp2657
+tp2658
+s(S'|What was the name o'
+p2659
+S'|Two cosmonauts left'
+p2660
+tp2661
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p2662
+tp2663
+Rp2664
+S't was the name| o|||f the first Russia||n|| astrona|ut|| t||||||||||o do a||| space|walk'
+p2665
+S"t |to the telescope , the |Tass news agency |said at the time .    In today's space walk"
+p2666
+(I3
+I698
+tp2667
+(I66
+I783
+tp2668
+tp2669
+s(S'|What is the wingspa'
+p2670
+S'|A hungry bundle of '
+p2671
+tp2672
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p2673
+tp2674
+Rp2675
+S'hat is the wingspan of |a co'
+p2676
+S'ha|||s ||a wingspan of up to'
+p2677
+(I1
+I3113
+tp2678
+(I28
+I3136
+tp2679
+tp2680
+s(S'|Where did the ukule'
+p2681
+S'|<p> Leo Kottke has '
+p2682
+tp2683
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2684
+tp2685
+Rp2686
+S'e did||| the ukulele '
+p2687
+S'e did in the |||late '
+p2688
+(I4
+I87
+tp2689
+(I22
+I105
+tp2690
+tp2691
+s(S'|Where is Belize loc'
+p2692
+S'|PORING OVER the pag'
+p2693
+tp2694
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p2695
+tp2696
+Rp2697
+S'r|e| is Belize '
+p2698
+S'rced in Belize '
+p2699
+(I3
+I2818
+tp2700
+(I16
+I2833
+tp2701
+tp2702
+s(S'|Where is Belize loc'
+p2703
+S'|The British governm'
+p2704
+tp2705
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2706
+tp2707
+Rp2708
+S'e| is Belize lo|c||ate'
+p2709
+S'ed in Belize to counte'
+p2710
+(I4
+I526
+tp2711
+(I22
+I548
+tp2712
+tp2713
+s(S'|Where can you find '
+p2714
+S'|A bedeviled , belea'
+p2715
+tp2716
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p2717
+tp2718
+Rp2719
+S'here |can you find the |Ve|nus fl'
+p2720
+S'here most |o||f||| the ocean|| fl'
+p2721
+(I1
+I3391
+tp2722
+(I31
+I3416
+tp2723
+tp2724
+s(S'|Where is Belize loc'
+p2725
+S'|THE opposition in B'
+p2726
+tp2727
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2728
+tp2729
+Rp2730
+S'ere is Belize '
+p2731
+S'ers in Belize '
+p2732
+(I2
+I647
+tp2733
+(I16
+I661
+tp2734
+tp2735
+s(S'|Where does dew come'
+p2736
+S'|Running Hazard    O'
+p2737
+tp2738
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p2739
+tp2740
+Rp2741
+S'Whe||||re doe||s '
+p2742
+S'When life d|eals '
+p2743
+(I0
+I223
+tp2744
+(I11
+I239
+tp2745
+tp2746
+s(S'|Where is Belize loc'
+p2747
+S"|BELIZE'S new govern"
+p2748
+tp2749
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2750
+tp2751
+Rp2752
+S'ere| is Belize |locate'
+p2753
+S'ered by Belize , Guate'
+p2754
+(I2
+I1276
+tp2755
+(I22
+I1298
+tp2756
+tp2757
+s(S'|How old is the sun?'
+p2758
+S'|COMPUTER workstatio'
+p2759
+tp2760
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p2761
+tp2762
+Rp2763
+S' is the '
+p2764
+S' is the '
+p2765
+(I7
+I1957
+tp2766
+(I15
+I1965
+tp2767
+tp2768
+s(S'|Where can you find '
+p2769
+S'|NASA restored high-'
+p2770
+tp2771
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p2772
+tp2773
+Rp2774
+S' the Venus||| |flytra'
+p2775
+S' the Venusian caldera'
+p2776
+(I18
+I3348
+tp2777
+(I35
+I3369
+tp2778
+tp2779
+s(S'|Where did bocci ori'
+p2780
+S'|<p> At the unpreced'
+p2781
+tp2782
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p2783
+tp2784
+Rp2785
+S'd bocci orig||inat'
+p2786
+S'd local or|ganizat'
+p2787
+(I8
+I8374
+tp2788
+(I24
+I8391
+tp2789
+tp2790
+s(S'|Where is the Danube'
+p2791
+S'|<p> Government offi'
+p2792
+tp2793
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2794
+tp2795
+Rp2796
+S' the Danube'
+p2797
+S' the Danube'
+p2798
+(I8
+I351
+tp2799
+(I19
+I362
+tp2800
+tp2801
+s(S'|Where did the ukule'
+p2802
+S'|<p> Does much of to'
+p2803
+tp2804
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p2805
+tp2806
+Rp2807
+S'here did the '
+p2808
+S'her| |in the '
+p2809
+(I1
+I1275
+tp2810
+(I14
+I1286
+tp2811
+tp2812
+s(S'|Where is the Valley'
+p2813
+S'|<p> Louisville High'
+p2814
+tp2815
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p2816
+tp2817
+Rp2818
+S'he||r||e| is the Valley '
+p2819
+S'he Braves in ||a Valley '
+p2820
+(I1
+I967
+tp2821
+(I20
+I989
+tp2822
+tp2823
+s(S'|What is the wingspa'
+p2824
+S'|One of four Andean '
+p2825
+tp2826
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p2827
+tp2828
+Rp2829
+S'at||| is the wingspa|n o|f a condor'
+p2830
+S'ative to the |||||California condor'
+p2831
+(I2
+I788
+tp2832
+(I32
+I818
+tp2833
+tp2834
+s(S'|What was the name o'
+p2835
+S'|An internal NASA st'
+p2836
+tp2837
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p2838
+tp2839
+Rp2840
+S' the name of the first Russian |astronau|t to d'
+p2841
+S' th|||a|t if the si||t||uation cont|in|ues to d'
+p2842
+(I8
+I1432
+tp2843
+(I53
+I1469
+tp2844
+tp2845
+s(S'|Where did bocci ori'
+p2846
+S'|A jury has conclude'
+p2847
+tp2848
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p2849
+tp2850
+Rp2851
+S'he|re|| did '
+p2852
+S'helmets did '
+p2853
+(I1
+I1743
+tp2854
+(I10
+I1755
+tp2855
+tp2856
+s(S"|Where's Montenegro?"
+p2857
+S'|BFN     [Text] Ceti'
+p2858
+tp2859
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2860
+tp2861
+Rp2862
+S' Montenegro'
+p2863
+S' Montenegro'
+p2864
+(I7
+I84
+tp2865
+(I18
+I95
+tp2866
+tp2867
+s(S'|What is the wingspa'
+p2868
+S'|An egg laid in capt'
+p2869
+tp2870
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p2871
+tp2872
+Rp2873
+S' the wingspan of ||a| condor'
+p2874
+S" the |||||park's lead condor"
+p2875
+(I7
+I196
+tp2876
+(I32
+I219
+tp2877
+tp2878
+s(S'|Where can you find '
+p2879
+S'|NASA restored a hig'
+p2880
+tp2881
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2882
+tp2883
+Rp2884
+S'ere|| can| you find the '
+p2885
+S'e|eks |and ||u|sing the '
+p2886
+(I2
+I343
+tp2887
+(I23
+I362
+tp2888
+tp2889
+s(S'|What was the name o'
+p2890
+S'|The sky was cloudy '
+p2891
+tp2892
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p2893
+tp2894
+Rp2895
+S's the |||name of the '
+p2896
+S's the release of the '
+p2897
+(I7
+I951
+tp2898
+(I25
+I972
+tp2899
+tp2900
+s(S'|Where is the Danube'
+p2901
+S'|About 2 ,000 Hungar'
+p2902
+tp2903
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p2904
+tp2905
+Rp2906
+S' the Danube'
+p2907
+S' the Danube'
+p2908
+(I8
+I957
+tp2909
+(I19
+I968
+tp2910
+tp2911
+s(S'|Where did bocci ori'
+p2912
+S'|San Francisco Beat '
+p2913
+tp2914
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p2915
+tp2916
+Rp2917
+S'here d'
+p2918
+S'here d'
+p2919
+(I1
+I453
+tp2920
+(I7
+I459
+tp2921
+tp2922
+s(S'|How old is the sun?'
+p2923
+S'|Price cuts on older'
+p2924
+tp2925
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p2926
+tp2927
+Rp2928
+S'ow |old is the '
+p2929
+S'o| follows the '
+p2930
+(I1
+I462
+tp2931
+(I15
+I476
+tp2932
+tp2933
+s(S'|Where is the Valley'
+p2934
+S'|Excavators have unc'
+p2935
+tp2936
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80A@'
+p2937
+tp2938
+Rp2939
+S' is th|||||e|||| Valley| of the Kings'
+p2940
+S' in the bone-dry valleys of the kings'
+p2941
+(I5
+I790
+tp2942
+(I32
+I827
+tp2943
+tp2944
+s(S'|What is the wingspa'
+p2945
+S'|After weeks of amor'
+p2946
+tp2947
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p2948
+tp2949
+Rp2950
+S' wingspan| '
+p2951
+S' wingspans '
+p2952
+(I11
+I1262
+tp2953
+(I21
+I1273
+tp2954
+tp2955
+s(S'|Where can you find '
+p2956
+S'|NASA is investigati'
+p2957
+tp2958
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p2959
+tp2960
+Rp2961
+S'he|re can you |find th'
+p2962
+S"heart can||'t stand th"
+p2963
+(I1
+I3509
+tp2964
+(I21
+I3529
+tp2965
+tp2966
+s(S'|Where did bocci ori'
+p2967
+S'|American Ballet The'
+p2968
+tp2969
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p2970
+tp2971
+Rp2972
+S'here '
+p2973
+S'here '
+p2974
+(I1
+I2486
+tp2975
+(I6
+I2491
+tp2976
+tp2977
+s(S'|Where is the Danube'
+p2978
+S'|BFN     [Text] Hung'
+p2979
+tp2980
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p2981
+tp2982
+Rp2983
+S're is the Danube'
+p2984
+S're|ct the Danube'
+p2985
+(I3
+I1929
+tp2986
+(I19
+I1944
+tp2987
+tp2988
+s(S'|Where did bocci ori'
+p2989
+S'|All but one of this'
+p2990
+tp2991
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p2992
+tp2993
+Rp2994
+S'e| did bocci| origina'
+p2995
+S'ed |in |their origina'
+p2996
+(I4
+I582
+tp2997
+(I23
+I601
+tp2998
+tp2999
+s(S'|Where is the Valley'
+p3000
+S'|Inch by inch , with'
+p3001
+tp3002
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3003
+tp3004
+Rp3005
+S'e is the Va||||l|ley of the King|s'
+p3006
+S"e in the |afterlife| by the king's"
+p3007
+(I4
+I2875
+tp3008
+(I32
+I2907
+tp3009
+tp3010
+s(S'|Where did the ukule'
+p3011
+S"|It's called ``Snake"
+p3012
+tp3013
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p3014
+tp3015
+Rp3016
+S'here |did| the '
+p3017
+S'here to do the '
+p3018
+(I1
+I1474
+tp3019
+(I14
+I1489
+tp3020
+tp3021
+s(S'|What was the name o'
+p3022
+S'|<p> The proposed U '
+p3023
+tp3024
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3025
+tp3026
+Rp3027
+S's the nam|e| of ||the||||| f|||||||irst Russian astronaut| '
+p3028
+S's|tic number of spacewalks for repairs| |before astronauts '
+p3029
+(I7
+I102
+tp3030
+(I49
+I158
+tp3031
+tp3032
+s(S'|Where does dew come'
+p3033
+S"|``I don't see that "
+p3034
+tp3035
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00\x1c@'
+p3036
+tp3037
+Rp3038
+S' do|es dew '
+p3039
+S" don't see "
+p3040
+(I5
+I3
+tp3041
+(I15
+I14
+tp3042
+tp3043
+s(S'|Where did bocci ori'
+p3044
+S'|Except in her exqui'
+p3045
+tp3046
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3047
+tp3048
+Rp3049
+S' origina'
+p3050
+S' origina'
+p3051
+(I15
+I3462
+tp3052
+(I23
+I3470
+tp3053
+tp3054
+s(S'|What is the wingspa'
+p3055
+S'|A tiny , pale aqua '
+p3056
+tp3057
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3058
+tp3059
+Rp3060
+S' is the win|gspa|n o|f a condor'
+p3061
+S' is the |only California condor'
+p3062
+(I4
+I1162
+tp3063
+(I32
+I1192
+tp3064
+tp3065
+s(S'|Where did the ukule'
+p3066
+S'|Back in the 1950s ,'
+p3067
+tp3068
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p3069
+tp3070
+Rp3071
+S'here di|d the ukulele| o'
+p3072
+S'h|redding the |qu|e|en o'
+p3073
+(I1
+I548
+tp3074
+(I23
+I568
+tp3075
+tp3076
+s(S'|What was the name o'
+p3077
+S'|Navy Capt . Dick Ri'
+p3078
+tp3079
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3080
+tp3081
+Rp3082
+S' w|as the |na|me| of th|||||e| |first|| Russian astronaut '
+p3083
+S' when |he learned he |had been selected ||as an astronaut '
+p3084
+(I4
+I1501
+tp3085
+(I49
+I1555
+tp3086
+tp3087
+s(S'|Where is the Valley'
+p3088
+S'|<p> Ronnie Long had'
+p3089
+tp3090
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3091
+tp3092
+Rp3093
+S're |||i|s the Valley |of '
+p3094
+S're losing the ball|| to| '
+p3095
+(I3
+I1131
+tp3096
+(I23
+I1153
+tp3097
+tp3098
+s(S'|Where is the Valley'
+p3099
+S'|Stonecutters squat '
+p3100
+tp3101
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3102
+tp3103
+Rp3104
+S' the Valley| of the King'
+p3105
+S' the da|||ys of the Ming'
+p3106
+(I8
+I647
+tp3107
+(I31
+I668
+tp3108
+tp3109
+s(S'|Where can you find '
+p3110
+S'|Engineers performed'
+p3111
+tp3112
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p3113
+tp3114
+Rp3115
+S' find the Venus '
+p3116
+S' fi|rst|| Venus '
+p3117
+(I13
+I750
+tp3118
+(I29
+I763
+tp3119
+tp3120
+s(S'|Where did bocci ori'
+p3121
+S'|The first Hans Chri'
+p3122
+tp3123
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p3124
+tp3125
+Rp3126
+S'ere ||d||||id bocci o'
+p3127
+S'er| and Julio Bocca o'
+p3128
+(I2
+I1331
+tp3129
+(I17
+I1351
+tp3130
+tp3131
+s(S'|How old is the sun?'
+p3132
+S'|The software is par'
+p3133
+tp3134
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3135
+tp3136
+Rp3137
+S' is the '
+p3138
+S' in the '
+p3139
+(I7
+I983
+tp3140
+(I15
+I991
+tp3141
+tp3142
+s(S'|Where did bocci ori'
+p3143
+S'|Prospective jurors '
+p3144
+tp3145
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p3146
+tp3147
+Rp3148
+S'he|re| did bocci o'
+p3149
+S'he reputed bo|ss o'
+p3150
+(I1
+I571
+tp3151
+(I17
+I588
+tp3152
+tp3153
+s(S'|Where is Belize loc'
+p3154
+S'|Prime Minister Manu'
+p3155
+tp3156
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3157
+tp3158
+Rp3159
+S'ere is Belize '
+p3160
+S'ery to Belize '
+p3161
+(I2
+I624
+tp3162
+(I16
+I638
+tp3163
+tp3164
+s(S'|What is the wingspa'
+p3165
+S'|Love is in the air '
+p3166
+tp3167
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p3168
+tp3169
+Rp3170
+S' wingspan|||||| |of ||||a| condor'
+p3171
+S' wingspans .    The Andean condor'
+p3172
+(I11
+I2679
+tp3173
+(I32
+I2712
+tp3174
+tp3175
+s(S'|Where is the Valley'
+p3176
+S'|<p> After strugglin'
+p3177
+tp3178
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3179
+tp3180
+Rp3181
+S'ere is |the Va||||lle|y of the '
+p3182
+S'erence game |at College of the '
+p3183
+(I2
+I2540
+tp3184
+(I27
+I2570
+tp3185
+tp3186
+s(S'|How old is the sun?'
+p3187
+S'|SUN Microsystems ai'
+p3188
+tp3189
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3190
+tp3191
+Rp3192
+S'd is the '
+p3193
+S'd in the '
+p3194
+(I6
+I667
+tp3195
+(I15
+I676
+tp3196
+tp3197
+s(S'|Where is Belize loc'
+p3198
+S'|Farce , rather than'
+p3199
+tp3200
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3201
+tp3202
+Rp3203
+S' Belize '
+p3204
+S' Belize '
+p3205
+(I8
+I619
+tp3206
+(I16
+I627
+tp3207
+tp3208
+s(S'|What is the wingspa'
+p3209
+S'| "You could tell ou'
+p3210
+tp3211
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3212
+tp3213
+Rp3214
+S' wingspan '
+p3215
+S' wingspan '
+p3216
+(I11
+I1406
+tp3217
+(I21
+I1416
+tp3218
+tp3219
+s(S'|Where can you find '
+p3220
+S'|Magellan , the firs'
+p3221
+tp3222
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3223
+tp3224
+Rp3225
+S'e c|a|n you|| find |||the Venus '
+p3226
+S'e|craft would f|ly past|| Venus '
+p3227
+(I4
+I2076
+tp3228
+(I29
+I2104
+tp3229
+tp3230
+s(S'|Where did the ukule'
+p3231
+S'| "Jerome Robbins\' B'
+p3232
+tp3233
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p3234
+tp3235
+Rp3236
+S' ukulele| origin|a'
+p3237
+S' ukuleles |-- in a'
+p3238
+(I13
+I2909
+tp3239
+(I29
+I2926
+tp3240
+tp3241
+s(S'|Where is the Valley'
+p3242
+S'|<p> Goalie Paul Bra'
+p3243
+tp3244
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3245
+tp3246
+Rp3247
+S're| |is th||e |Valley |o|f the |Kings'
+p3248
+S'red his third goa|l|| for  the Saints'
+p3249
+(I3
+I1416
+tp3250
+(I32
+I1450
+tp3251
+tp3252
+s(S'|How old is the sun?'
+p3253
+S'|Compaq Computer Cor'
+p3254
+tp3255
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3256
+tp3257
+Rp3258
+S' is the '
+p3259
+S' is the '
+p3260
+(I7
+I1351
+tp3261
+(I15
+I1359
+tp3262
+tp3263
+s(S'|What is the wingspa'
+p3264
+S'|The hatchings of tw'
+p3265
+tp3266
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p3267
+tp3268
+Rp3269
+S' th||e|| wingspan of '
+p3270
+S' |have a wingspan of '
+p3271
+(I7
+I1176
+tp3272
+(I24
+I1196
+tp3273
+tp3274
+s(S'|Where is Belize loc'
+p3275
+S'|BELIZE faces an arr'
+p3276
+tp3277
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3278
+tp3279
+Rp3280
+S' is Belize '
+p3281
+S' is Belize '
+p3282
+(I5
+I191
+tp3283
+(I16
+I202
+tp3284
+tp3285
+s(S'|Where is Belize loc'
+p3286
+S'|THE award this mont'
+p3287
+tp3288
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3289
+tp3290
+Rp3291
+S'is| Belize '
+p3292
+S'ise Belize '
+p3293
+(I6
+I1457
+tp3294
+(I16
+I1468
+tp3295
+tp3296
+s(S'|Where does dew come'
+p3297
+S'|Tony Conigliaro , w'
+p3298
+tp3299
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3300
+tp3301
+Rp3302
+S'es de|w come from'
+p3303
+S'es kept him| from'
+p3304
+(I8
+I3237
+tp3305
+(I24
+I3253
+tp3306
+tp3307
+s(S'|Where does dew come'
+p3308
+S'|THE FORM MUST CONFO'
+p3309
+tp3310
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3311
+tp3312
+Rp3313
+S're does dew come '
+p3314
+S're the| ||income '
+p3315
+(I3
+I1197
+tp3316
+(I20
+I1211
+tp3317
+tp3318
+s(S'|What was the name o'
+p3319
+S'|A new NASA report c'
+p3320
+tp3321
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3322
+tp3323
+Rp3324
+S' of the ||fir|||st|| |Rus|||sia|||n| astronaut| '
+p3325
+S' of the solar system by spacewalking astronauts '
+p3326
+(I17
+I466
+tp3327
+(I49
+I514
+tp3328
+tp3329
+s(S'|Where is the Valley'
+p3330
+S'|<p> Sergio Vargas s'
+p3331
+tp3332
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p3333
+tp3334
+Rp3335
+S'e| is the Valley '
+p3336
+S'e  in the Valley '
+p3337
+(I4
+I1827
+tp3338
+(I20
+I1844
+tp3339
+tp3340
+s(S'|Where is the Valley'
+p3341
+S'|<p> Dave Murphy , a'
+p3342
+tp3343
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p3344
+tp3345
+Rp3346
+S' Valley||||| |of the '
+p3347
+S' Valley High for the '
+p3348
+(I12
+I2041
+tp3349
+(I27
+I2062
+tp3350
+tp3351
+s(S'|What was the name o'
+p3352
+S'| "We\'re extremely p'
+p3353
+tp3354
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00<@'
+p3355
+tp3356
+Rp3357
+S' astronaut||||| t|o do|| a space'
+p3358
+S' astronauts saw the Soviet space'
+p3359
+(I38
+I305
+tp3360
+(I62
+I337
+tp3361
+tp3362
+s(S'|Where did bocci ori'
+p3363
+S'|<p> As result of in'
+p3364
+tp3365
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3366
+tp3367
+Rp3368
+S' origina'
+p3369
+S' origina'
+p3370
+(I15
+I75
+tp3371
+(I23
+I83
+tp3372
+tp3373
+s(S'|What is the wingspa'
+p3374
+S'|A tiny California c'
+p3375
+tp3376
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3377
+tp3378
+Rp3379
+S' |is th|e wing|span of |a co'
+p3380
+S' wi||th a wing span of up to'
+p3381
+(I4
+I1416
+tp3382
+(I28
+I1442
+tp3383
+tp3384
+s(S'|Where did the ukule'
+p3385
+S'|Taking ukuleles to '
+p3386
+tp3387
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3388
+tp3389
+Rp3390
+S' the ukulele '
+p3391
+S' the ukulele '
+p3392
+(I9
+I186
+tp3393
+(I22
+I199
+tp3394
+tp3395
+s(S'|How old is the sun?'
+p3396
+S'|Digital Equipment C'
+p3397
+tp3398
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p3399
+tp3400
+Rp3401
+S'ow o|ld is the s'
+p3402
+S'owdowns in the s'
+p3403
+(I1
+I3540
+tp3404
+(I16
+I3556
+tp3405
+tp3406
+s(S'|Where did the ukule'
+p3407
+S'|<p> A handsome , mi'
+p3408
+tp3409
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3410
+tp3411
+Rp3412
+S'er|||e did the|||||| ukulele '
+p3413
+S'er age ||. She got a ukulele '
+p3414
+(I2
+I3143
+tp3415
+(I22
+I3170
+tp3416
+tp3417
+s(S'|Where can you find '
+p3418
+S"|<p> Magellan's miss"
+p3419
+tp3420
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p3421
+tp3422
+Rp3423
+S'ere can ||||||you| find the '
+p3424
+S'ers can figure out |why the '
+p3425
+(I2
+I104
+tp3426
+(I23
+I131
+tp3427
+tp3428
+s(S'|Where did the ukule'
+p3429
+S'|They culled , all r'
+p3430
+tp3431
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3432
+tp3433
+Rp3434
+S' the ukulele '
+p3435
+S' the ukulele '
+p3436
+(I9
+I2272
+tp3437
+(I22
+I2285
+tp3438
+tp3439
+s(S'|Where does dew come'
+p3440
+S'|Thank-You , I Guess'
+p3441
+tp3442
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00&@'
+p3443
+tp3444
+Rp3445
+S' dew |come'
+p3446
+S' dew proce'
+p3447
+(I10
+I287
+tp3448
+(I19
+I297
+tp3449
+tp3450
+s(S'|Where is Belize loc'
+p3451
+S'|BFN     [Text] Pres'
+p3452
+tp3453
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p3454
+tp3455
+Rp3456
+S' is Belize||| located'
+p3457
+S' in Pe||ten , located'
+p3458
+(I5
+I1417
+tp3459
+(I23
+I1436
+tp3460
+tp3461
+s(S'|Where did the ukule'
+p3462
+S'|<p> Leatta woke up '
+p3463
+tp3464
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3465
+tp3466
+Rp3467
+S' did |the|| ukulele '
+p3468
+S' |it like a ukulele '
+p3469
+(I5
+I11241
+tp3470
+(I22
+I11260
+tp3471
+tp3472
+s(S'|How old is the sun?'
+p3473
+S'| "This is the first'
+p3474
+tp3475
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3476
+tp3477
+Rp3478
+S' is the '
+p3479
+S' is the '
+p3480
+(I7
+I6
+tp3481
+(I15
+I14
+tp3482
+tp3483
+s(S'|What was the name o'
+p3484
+S'|Ground controllers '
+p3485
+tp3486
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00F@'
+p3487
+tp3488
+Rp3489
+S' |of the |firs|||t Rus|sian astronaut| to||| |||do|| a spacewalk'
+p3490
+S' to| the telescope ||so two astronauts could perform a spacewalk'
+p3491
+(I17
+I3905
+tp3492
+(I66
+I3966
+tp3493
+tp3494
+s(S'|What was the name o'
+p3495
+S'| "Congratulations o'
+p3496
+tp3497
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00B@'
+p3498
+tp3499
+Rp3500
+S' was the name of the first Russi||||||an astronaut '
+p3501
+S' was ||fin||e on the right |||side .;    Astronaut '
+p3502
+(I4
+I819
+tp3503
+(I49
+I863
+tp3504
+tp3505
+s(S'|Where did bocci ori'
+p3506
+S'|<p> A year go , Twy'
+p3507
+tp3508
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p3509
+tp3510
+Rp3511
+S'ere did boc|ci |originate'
+p3512
+S'er| ||, become more in|te'
+p3513
+(I2
+I3066
+tp3514
+(I25
+I3087
+tp3515
+tp3516
+s(S'|Where can you find '
+p3517
+S'|With Magellan safel'
+p3518
+tp3519
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p3520
+tp3521
+Rp3522
+S' you fin|d the Venus '
+p3523
+S' jou||rney t|o Venus '
+p3524
+(I9
+I2497
+tp3525
+(I29
+I2515
+tp3526
+tp3527
+s(S'|How old is the sun?'
+p3528
+S"|Sun's new decree , "
+p3529
+tp3530
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3531
+tp3532
+Rp3533
+S' is the '
+p3534
+S' as the '
+p3535
+(I7
+I542
+tp3536
+(I15
+I550
+tp3537
+tp3538
+s(S'|Where does dew come'
+p3539
+S'|THE government will'
+p3540
+tp3541
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00"@'
+p3542
+tp3543
+Rp3544
+S' dew| come fr|o'
+p3545
+S' Dewe Roge||rso'
+p3546
+(I10
+I27
+tp3547
+(I23
+I40
+tp3548
+tp3549
+s(S'|Where does dew come'
+p3550
+S'|It is 4 a .m . on t'
+p3551
+tp3552
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00;@'
+p3553
+tp3554
+Rp3555
+S'ere |do|e||s dew co|me from'
+p3556
+S'er| protects dew worms from'
+p3557
+(I2
+I6136
+tp3558
+(I24
+I6162
+tp3559
+tp3560
+s(S'|Where does dew come'
+p3561
+S'|So what if two tiny'
+p3562
+tp3563
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00&@'
+p3564
+tp3565
+Rp3566
+S'he|r|e| does |||dew co'
+p3567
+S'he reef no|| longer co'
+p3568
+(I1
+I1091
+tp3569
+(I17
+I1111
+tp3570
+tp3571
+s(S'|How old is the sun?'
+p3572
+S'|Both companies see '
+p3573
+tp3574
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p3575
+tp3576
+Rp3577
+S' is the '
+p3578
+S' is the '
+p3579
+(I7
+I531
+tp3580
+(I15
+I539
+tp3581
+tp3582
+s(S'|Where can you find '
+p3583
+S'|NASA officials hope'
+p3584
+tp3585
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3586
+tp3587
+Rp3588
+S'e can you find the Venus '
+p3589
+S'e |en rou|||te t|o Venus '
+p3590
+(I4
+I97
+tp3591
+(I29
+I117
+tp3592
+tp3593
+s(S'|How old is the sun?'
+p3594
+S"|Sun's machine , exp"
+p3595
+tp3596
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p3597
+tp3598
+Rp3599
+S' |old is the '
+p3600
+S' no|w is the '
+p3601
+(I3
+I2615
+tp3602
+(I15
+I2627
+tp3603
+tp3604
+s(S'|How old is the sun?'
+p3605
+S'|Sun also is expecte'
+p3606
+tp3607
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3608
+tp3609
+Rp3610
+S' is the s'
+p3611
+S' in the s'
+p3612
+(I7
+I466
+tp3613
+(I16
+I475
+tp3614
+tp3615
+s(S'|Where did bocci ori'
+p3616
+S'|Briggs would rather'
+p3617
+tp3618
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p3619
+tp3620
+Rp3621
+S'here '
+p3622
+S'here '
+p3623
+(I1
+I947
+tp3624
+(I6
+I952
+tp3625
+tp3626
+s(S"|Where's Montenegro?"
+p3627
+S'|BFN     [Text] [Ann'
+p3628
+tp3629
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3630
+tp3631
+Rp3632
+S' Montenegro'
+p3633
+S' Montenegro'
+p3634
+(I7
+I1752
+tp3635
+(I18
+I1763
+tp3636
+tp3637
+s(S'|Where did the ukule'
+p3638
+S"|That's right : A ta"
+p3639
+tp3640
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3641
+tp3642
+Rp3643
+S' the| ukule||le origina'
+p3644
+S' they ||are all origina'
+p3645
+(I9
+I1330
+tp3646
+(I29
+I1351
+tp3647
+tp3648
+s(S'|Where is the Valley'
+p3649
+S'|<p> Today marks the'
+p3650
+tp3651
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p3652
+tp3653
+Rp3654
+S' the Val|ley of the King'
+p3655
+S' the ||life| of ||| King'
+p3656
+(I8
+I2313
+tp3657
+(I31
+I2331
+tp3658
+tp3659
+s(S'|What was the name o'
+p3660
+S'|The 60-foot-long do'
+p3661
+tp3662
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p3663
+tp3664
+Rp3665
+S' of the first Russian astronaut| to| do a'
+p3666
+S' of the|||||| ||seven astronauts |on bo|a'
+p3667
+(I17
+I346
+tp3668
+(I56
+I377
+tp3669
+tp3670
+s(S'|How old is the sun?'
+p3671
+S'|Sun Microsystems In'
+p3672
+tp3673
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3674
+tp3675
+Rp3676
+S' |old i|s |the '
+p3677
+S' sold its line '
+p3678
+(I3
+I41
+tp3679
+(I15
+I56
+tp3680
+tp3681
+s(S'|Where does dew come'
+p3682
+S'|The annual Trades U'
+p3683
+tp3684
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p3685
+tp3686
+Rp3687
+S'e from'
+p3688
+S'e from'
+p3689
+(I18
+I851
+tp3690
+(I24
+I857
+tp3691
+tp3692
+s(S'|Where can you find '
+p3693
+S'|Engineers lost radi'
+p3694
+tp3695
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p3696
+tp3697
+Rp3698
+S' can| you find the '
+p3699
+S' |and fou|||nd the '
+p3700
+(I5
+I1351
+tp3701
+(I23
+I1366
+tp3702
+tp3703
+s(S'|Where is the Danube'
+p3704
+S'|International   Res'
+p3705
+tp3706
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3707
+tp3708
+Rp3709
+S' is the Danube'
+p3710
+S' in the Danube'
+p3711
+(I5
+I1795
+tp3712
+(I19
+I1809
+tp3713
+tp3714
+s(S'|Where is the Valley'
+p3715
+S'|Rapidly multiplying'
+p3716
+tp3717
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00G@'
+p3718
+tp3719
+Rp3720
+S'here is th||||||e| Valley of the Kings'
+p3721
+S'he|s in the barren Valley of the Kings'
+p3722
+(I1
+I987
+tp3723
+(I32
+I1024
+tp3724
+tp3725
+s(S'|What is the wingspa'
+p3726
+S'|<p> Mandan , the se'
+p3727
+tp3728
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3729
+tp3730
+Rp3731
+S' is the |||wingspan of '
+p3732
+S' is the sibling|||| of '
+p3733
+(I4
+I2819
+tp3734
+(I24
+I2838
+tp3735
+tp3736
+s(S'|Where is Belize loc'
+p3737
+S'|VISITORS arriving a'
+p3738
+tp3739
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3740
+tp3741
+Rp3742
+S'he|r||e ||i|s Belize loca'
+p3743
+S'he role which Belize ||ca'
+p3744
+(I1
+I2893
+tp3745
+(I20
+I2916
+tp3746
+tp3747
+s(S'|Where is Belize loc'
+p3748
+S'|WHILE civil war rav'
+p3749
+tp3750
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p3751
+tp3752
+Rp3753
+S'ere|||| is Belize '
+p3754
+S'erendum in Belize '
+p3755
+(I2
+I2053
+tp3756
+(I16
+I2071
+tp3757
+tp3758
+s(S'|What is the wingspa'
+p3759
+S'|<p> Wildlife offici'
+p3760
+tp3761
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3762
+tp3763
+Rp3764
+S't |is the wings||pa|n of a condor'
+p3765
+S't was the fi|rst laid by a condor'
+p3766
+(I3
+I193
+tp3767
+(I32
+I225
+tp3768
+tp3769
+s(S'|Where did bocci ori'
+p3770
+S'|Italian voters deal'
+p3771
+tp3772
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p3773
+tp3774
+Rp3775
+S'e did bocci |originate'
+p3776
+S'e led |o||r do||minate'
+p3777
+(I4
+I836
+tp3778
+(I25
+I853
+tp3779
+tp3780
+s(S'|What is the wingspa'
+p3781
+S'|Stress is believed '
+p3782
+tp3783
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p3784
+tp3785
+Rp3786
+S' |the| |wingsp|an||| |of a| condor'
+p3787
+S' other tran|splanted Andean condor'
+p3788
+(I7
+I191
+tp3789
+(I32
+I224
+tp3790
+tp3791
+s(S'|Where is the Valley'
+p3792
+S'|<p> Larry Rippe sco'
+p3793
+tp3794
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3795
+tp3796
+Rp3797
+S' |i|s| ||the Valle|y of th||||e| Kings'
+p3798
+S' first place |a|head of the  Sea Kings'
+p3799
+(I5
+I3599
+tp3800
+(I32
+I3635
+tp3801
+tp3802
+s(S'|Where did the ukule'
+p3803
+S'|<p> In the past mon'
+p3804
+tp3805
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3806
+tp3807
+Rp3808
+S'ere|| d|id the '
+p3809
+S'erested in the '
+p3810
+(I2
+I2493
+tp3811
+(I14
+I2508
+tp3812
+tp3813
+s(S'|How old is the sun?'
+p3814
+S'|Nevertheless ,  "Th'
+p3815
+tp3816
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p3817
+tp3818
+Rp3819
+S' is the '
+p3820
+S' in the '
+p3821
+(I7
+I624
+tp3822
+(I15
+I632
+tp3823
+tp3824
+s(S'|Where did bocci ori'
+p3825
+S'|<p> In San Francisc'
+p3826
+tp3827
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p3828
+tp3829
+Rp3830
+S' origin'
+p3831
+S' origin'
+p3832
+(I15
+I6754
+tp3833
+(I22
+I6761
+tp3834
+tp3835
+s(S'|Where is Belize loc'
+p3836
+S'|BFN     [Text] Yest'
+p3837
+tp3838
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3839
+tp3840
+Rp3841
+S'ere |is Belize lo'
+p3842
+S'er| the Belize Co'
+p3843
+(I2
+I672
+tp3844
+(I18
+I688
+tp3845
+tp3846
+s(S'|What is the wingspa'
+p3847
+S"|It's a big bird . A"
+p3848
+tp3849
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3850
+tp3851
+Rp3852
+S'hat| is the wingspan of a '
+p3853
+S'h|ts on the wings||| |, a '
+p3854
+(I1
+I216
+tp3855
+(I26
+I237
+tp3856
+tp3857
+s(S'|What was the name o'
+p3858
+S'|A still-unexplained'
+p3859
+tp3860
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p3861
+tp3862
+Rp3863
+S' the first Russian as'
+p3864
+S' the first mission |s'
+p3865
+(I20
+I3407
+tp3866
+(I41
+I3427
+tp3867
+tp3868
+s(S'|What is the wingspa'
+p3869
+S'|The first egg produ'
+p3870
+tp3871
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3872
+tp3873
+Rp3874
+S' th||e|| wingspan of a'
+p3875
+S' |have a wingspan of a'
+p3876
+(I7
+I1269
+tp3877
+(I25
+I1290
+tp3878
+tp3879
+s(S'|What was the name o'
+p3880
+S'|Chunks of shrapnel '
+p3881
+tp3882
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80A@'
+p3883
+tp3884
+Rp3885
+S't was the |name of the |first Rus|sian astronaut| to do |a'
+p3886
+S't was ||a flake of the pai|nt |used on |||rockets |and| pa'
+p3887
+(I3
+I3121
+tp3888
+(I56
+I3170
+tp3889
+tp3890
+s(S'|Where is the Valley'
+p3891
+S'|<p> Poly 40 , Grant'
+p3892
+tp3893
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3894
+tp3895
+Rp3896
+S' is the||||| Valley '
+p3897
+S' in the East Valley '
+p3898
+(I5
+I104
+tp3899
+(I20
+I124
+tp3900
+tp3901
+s(S'|Where is the Valley'
+p3902
+S'|Fruits , spices and'
+p3903
+tp3904
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00I@'
+p3905
+tp3906
+Rp3907
+S' is the Valley| of the Kings'
+p3908
+S' in the Valleys of the Kings'
+p3909
+(I5
+I483
+tp3910
+(I32
+I511
+tp3911
+tp3912
+s(S'|Where can you find '
+p3913
+S'|After the Magellan '
+p3914
+tp3915
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p3916
+tp3917
+Rp3918
+S'can yo|u find the Venus'
+p3919
+S'can||oes |on| the Venus'
+p3920
+(I6
+I1868
+tp3921
+(I28
+I1887
+tp3922
+tp3923
+s(S"|Where's Montenegro?"
+p3924
+S'|CSO       [Editoria'
+p3925
+tp3926
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3927
+tp3928
+Rp3929
+S' Montenegro'
+p3930
+S' Montenegro'
+p3931
+(I7
+I257
+tp3932
+(I18
+I268
+tp3933
+tp3934
+s(S'|Where is Belize loc'
+p3935
+S'|CONSERVATION and to'
+p3936
+tp3937
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p3938
+tp3939
+Rp3940
+S' is Belize '
+p3941
+S' in Belize '
+p3942
+(I5
+I54
+tp3943
+(I16
+I65
+tp3944
+tp3945
+s(S'|How old is the sun?'
+p3946
+S'|The Ventura agreeme'
+p3947
+tp3948
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p3949
+tp3950
+Rp3951
+S'ow ||old is the |s'
+p3952
+S'o| broad|en the us'
+p3953
+(I1
+I59
+tp3954
+(I16
+I75
+tp3955
+tp3956
+s(S'|What was the name o'
+p3957
+S'|Astronaut Donald E '
+p3958
+tp3959
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p3960
+tp3961
+Rp3962
+S'an astronaut to| do ||a s'
+p3963
+S'an astronaut for 11 years'
+p3964
+(I36
+I203
+tp3965
+(I58
+I228
+tp3966
+tp3967
+s(S'|Where can you find '
+p3968
+S'| "It\'s something th'
+p3969
+tp3970
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p3971
+tp3972
+Rp3973
+S'here| can|| yo|u find the '
+p3974
+S'hered |into soil |in| the '
+p3975
+(I1
+I1152
+tp3976
+(I23
+I1175
+tp3977
+tp3978
+s(S'|Where did the ukule'
+p3979
+S'|He had a hit album '
+p3980
+tp3981
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p3982
+tp3983
+Rp3984
+S' the ukulele '
+p3985
+S' the ukulele '
+p3986
+(I9
+I268
+tp3987
+(I22
+I281
+tp3988
+tp3989
+s(S'|Where did bocci ori'
+p3990
+S'|They do these thing'
+p3991
+tp3992
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p3993
+tp3994
+Rp3995
+S'e did bocc||i o'
+p3996
+S'endid |occasi|o'
+p3997
+(I4
+I607
+tp3998
+(I17
+I620
+tp3999
+tp4000
+s(S'|What was the name o'
+p4001
+S'|Five astronauts boa'
+p4002
+tp4003
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p4004
+tp4005
+Rp4006
+S't| wa|s th||e name| o|||||||f the first Russian '
+p4007
+S'th pads |have |been occupied; the first was i|n '
+p4008
+(I3
+I1508
+tp4009
+(I39
+I1553
+tp4010
+tp4011
+s(S'|Where is the Danube'
+p4012
+S'|CSO   <f p= "106 ">'
+p4013
+tp4014
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p4015
+tp4016
+Rp4017
+S' the Danube'
+p4018
+S' the Danube'
+p4019
+(I8
+I144
+tp4020
+(I19
+I155
+tp4021
+tp4022
+s(S'|How old is the sun?'
+p4023
+S"|Lockheed Corp .'s C"
+p4024
+tp4025
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p4026
+tp4027
+Rp4028
+S' old i|s the su'
+p4029
+S' o|f its two su'
+p4030
+(I3
+I794
+tp4031
+(I17
+I808
+tp4032
+tp4033
+s(S'|Where is the Valley'
+p4034
+S'|The author of a new'
+p4035
+tp4036
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00E@'
+p4037
+tp4038
+Rp4039
+S'ere is the Valley of the Kings'
+p4040
+S'er| in the Valley of|||| Kings'
+p4041
+(I2
+I564
+tp4042
+(I32
+I589
+tp4043
+tp4044
+s(S'|What is the wingspa'
+p4045
+S'| "Next year we\'re h'
+p4046
+tp4047
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p4048
+tp4049
+Rp4050
+S' the wi||||ngspan of|||| ||||a condor'
+p4051
+S' the wildernes||s of the Sespe Condor'
+p4052
+(I7
+I1358
+tp4053
+(I32
+I1393
+tp4054
+tp4055
+s(S'|How old is the sun?'
+p4056
+S'|Apollo Computer Inc'
+p4057
+tp4058
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4059
+tp4060
+Rp4061
+S'o|l|d |is the '
+p4062
+S'ollo  "is the '
+p4063
+(I4
+I667
+tp4064
+(I15
+I681
+tp4065
+tp4066
+s(S'|Where did the ukule'
+p4067
+S'|Country music perfo'
+p4068
+tp4069
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p4070
+tp4071
+Rp4072
+S'e ukulele '
+p4073
+S'e ukulele '
+p4074
+(I12
+I4038
+tp4075
+(I22
+I4048
+tp4076
+tp4077
+s(S'|Where is the Valley'
+p4078
+S'|<p> Three weeks ago'
+p4079
+tp4080
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p4081
+tp4082
+Rp4083
+S'e ||is the Valley of th|||e| Kings'
+p4084
+S'e this |de|ca|de| |, the Sea Kings'
+p4085
+(I4
+I918
+tp4086
+(I32
+I947
+tp4087
+tp4088
+s(S'|Where did the ukule'
+p4089
+S'|<p> This is the tim'
+p4090
+tp4091
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4092
+tp4093
+Rp4094
+S'ere did th|e|||| ukulele'
+p4095
+S'ers |(a cheerful ukulele'
+p4096
+(I2
+I1156
+tp4097
+(I21
+I1179
+tp4098
+tp4099
+s(S'|Where can you find '
+p4100
+S'|Here are some unusu'
+p4101
+tp4102
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p4103
+tp4104
+Rp4105
+S' fin|d the Venus'
+p4106
+S' |into the Venus'
+p4107
+(I13
+I1208
+tp4108
+(I28
+I1223
+tp4109
+tp4110
+s(S'|Where does dew come'
+p4111
+S'|There may be no suc'
+p4112
+tp4113
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4114
+tp4115
+Rp4116
+S's dew||| come f|r'
+p4117
+S'sideways move for'
+p4118
+(I9
+I522
+tp4119
+(I22
+I539
+tp4120
+tp4121
+s(S'|Where did the ukule'
+p4122
+S'|<p> He has 10 album'
+p4123
+tp4124
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p4125
+tp4126
+Rp4127
+S'd the|| uku|lele |o'
+p4128
+S'd they  usual|ly do'
+p4129
+(I8
+I3943
+tp4130
+(I23
+I3961
+tp4131
+tp4132
+s(S'|Where is the Valley'
+p4133
+S'|<p> El Toro High Sc'
+p4134
+tp4135
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4136
+tp4137
+Rp4138
+S'he||re| i||s the Valley of the '
+p4139
+S'he  received the ball|| in the '
+p4140
+(I1
+I1555
+tp4141
+(I27
+I1584
+tp4142
+tp4143
+s(S'|Where did the ukule'
+p4144
+S'|Actress Sissy Space'
+p4145
+tp4146
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4147
+tp4148
+Rp4149
+S' the ukulele '
+p4150
+S' the ukulele '
+p4151
+(I9
+I4216
+tp4152
+(I22
+I4229
+tp4153
+tp4154
+s(S'|Where does dew come'
+p4155
+S'|WITH Parliament stu'
+p4156
+tp4157
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p4158
+tp4159
+Rp4160
+S'ere |do||es dew come '
+p4161
+S'er| who has be||come '
+p4162
+(I2
+I5081
+tp4163
+(I20
+I5099
+tp4164
+tp4165
+s(S'|Where did the ukule'
+p4166
+S'|<p> The Pursuit of '
+p4167
+tp4168
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4169
+tp4170
+Rp4171
+S'her|e did |the ukulele origina'
+p4172
+S'heric |,  st||rikingly origina'
+p4173
+(I1
+I3747
+tp4174
+(I29
+I3774
+tp4175
+tp4176
+s(S'|Where can you find '
+p4177
+S'|An alignment of the'
+p4178
+tp4179
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p4180
+tp4181
+Rp4182
+S' you find |||t|he|||| Venus '
+p4183
+S' to| send pictures of Venus '
+p4184
+(I9
+I81
+tp4185
+(I29
+I108
+tp4186
+tp4187
+s(S"|Where's Montenegro?"
+p4188
+S'|BFN     [Text] Lond'
+p4189
+tp4190
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p4191
+tp4192
+Rp4193
+S' Montenegro'
+p4194
+S' Montenegro'
+p4195
+(I7
+I73
+tp4196
+(I18
+I84
+tp4197
+tp4198
+s(S'|Where can you find '
+p4199
+S'|Here are key facts '
+p4200
+tp4201
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p4202
+tp4203
+Rp4204
+S're c|an you find the ||Ven'
+p4205
+S're chan|ges |in| the stren'
+p4206
+(I3
+I2214
+tp4207
+(I26
+I2237
+tp4208
+tp4209
+s(S"|Where's Montenegro?"
+p4210
+S'|Article   Type :CSO'
+p4211
+tp4212
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p4213
+tp4214
+Rp4215
+S' Montenegro'
+p4216
+S' Montenegro'
+p4217
+(I7
+I165
+tp4218
+(I18
+I176
+tp4219
+tp4220
+s(S'|What is the wingspa'
+p4221
+S'|A California condor'
+p4222
+tp4223
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p4224
+tp4225
+Rp4226
+S' the w||ings|pa|n o|f a condor'
+p4227
+S" the world's California condor"
+p4228
+(I7
+I1344
+tp4229
+(I32
+I1374
+tp4230
+tp4231
+s(S'|Where did bocci ori'
+p4232
+S'|Twenty high schools'
+p4233
+tp4234
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4235
+tp4236
+Rp4237
+S'ere did bocci '
+p4238
+S'er| ||, bocce '
+p4239
+(I2
+I2469
+tp4240
+(I16
+I2480
+tp4241
+tp4242
+s(S'|What is the wingspa'
+p4243
+S'|<p> Three Californi'
+p4244
+tp4245
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p4246
+tp4247
+Rp4248
+S'pa|n of a condor'
+p4249
+S'pair of|| condor'
+p4250
+(I17
+I1046
+tp4251
+(I32
+I1060
+tp4252
+tp4253
+s(S'|What is the wingspa'
+p4254
+S'|A fist-sized bundle'
+p4255
+tp4256
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00=@'
+p4257
+tp4258
+Rp4259
+S'hat is the wingspan of |a co'
+p4260
+S'ha|||s ||a wingspan of up to'
+p4261
+(I1
+I1758
+tp4262
+(I28
+I1781
+tp4263
+tp4264
+s(S'|Where can you find '
+p4265
+S'|Magellan sent infor'
+p4266
+tp4267
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p4268
+tp4269
+Rp4270
+S'ere can you |find the Venus '
+p4271
+S'ers |on top , and the cones '
+p4272
+(I2
+I3125
+tp4273
+(I29
+I3152
+tp4274
+tp4275
+s(S'|Where is Belize loc'
+p4276
+S'|BFN     [Text] The '
+p4277
+tp4278
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p4279
+tp4280
+Rp4281
+S'er|||e |i|s Belize '
+p4282
+S'erence with Belize '
+p4283
+(I2
+I815
+tp4284
+(I16
+I834
+tp4285
+tp4286
+s(S'|What was the name o'
+p4287
+S"|Discovery's astrona"
+p4288
+tp4289
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00G@'
+p4290
+tp4291
+Rp4292
+S' the ||name |of the fir|st Russian astronaut |to|||| ||||do a spacewalk'
+p4293
+S' the repair was |performed ||by an astronaut who was taking a spacewalk'
+p4294
+(I8
+I1228
+tp4295
+(I66
+I1296
+tp4296
+tp4297
+s(S'|Where did bocci ori'
+p4298
+S'|And speaking of SJC'
+p4299
+tp4300
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4301
+tp4302
+Rp4303
+S' origina'
+p4304
+S' origina'
+p4305
+(I15
+I397
+tp4306
+(I23
+I405
+tp4307
+tp4308
+s(S'|Where did bocci ori'
+p4309
+S"|Let's hope that the"
+p4310
+tp4311
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4312
+tp4313
+Rp4314
+S' origina'
+p4315
+S' origina'
+p4316
+(I15
+I507
+tp4317
+(I23
+I515
+tp4318
+tp4319
+s(S'|Where is the Danube'
+p4320
+S'|HUNGARY is making a'
+p4321
+tp4322
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4323
+tp4324
+Rp4325
+S'ere i|s th|||||e| Danube'
+p4326
+S'er|ting the river Danube'
+p4327
+(I2
+I53
+tp4328
+(I19
+I76
+tp4329
+tp4330
+s(S'|Where does dew come'
+p4331
+S'|The contract was aw'
+p4332
+tp4333
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00\x1c@'
+p4334
+tp4335
+Rp4336
+S' dew '
+p4337
+S' new '
+p4338
+(I10
+I255
+tp4339
+(I15
+I260
+tp4340
+tp4341
+s(S'|What was the name o'
+p4342
+S'|The long-delayed Co'
+p4343
+tp4344
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80@@'
+p4345
+tp4346
+Rp4347
+S' was ||the name of th||e |||fi|rst Russi||||an||||| |||ast|||r|onaut to |do |a space'
+p4348
+S' |a| vet|e|ra|n of three previous| missions and the oldest person||| to fly in space'
+p4349
+(I4
+I62
+tp4350
+(I62
+I137
+tp4351
+tp4352
+s(S'|Where does dew come'
+p4353
+S'|A newsroom receptio'
+p4354
+tp4355
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00.@'
+p4356
+tp4357
+Rp4358
+S'e does dew come'
+p4359
+S'e does not ||me'
+p4360
+(I4
+I3996
+tp4361
+(I19
+I4009
+tp4362
+tp4363
+s(S'|Where can you find '
+p4364
+S'|Thick , pasty lava '
+p4365
+tp4366
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4367
+tp4368
+Rp4369
+S'he|||re |can you| find the '
+p4370
+S'hey are ``un|ique |in| the '
+p4371
+(I1
+I1193
+tp4372
+(I23
+I1217
+tp4373
+tp4374
+s(S'|Where is Belize loc'
+p4375
+S"|<p> It's not exactl"
+p4376
+tp4377
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4378
+tp4379
+Rp4380
+S'ere |is Belize '
+p4381
+S'er| the Belize '
+p4382
+(I2
+I888
+tp4383
+(I16
+I902
+tp4384
+tp4385
+s(S'|Where did bocci ori'
+p4386
+S"|<p> Star-cross'd ca"
+p4387
+tp4388
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4389
+tp4390
+Rp4391
+S' origina'
+p4392
+S' origina'
+p4393
+(I15
+I1042
+tp4394
+(I23
+I1050
+tp4395
+tp4396
+s(S'|What is the wingspa'
+p4397
+S'|<p> Zookeepers kept'
+p4398
+tp4399
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p4400
+tp4401
+Rp4402
+S' is the wingspan ||of a condor'
+p4403
+S' is the fi|rs||t time a condor'
+p4404
+(I4
+I750
+tp4405
+(I32
+I777
+tp4406
+tp4407
+s(S'|Where did bocci ori'
+p4408
+S'|On the other , ther'
+p4409
+tp4410
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p4411
+tp4412
+Rp4413
+S'Where '
+p4414
+S'Where '
+p4415
+(I0
+I3704
+tp4416
+(I6
+I3710
+tp4417
+tp4418
+s(S'|Where does dew come'
+p4419
+S'|INSTITUTIONS consid'
+p4420
+tp4421
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00(@'
+p4422
+tp4423
+Rp4424
+S' does de||w com'
+p4425
+S' consider a com'
+p4426
+(I5
+I12
+tp4427
+(I18
+I27
+tp4428
+tp4429
+s(S'|Where is the Valley'
+p4430
+S'|Nearly 4 ,000 years'
+p4431
+tp4432
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x008@'
+p4433
+tp4434
+Rp4435
+S' the Valley of the Ki'
+p4436
+S' the |floor of the Fi'
+p4437
+(I8
+I200
+tp4438
+(I29
+I220
+tp4439
+tp4440
+s(S'|Where does dew come'
+p4441
+S'|FOR UK industrialis'
+p4442
+tp4443
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p4444
+tp4445
+Rp4446
+S're do|es|| |dew com'
+p4447
+S'rd boxes . The| com'
+p4448
+(I3
+I3948
+tp4449
+(I18
+I3966
+tp4450
+tp4451
+s(S'|Where is the Valley'
+p4452
+S'|<p> Representatives'
+p4453
+tp4454
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x009@'
+p4455
+tp4456
+Rp4457
+S'he|||r||e is |||the||| Valley |o'
+p4458
+S'her crime in northeast Valley co'
+p4459
+(I1
+I831
+tp4460
+(I21
+I863
+tp4461
+tp4462
+s(S'|albacore'
+p4463
+S'|baecon'
+p4464
+tp4465
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00\x1c@'
+p4466
+tp4467
+Rp4468
+S'ba|co'
+p4469
+S'baeco'
+p4470
+(I2
+I0
+tp4471
+(I6
+I5
+tp4472
+tp4473
+s(S'|How old is the sun?'
+p4474
+S'|If it succeeds , th'
+p4475
+tp4476
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4477
+tp4478
+Rp4479
+S' is the '
+p4480
+S' is the '
+p4481
+(I7
+I1217
+tp4482
+(I15
+I1225
+tp4483
+tp4484
+s(S'|Where did bocci ori'
+p4485
+S'|<p> And you thought'
+p4486
+tp4487
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4488
+tp4489
+Rp4490
+S'e| |did bocci '
+p4491
+S'el hair bocca '
+p4492
+(I4
+I1360
+tp4493
+(I16
+I1374
+tp4494
+tp4495
+s(S'|Where is the Valley'
+p4496
+S'|West Valley (26-6) '
+p4497
+tp4498
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p4499
+tp4500
+Rp4501
+S's the Valley '
+p4502
+S's|t|| Valley '
+p4503
+(I7
+I2
+tp4504
+(I20
+I12
+tp4505
+tp4506
+s(S'|Where is the Valley'
+p4507
+S'|Napa finished 13-17'
+p4508
+tp4509
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4510
+tp4511
+Rp4512
+S'e |||i|s| the Valley of '
+p4513
+S'e against the winner of '
+p4514
+(I4
+I156
+tp4515
+(I23
+I180
+tp4516
+tp4517
+s(S'|How old is the sun?'
+p4518
+S'|Sun said its net in'
+p4519
+tp4520
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p4521
+tp4522
+Rp4523
+S' is the su'
+p4524
+S' in the qu'
+p4525
+(I7
+I422
+tp4526
+(I17
+I432
+tp4527
+tp4528
+s(S'|Where can you find '
+p4529
+S'|Venus may be ``a te'
+p4530
+tp4531
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p4532
+tp4533
+Rp4534
+S'e can you find the Venus |f'
+p4535
+S'e|c|t to| find thousands of'
+p4536
+(I4
+I2801
+tp4537
+(I30
+I2825
+tp4538
+tp4539
+s(S'|Where is the Valley'
+p4540
+S'|<p> Josh Smith sing'
+p4541
+tp4542
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00:@'
+p4543
+tp4544
+Rp4545
+S' Valley of the Ki|n'
+p4546
+S' Valley as the Pion'
+p4547
+(I12
+I1268
+tp4548
+(I30
+I1287
+tp4549
+tp4550
+s(S'|How old is the sun?'
+p4551
+S'|But now a new breed'
+p4552
+tp4553
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4554
+tp4555
+Rp4556
+S' is th|e'
+p4557
+S' is thre'
+p4558
+(I7
+I33
+tp4559
+(I14
+I41
+tp4560
+tp4561
+s(S'|What is the wingspa'
+p4562
+S'|<p> The California '
+p4563
+tp4564
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x005@'
+p4565
+tp4566
+Rp4567
+S' the wings|||pa|n o|f a condor'
+p4568
+S' the fi|rst  California condor'
+p4569
+(I7
+I1291
+tp4570
+(I32
+I1320
+tp4571
+tp4572
+s(S'|What was the name o'
+p4573
+S'|<p> The Discovery a'
+p4574
+tp4575
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00A@'
+p4576
+tp4577
+Rp4578
+S't was the||| |name| ||of |the fir|||st Russian| |astronaut to d|o a spacewalk'
+p4579
+S't was |being pulled from it|s ||reel . Mission  Contro|||l |ordered spacewalk'
+p4580
+(I3
+I923
+tp4581
+(I66
+I992
+tp4582
+tp4583
+s(S'|Where can you find '
+p4584
+S'|Commands radioed 15'
+p4585
+tp4586
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x002@'
+p4587
+tp4588
+Rp4589
+S' you fin|d the Venus '
+p4590
+S' jou||rney t|o Venus '
+p4591
+(I9
+I1572
+tp4592
+(I29
+I1590
+tp4593
+tp4594
+s(S'|Where is the Valley'
+p4595
+S'|HOWARD CARTER by T '
+p4596
+tp4597
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80I@'
+p4598
+tp4599
+Rp4600
+S' is the Valley of the Kings'
+p4601
+S' in the Valley of the Kings'
+p4602
+(I5
+I983
+tp4603
+(I32
+I1010
+tp4604
+tp4605
+s(S'|Where can you find '
+p4606
+S'|<p> Questions erupt'
+p4607
+tp4608
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x80B@'
+p4609
+tp4610
+Rp4611
+S'n| |you| find the Venus| flytrap'
+p4612
+S"ng about how  the Venus' flytrap"
+p4613
+(I8
+I2476
+tp4614
+(I36
+I2508
+tp4615
+tp4616
+s(S'|Where does dew come'
+p4617
+S'|Fostoria , Ohio; A '
+p4618
+tp4619
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p4620
+tp4621
+Rp4622
+S'here does dew co'
+p4623
+S'he|d the| dew po'
+p4624
+(I1
+I705
+tp4625
+(I17
+I719
+tp4626
+tp4627
+s(S'|Where did the ukule'
+p4628
+S"|EDITOR'S NOTE _ Wit"
+p4629
+tp4630
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00*@'
+p4631
+tp4632
+Rp4633
+S'e| did the '
+p4634
+S'ed |in the '
+p4635
+(I4
+I296
+tp4636
+(I14
+I306
+tp4637
+tp4638
+s(S'|Where does dew come'
+p4639
+S'|Two editors complai'
+p4640
+tp4641
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00,@'
+p4642
+tp4643
+Rp4644
+S'here does de|w come| from'
+p4645
+S'he|n they were fired from'
+p4646
+(I1
+I108
+tp4647
+(I24
+I132
+tp4648
+tp4649
+s(S'|Where did bocci ori'
+p4650
+S'|Irma Balderas will '
+p4651
+tp4652
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00$@'
+p4653
+tp4654
+Rp4655
+S'here '
+p4656
+S'here '
+p4657
+(I1
+I564
+tp4658
+(I6
+I569
+tp4659
+tp4660
+s(S'|Where did the ukule'
+p4661
+S'|It was the summer o'
+p4662
+tp4663
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x000@'
+p4664
+tp4665
+Rp4666
+S'Where did the '
+p4667
+S'While |in the '
+p4668
+(I0
+I131
+tp4669
+(I14
+I144
+tp4670
+tp4671
+s(S'|Where is the Danube'
+p4672
+S'|HUNGARY yesterday a'
+p4673
+tp4674
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x007@'
+p4675
+tp4676
+Rp4677
+S'here||| |i|||s the Danube'
+p4678
+S'heme to divert the Danube'
+p4679
+(I1
+I604
+tp4680
+(I19
+I629
+tp4681
+tp4682
+s(S'|Where is the Danube'
+p4683
+S'|Hungary has called '
+p4684
+tp4685
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x006@'
+p4686
+tp4687
+Rp4688
+S' the Danube'
+p4689
+S' the Danube'
+p4690
+(I8
+I592
+tp4691
+(I19
+I603
+tp4692
+tp4693
+s(S'|Where does dew come'
+p4694
+S'|What are we to make'
+p4695
+tp4696
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00&@'
+p4697
+tp4698
+Rp4699
+S'Where does dew co|m||e |f'
+p4700
+S'Wh|at are| we| to make of'
+p4701
+(I0
+I0
+tp4702
+(I21
+I22
+tp4703
+tp4704
+s(S'|Where can you find '
+p4705
+S'|The spacecraft Mage'
+p4706
+tp4707
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x003@'
+p4708
+tp4709
+Rp4710
+S'e| can you ||find |the Venus '
+p4711
+S'et can |be mapped .    Venus '
+p4712
+(I4
+I3208
+tp4713
+(I29
+I3236
+tp4714
+tp4715
+s(S'|Where did the ukule'
+p4716
+S'|<p> George Benson i'
+p4717
+tp4718
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x004@'
+p4719
+tp4720
+Rp4721
+S're di|d| the uku|l||||||ele origin'
+p4722
+S're|minds the  public of his origin'
+p4723
+(I3
+I227
+tp4724
+(I28
+I260
+tp4725
+tp4726
+s(S'|Where did the ukule'
+p4727
+S'|As the bassist and '
+p4728
+tp4729
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x001@'
+p4730
+tp4731
+Rp4732
+S'here did the '
+p4733
+S'her| |in the '
+p4734
+(I1
+I484
+tp4735
+(I14
+I495
+tp4736
+tp4737
+s(S'|What was the name o'
+p4738
+S'|Installing a donut-'
+p4739
+tp4740
+(g4
+(g8
+S'\x00\x00\x00\x00\x00\x00>@'
+p4741
+tp4742
+Rp4743
+S'hat was the n|ame |o||f the first||||| |Rus|||sia|||n| astronaut| to '
+p4744
+S"hat |a| ``donut'' could |be |installed by spacewalking astronauts to "
+p4745
+(I1
+I207
+tp4746
+(I52
+I272
+tp4747
+tp4748
 s.

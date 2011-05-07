@@ -111,7 +111,7 @@ From this ranked output we choose our final answers.
 	the same phrase are then combined together to form one long phrase as the
 	candidate answer string.
 
-\subsection{Question Evaluators}
+\subsection{Answer Evaluators}
 
 \subsubsection{Question-Document Comparison}
 
@@ -188,8 +188,14 @@ from the training corpus.
 For test answers, we searched the context of the answer for colocated units
 matching what we found in the training corpus. We returned a score of 1 if there
 was a unit and a score of 0 if there wasn't.
+
 \subsubsection{Sequence Length}
 % Mike
+This evaluation measures the difference between sequence length of the question
+and the answer. It finds the length of the maximum sequence between the
+question and answer and also finds the length of the maximum sequence between
+the rewritten question and answer. A sequence is a list of (not necessarily 
+consecutive) words that are shared by two sentences.
 
 \subsubsection{Word Vector Comparison}
 
@@ -266,6 +272,12 @@ to mitigate this, we implemented aggressive caching systems, but they did not
 reduce the time to compute too dramatically, and ultimately, the time constraint
 was a very serious one.
 
+We did pre-process some of the data by running the chunker (which creates
+candidate phrases along with part of speech tags) and creating files in
+groups of ten questions each with all of the candidates. Running the chunker
+took about two minutes per question, so by doing this we were able to have
+the whole set of potential candidates instantly ready to go.
+
 %We tried these classifiers separately rather than 
 %We ended using just the SRDA classifier since the others were throwing memory errors.
 The implementation of these classifiers in mlpy required too much memory for
@@ -276,6 +288,12 @@ to solve these problems.
 \item We created a decision list from some of our answer evaluators. We ran the anwers
 through this decision list before sending them to the SRDA learning algorithm.
 \end{itemize}
+
+\subsection{Other choices}
+Since the system was taking too long to run we made several choices in order
+to get meaningful results on which to report on. We decided to specifically analyze
+the "Where" questions since there were 28 of them, which seemed like an appropriate
+amount on which to train on.
 
 \section{Results}
 
