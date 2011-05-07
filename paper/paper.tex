@@ -111,7 +111,7 @@ From this ranked output we choose our final answers.
 	the same phrase are then combined together to form one long phrase as the
 	candidate answer string.
 
-\subsection{Question Evaluators}
+\subsection{Answer Evaluators}
 
 \subsubsection{Question-Document Comparison}
 
@@ -188,8 +188,14 @@ from the training corpus.
 For test answers, we searched the context of the answer for colocated units
 matching what we found in the training corpus. We returned a score of 1 if there
 was a unit and a score of 0 if there wasn't.
+
 \subsubsection{Sequence Length}
 % Mike
+This evaluation measures the difference between sequence length of the question
+and the answer. It finds the length of the maximum sequence between the
+question and answer and also finds the length of the maximum sequence between
+the rewritten question and answer. A sequence is a list of (not necessarily 
+consecutive) words that are shared by two sentences.
 
 \subsubsection{Word Vector Comparison}
 
