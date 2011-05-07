@@ -80,7 +80,7 @@ From this ranked output we choose our final answers.
    \node[process] (a2) [below of=fil]                    {Answer Evaluator};
    \node[process] (a1) [left of=a2]                     {Answer Evaluator};
    \node[process] (a3) [right of=a2]                    {Answer Evaluator};
-   \node[machine] (as) [below of=a2]                    {Score aggregator};
+   \node[machine] (as) [below of=a2]                    {Score Aggregator};
    \node[data] (A) [below of=as]                        {Answer};
    
    % edges
@@ -128,7 +128,7 @@ candidate answer string.
 
 We implemented a system to compare the question and answer against the proposed
 document in two ways:  one, with a na\"ive diffing algorithm that simply seeks
-out the longest indentical sequence, and one by implementing the Smith-Waterman
+out the longest identical sequence, and one by implementing the Smith-Waterman
 local alignment
 algorithm.\footnote{\url{http://en.wikipedia.org/wiki/Smith-Waterman_algorithm}}
 We also implemented a system to attempt to re-write questions, discussed below,
@@ -165,7 +165,7 @@ question.
 
 \subsubsection{Punctuation}
 
-1 if the candidate answer is immmediately followed by a comma, period, quotation
+1 if the candidate answer is immediately followed by a comma, period, quotation
 marks, semicolon, or exclamation mark, and 0 otherwise. This is a good heuristic
 by which to rank candidate answers since it retrieves a property from the
 context where the answer appears in the document.
@@ -190,12 +190,12 @@ classified as quantity-type answers.
 \subsubsection{Measurement Units or Matching Type Filters}
 % Tom
 For quantity-type answer candidates, we used simple regular expressions to
-extract the proceeding and preceeding space-delimited phrases. This is quite
+extract the proceeding and preceding space-delimited phrases. This is quite
 close to a lay definition of ``word''; for the answer candidate ``about 350
 km/h'', the phrases ``about'' and ``km/h'' would be extracted as units. We
 extracted the units from the training corpus.
 
-For test answers, we searched the context of the answer for colocated units
+For test answers, we searched the context of the answer for co-located units
 matching what we found in the training corpus. We returned a score of 1 if there
 was a unit and a score of 0 if there wasn't.
 
@@ -303,15 +303,16 @@ us to run the models on the all of the candidate answers. We used two main appro
 to solve these problems.
 \begin{itemize}
 \item We used SRDA because it seemed to handle the largest sample size.
-\item We created a decision list from some of our answer evaluators. We ran the anwers
-through this decision list before sending them to the SRDA learning algorithm.
+\item We created a decision list from some of our answer evaluators. We ran the
+answers through this decision list before sending them to the SRDA learning
+algorithm.
 \end{itemize}
 
 \subsection{Other choices}
 Since the system was taking too long to run we made several choices in order
 to get meaningful results on which to report on. We decided to specifically analyze
 the ``Where'' questions since there were 28 of them, which seemed like an appropriate
-amount to train on. We ran into some prombles with some of these questions, so we
+amount to train on. We ran into some problems with some of these questions, so we
 actually only used 24 of these questions. 
 
 \section{Results}
@@ -319,7 +320,7 @@ actually only used 24 of these questions.
 \begin{tabular}{llcc}
 %\toprule
 \cmidrule{2-4}
-               &       & Number correct & Mean recipricol rank\\
+               &       & Number correct & Mean reciprocal rank\\
 \cmidrule{2-4}
 9 Training&Punctuation location &   0            &      0              \\
 questions&Novelty factor       &    0           &       0             \\
@@ -391,10 +392,29 @@ question right.
 \item The answers are then passed into our scorer
 \end{itemize}
 
-\subsection{Graphical Methods}
-
-\subsection{Best Run Results}
-
 \section{Conclusion}
+
+Unfortunately, our system took much longer than expected to run, so we were
+only able to run it on very small input sets, which produced, well, awful
+results.
+
+This prevents us from drawing conclusions about the efficacy of the methods we
+used except for the following:
+
+SRDA, at least in this implementation, is probably too resource-intensive for
+use in this sort of context, where we generate tens of thousands of potential
+answer candidates and ascribe to them many different features.
+
+Either we got unlucky (with this small sample size, it is quite likely), or
+SRDA doesn't perform well with small training sets.  This is to be expected,
+but is still disheartening.
+
+Had we been able to run the system on a deeper training set and over more
+questions in the test set (and, ideally, over a validation set to tweak the
+values of various components, particularly that of the sequence aligner), we
+would have liked to make conclusions about the efficacy of the various
+techniques, particularly sequence alignment, which we believe has some promise
+that the NLP community seems to have overlooked.  Of course, it is not a very
+fast method either on these datasets, so it may also be too slow for common use.
 
 \end{document}
