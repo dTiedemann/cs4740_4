@@ -315,6 +315,14 @@ the ``Where'' questions since there were 28 of them, which seemed like an approp
 amount to train on. We ran into some problems with some of these questions, so we
 actually only used 24 of these questions. 
 
+\section{Experiment design}
+For our experiment, we tried a few runs of the system. We ran the system with
+punctuation location on, novelty factor on and both on.
+We ran the system with a training corpus of 9 ``Where''-type questions.
+%We repeated each of these for two training corpus sizes: 9 questions and 24 questions.
+We tested our models on two test questions and measured the number correct and
+mean recipricol rank for the test questions.
+
 \section{Results}
 \begin{table}
 \begin{tabular}{llcc}
@@ -325,10 +333,10 @@ actually only used 24 of these questions.
 9 Training&Punctuation location &   0            &      0              \\
 questions&Novelty factor       &    0           &       0             \\
 &Both                 &             0  &                0    \\
-\cmidrule{2-4}
-24 Training&Punctuation location &                &                     \\
-questions&Novelty factor       &                &                     \\
-&Both                 &                &                     \\
+%\cmidrule{2-4}
+%24 Training&Punctuation location &                &                     \\
+%questions&Novelty factor       &                &                     \\
+%&Both                 &                &                     \\
 \cmidrule{2-4}
 %\bottomrule
 \end{tabular}
