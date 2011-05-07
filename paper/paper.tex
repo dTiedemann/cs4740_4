@@ -10,6 +10,7 @@
 \tikzstyle{machine} = [star, star points=7, star point ratio=0.8, draw, text width=5em, text badly centered, node distance=3cm, inner sep=0pt]
 \tikzstyle{data} = [trapezium, trapezium left angle=70, trapezium right angle=-70, draw,text centered]
 \tikzstyle{process} = [rectangle, draw, text width=5em, text centered, rounded corners, minimum height=4em] 
+\tikzstyle{null} = []
 
 \addtolength{\textwidth}{10pt}
 
@@ -28,6 +29,14 @@ Whitney Foster\\
 \maketitle
 
 \section{Overview}
+
+CAT-DWAM is a system that uses spectral regression discriminant analysis, a
+supervised classification algorithm, to assemble and analyze a variety of
+disparate indicators for accuracy.
+
+By using a machine learner, we aim to answer questions without relying on
+hand-written judgements of rules, although for performance reasons we were
+forced to use some rules to narrow down the input set.
 
 % What are you doing. Why are you doing it.
 % ``this is effectively a statement of your hypothesis, so you should
@@ -65,7 +74,8 @@ From this ranked output we choose our final answers.
    % nodes
    \node[data] (Q)                                      {Question};
    \node[process] (ch) [below of=Q]                     {Chunker};
-   \node[data] (docs) [right of=ch]                     {Documents};
+   \node[null] (xx) [right of=ch]                     {};
+   \node[data] (docs) [right of= xx]                     {Documents};
    \node[process] (fil) [below of=ch]                     {Filter};
    \node[process] (a2) [below of=fil]                    {Answer Evaluator};
    \node[process] (a1) [left of=a2]                     {Answer Evaluator};
@@ -80,6 +90,7 @@ From this ranked output we choose our final answers.
 	\draw[->] (fil.south) to [out=270, in=90] (a1);
 	\draw[->] (fil.south) to [out=270, in=90] (a2);
 	\draw[->] (fil.south) to [out=270, in=90] (a3);
+	\draw[->] (Q.east) to [out=0, in=0] (fil);
 	\draw[->] (Q.west) to [out=180, in=180] (a1);
 	\draw[->] (Q.west) to [out=180, in=180] (a2);
 	\draw[->] (Q.west) to [out=180, in=180] (a3);
@@ -95,95 +106,94 @@ From this ranked output we choose our final answers.
 
 \subsection{Parsing the Corpus Documents}
 % Talk about Whitney's Shredder module here
-	To get candidate answers we took in the question number, parsed the
-	documents associated with it by chunking it into syntactically correlated
-	parts of words (noun phrases, verb phrase, etc), and outputted a list of
-	tuple candidate answers.  These were in the format (string of candidate
-	answer, document number, word index in the document, the phrase tag,
-	question number). 
+To get candidate answers we took in the question number, parsed the
+documents associated with it by chunking it into syntactically correlated
+parts of words (noun phrases, verb phrase, etc), and outputted a list of
+tuple candidate answers.  These were in the format (string of candidate
+answer, document number, word index in the document, the phrase tag,
+question number). 
 
-	To chunk the documents for the question, we prepared them by separating out
-	the punctuation and the words with a space so that the taggers would work.
-	We then POS tag all the words in the document and then get the IOB chunk
-	tags for all the words. This data is then run through the conll.2000 chunker
-	(http://www.clips.ua.ac.be/conll2000/chunking/) that labels what type of
-	phrase the word belongs to (noun phrase, verb phrase, etc). The words in
-	the same phrase are then combined together to form one long phrase as the
-	candidate answer string.
+To chunk the documents for the question, we prepared them by separating out
+the punctuation and the words with a space so that the taggers would work.
+We then POS tag all the words in the document and then get the IOB chunk
+tags for all the words. This data is then run through the conll.2000 chunker
+(http://www.clips.ua.ac.be/conll2000/chunking/) that labels what type of
+phrase the word belongs to (noun phrase, verb phrase, etc). The words in
+the same phrase are then combined together to form one long phrase as the
+candidate answer string.
 
 \subsection{Answer Evaluators}
 
 \subsubsection{Question-Document Comparison}
 
-	We implemented a system to compare the question and answer against the
-	proposed document in two ways:  one, with a na\"ive diffing algorithm that
-	simply seeks out the longest indentical sequence, and one by implementing
-	the Smith-Waterman local alignment
-	algorithm.\footnote{\url{http://en.wikipedia.org/wiki/Smith-Waterman_algorithm}}
-	We also implemented a system to attempt to re-write questions, discussed
-	below, and applied these same techniques to the re-written question
+We implemented a system to compare the question and answer against the proposed
+document in two ways:  one, with a na\"ive diffing algorithm that simply seeks
+out the longest indentical sequence, and one by implementing the Smith-Waterman
+local alignment
+algorithm.\footnote{\url{http://en.wikipedia.org/wiki/Smith-Waterman_algorithm}}
+We also implemented a system to attempt to re-write questions, discussed below,
+and applied these same techniques to the re-written question
 
-	The na\"ive method does an adequate job when the document highly resembles
-	the question, but does very poorly otherwise because it has no tolerance of
-	faults.  The local alignment does much better for documents that resemble
-	the question a great deal, but are not precise - it can smoothly deal with
-	small differences, and still produce a good alignment.  This is a standard
-	technique from bioinformatics, and is used extensively to align small
-	sequences of DNA, RNA or protein against a larger corpus, such as a
-	chromosome or a whole genome.  This is a fairly similar usage to aligning a
-	question against a document which is much longer than the question.
+The na\"ive method does an adequate job when the document highly resembles the
+question, but does very poorly otherwise because it has no tolerance of faults.
+The local alignment does much better for documents that resemble the question a
+great deal, but are not precise - it can smoothly deal with small differences,
+and still produce a good alignment.  This is a standard technique from
+bioinformatics, and is used extensively to align small sequences of DNA, RNA or
+protein against a larger corpus, such as a chromosome or a whole genome.  This
+is a fairly similar usage to aligning a question against a document which is
+much longer than the question.
 
-	We chose Smith-Waterman over the similar Needleman-Wunsch, of which is a
-	special case, because Needleman-Wunsch creates a \emph{global} alignment,
-	which forces all of the characters in both strings to align.  This leads to
-	the insertion of many gaps, and needlessly aligns words which are useless,
-	for example, ``Who is Queen of England?'' should align well against
-	``Elizabeth is Queen of England'' and it does, under Smith-Waterman, but the
-	``who'' causes Needleman-Wunsch to choke.  Similarly, Needleman-Wunsch does
-	not excuse one string for being shorter than the other, and chokes on all of
-	the apparent gaps that it needs to insert, so it is not a good choice.
+We chose Smith-Waterman over the similar Needleman-Wunsch, of which is a special
+case, because Needleman-Wunsch creates a \emph{global} alignment, which forces
+all of the characters in both strings to align.  This leads to the insertion of
+many gaps, and needlessly aligns words which are useless, for example, ``Who is
+Queen of England?'' should align well against ``Elizabeth is Queen of England''
+and it does, under Smith-Waterman, but the ``who'' causes Needleman-Wunsch to
+choke.  Similarly, Needleman-Wunsch does not excuse one string for being shorter
+than the other, and chokes on all of the apparent gaps that it needs to insert,
+so it is not a good choice.
 
-	We locate what we best believe to be the question via these two methods, and
-	then evaluate how far away from that segment of the document the answer is.
-	If it is fairly close, that is a good indicator that it is highly related to
-	the question, but if it is far, it is likely to be unrelated.  We output
-	that distance, and either the length of the na\"ive alignment or the score
-	that Smith-Waterman produces (higher is better for both) because very short
-	or very poor alignments are less likely to reflect an actual representation
-	of the question.
+We locate what we best believe to be the question via these two methods, and
+then evaluate how far away from that segment of the document the answer is.  If
+it is fairly close, that is a good indicator that it is highly related to the
+question, but if it is far, it is likely to be unrelated.  We output that
+distance, and either the length of the na\"ive alignment or the score that
+Smith-Waterman produces (higher is better for both) because very short or very
+poor alignments are less likely to reflect an actual representation of the
+question.
 
 \subsubsection{Punctuation}
 
-	1 if the candidate answer is immmediately followed by a comma, period,
-	quotation marks, semicolon, or exclamation mark, and 0 otherwise. This is a
-	good heuristic by which to rank candidate answers since it retrieves a
-	property from the context where the answer appears in the document.
+1 if the candidate answer is immmediately followed by a comma, period, quotation
+marks, semicolon, or exclamation mark, and 0 otherwise. This is a good heuristic
+by which to rank candidate answers since it retrieves a property from the
+context where the answer appears in the document.
 
 \subsubsection{Apposition Filter}
 % Alec
 
-	Because we thought it would be difficult to analyze complete parse
-	information for questions, we decided to tackle apposition by a simple
-	heuristic:  does "question, answer," align better than "question answer"?
-	If it does, then the answer is likely to be in apposition.  We also applied
-	this to re-written questions.
-
+Because we thought it would be difficult to analyze complete parse information
+for questions, we decided to tackle apposition by a simple heuristic:  does
+"question, answer," align better than "question answer"?  If it does, then the
+answer is likely to be in apposition.  We also applied this to re-written
+questions.
 
 \subsubsection{Number and Quantity Answer Type Filters}
 % Tom
 We used regular expressions to identify answer candidates that contained digits.
 We classified these candidates as number-type answers or quantity-type answers.
 Answer candidates containing exclusively digits were classified as number-type
-answers, and answer candidates containing digits and other characters were classified
-as quantity-type answers.
+answers, and answer candidates containing digits and other characters were
+classified as quantity-type answers.
 
 \subsubsection{Measurement Units or Matching Type Filters}
 % Tom
-For quantity-type answer candidates, we used simple regular expressions to extract
-the proceeding and preceeding space-delimited phrases. This is quite close to a
-lay definition of ``word''; for the answer candidate ``about 350 km/h'', the
-phrases ``about'' and ``km/h'' would be extracted as units. We extracted the units
-from the training corpus.
+For quantity-type answer candidates, we used simple regular expressions to
+extract the proceeding and preceeding space-delimited phrases. This is quite
+close to a lay definition of ``word''; for the answer candidate ``about 350
+km/h'', the phrases ``about'' and ``km/h'' would be extracted as units. We
+extracted the units from the training corpus.
 
 For test answers, we searched the context of the answer for colocated units
 matching what we found in the training corpus. We returned a score of 1 if there
@@ -192,9 +202,9 @@ was a unit and a score of 0 if there wasn't.
 \subsubsection{Sequence Length}
 % Mike
 This evaluation measures the difference between sequence length of the question
-and the answer. It finds the length of the maximum sequence between the
-question and answer and also finds the length of the maximum sequence between
-the rewritten question and answer. A sequence is a list of (not necessarily 
+and the answer. It finds the length of the maximum sequence between the question
+and answer and also finds the length of the maximum sequence between the
+rewritten question and answer. A sequence is a list of (not necessarily
 consecutive) words that are shared by two sentences.
 
 \subsubsection{Word Vector Comparison}
@@ -221,28 +231,30 @@ matter much.
 
 \subsubsection{Part of Speech Matching}
 % Craig
-The chunker module assigns one of four part of speech tags to each answer candidate
-phrase. We discard (assign 0 to) the answer candidate if the tag is either PP (Prepositional Phrase) 
-or S (simple declarative clause). If the answer candidate is NP (Noun Phrase) we 
-assign it a probability of 1 (most likely). If the answer candidate is VP (Verb Phrase
-we assign it a probability of 0.1 (not very likely). It is possible that a higher score would be
-obtained if we also discarded verb phrases entirely, since the short question format typically
+The chunker module assigns one of four part of speech tags to each answer
+candidate phrase. We discard (assign 0 to) the answer candidate if the tag is
+either PP (Prepositional Phrase) or S (simple declarative clause). If the answer
+candidate is NP (Noun Phrase) we assign it a probability of 1 (most likely). If
+the answer candidate is VP (Verb Phrase we assign it a probability of 0.1 (not
+very likely). It is possible that a higher score would be obtained if we also
+discarded verb phrases entirely, since the short question format typically
 will point to a noun phrase.
 
 \subsection{Score Aggregation}
-We used supervised classification algorithms to aggregate the scores produced
-by the separate answer evaluators. We trained the classifiers to predict whether
-a candidate answer was correct based on the scores produced by the answer evaluators.
+We used supervised classification algorithms to aggregate the scores produced by
+the separate answer evaluators. We trained the classifiers to predict whether a
+candidate answer was correct based on the scores produced by the answer
+evaluators.
 
 Each of the answer evaluators produced at least one numerical for each answer
-candidate; we used these as predictors for the classification algorithms.
-If we thought that some of these predictors might interact, we used their products
-as predictors as well.
+candidate; we used these as predictors for the classification algorithms.  If we
+thought that some of these predictors might interact, we used their products as
+predictors as well.
 
-For each candidate answer, we checked whether that candidate was a correct answer based on
-the regular expressions. We used the correctness of the answer (correct or incorrect)
-as the response. We were thus able to predict whether an answer was correct
-based on the scores from the answer evaluators.
+For each candidate answer, we checked whether that candidate was a correct
+answer based on the regular expressions. We used the correctness of the answer
+(correct or incorrect) as the response. We were thus able to predict whether an
+answer was correct based on the scores from the answer evaluators.
 
 The classifiers that we attempted were
 \begin{itemize}
@@ -251,6 +263,10 @@ The classifiers that we attempted were
 \item Spectral Regression Discriminant Analysis (SRDA) and
 \item Penalized Discriminant Analysis (PDA)
 \end{itemize}
+
+Unfortunately, the SRDA system attempted to allocate tens of gigabytes of RAM in
+order to perform its analysis of the training data, and crashed.  So we were
+forced to thin the candidates.
 
 \subsection{Candidate Thinning}
 
